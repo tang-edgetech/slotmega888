@@ -1,0 +1,60 @@
+
+:root {
+    --fw-light: 300;
+    --fw-regular: 400;
+    --fw-medium: 500;
+    --fw-semi-bold: 600;
+    --fw-bold: 700;
+    --fw-extra-bold: 800;
+    --fw-black: 900;
+}
+* {
+    box-sizing: border-box;
+    position: relative;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-size: 16px;
+    line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6, p, a, li, a, th, td, input, textarea, select, label, button {
+
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: var(--fw-bold);
+}
+p, a, li, a, th, td, input, textarea, select, label, button {
+    font-weight: var(--fw-regular);
+}
+h2, .h2 {
+    font-size: 50px;
+    line-height: 62px;
+}
+h3, .h3 {
+    font-size: 32px;
+    line-height: 40px;
+}
+h4, .h4 {
+    font-size: 24px;
+    line-height: 32px;
+}
+h5, .h5 {
+    font-size: 20px;
+    line-height: 28px;
+}
+h6, .h6, p, a, li, a, th, td, input, textarea, select, label, button {
+    font-size: 16px;
+    line-height: 24px;
+}
+a, a:hover, a:focus, a:visited, button, button:hover, button:focus, button:visited {
+    border: none;
+    box-shadow: none;
+    outline: none;
+    text-decoration: none;
+}
+a, button, .btn, a.btn, button.btn {
+    transition: all 0.3s ease;
+}
