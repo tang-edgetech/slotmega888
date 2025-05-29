@@ -1,5 +1,7 @@
-
 :root {
+    --primary-black: #111;
+    --primary-white: #fff;
+    --text-default: #636363;
     --fw-light: 300;
     --fw-regular: 400;
     --fw-medium: 500;
@@ -7,6 +9,7 @@
     --fw-bold: 700;
     --fw-extra-bold: 800;
     --fw-black: 900;
+    --font-poppins: "Poppins", sans-serif;
 }
 * {
     box-sizing: border-box;
@@ -19,6 +22,37 @@ html, body {
     -webkit-font-smoothing: antialiased;
     font-size: 16px;
     line-height: 24px;
+    background: var(--primary-black);
+    font-family: var(--font-poppins);
+    color: var(--primary-black);
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex: 1;
+    padding-top: 100px;
+}
+#masthead {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9;
+}
+#masthead .navbar-nav {
+    gap: 20px;
+}
+#masthead .nav-item .nav-link {
+    color: var(--text-default);
+}
+#masthead .nav-item .nav-link:hover {
+    color: var(--primary-black);
+}
+.navbar-collapse {
+    z-index: 10;
 }
 h1, h2, h3, h4, h5, h6, p, a, li, a, th, td, input, textarea, select, label, button {
 
@@ -51,10 +85,185 @@ h6, .h6, p, a, li, a, th, td, input, textarea, select, label, button {
 }
 a, a:hover, a:focus, a:visited, button, button:hover, button:focus, button:visited {
     border: none;
-    box-shadow: none;
+    box-shadow: none!important;
     outline: none;
     text-decoration: none;
 }
-a, button, .btn, a.btn, button.btn {
+a, button, .btn, a.btn, button.btn, .share-button::before {
     transition: all 0.3s ease;
+}
+.btn-copy-clipboard, .btn-copy-clipboard:hover {
+    background: #0d6efd;
+    padding: 6px 12px;
+    border: none;
+}
+.btn-copy-clipboard, .btn-copy-clipboard:hover, .copy-msg {
+    color: #fff;
+}
+.copy-msg {
+    display: none;
+    position: absolute;
+    background: #000;
+    top: -30px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    padding: 3px 8px;
+    border-radius: 6px;
+}
+.copy-msg::before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    border-width: 8px;
+    border-style: solid;
+    border-right: 8px solid transparent;
+    border-color: #000 transparent transparent;
+    width: 0;
+    height: 0;
+    bottom: -15px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.copy-clipboard {
+    max-width: 100%;
+    width: 100%;
+}
+.copy-clipboard i {
+    font-size: 24px;
+    line-height: 1;
+}
+.copy-clipboard p {
+    flex: 1;
+    text-overflow: ellipsis;
+    text-align: center;
+    overflow: hidden;
+}
+.img-fit {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center center;
+}
+.navbar {
+    box-shadow: 0 3px 10px 3px rgba(255, 255, 255, 0.3);
+}
+.navbar-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.navbar-brand {
+    display: block;
+    width: 150px;
+}
+.navbar-toggler, .quad-box, .quad-inner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 4px;
+}
+.navbar-toggler {
+    width: 46px;
+    height: 46px;
+    padding: 8px;
+    flex-direction: column;
+}
+.navbar-toggler, .navbar-toggler:hover, .navbar-toggler:focus, .navbar-toggler:visited {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+.navbar-toggler:hover, .btn-copy-clipboard:hover, .share-buttons .share-button:hover::before, .link:hover, a.link:hover {
+    opacity: 0.8;
+}
+.quad-box {
+    height: 100%;
+}
+.quad-inner {
+    position: absolute;
+    bottom: 0;
+}
+.quad-box::before, .quad-box::after, .quad-inner::before, .quad-inner::after {
+    content: '';
+    display: inline-block;
+    position: relative;
+    width: 13px;
+    height: 13px;
+    border-radius: 3px;
+    background: var(--primary-black);
+}
+.share-this svg {
+    width: 20px;
+    height: 20px;
+}
+.share-this svg path {
+    fill: #636363;
+}
+.share-this:hover svg path {
+    fill: var(--primary-black);
+}
+.modal .modal-content > div[class*='modal-'] {
+    width: 100%;
+}
+.modal .modal-content > div[class*='modal-'] > * {
+    margin: 0;
+}
+.share-buttons {
+    display: flex;
+    flex-wrap: wrap;
+}
+.share-button {
+    width: 52px;
+    height: 52px;
+    padding: 8px;
+    background-color: transparent;
+}
+.share-button::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 36px;
+    height: 36px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.share-button.facebook::before {
+    background-image: url(../images/social-media/icon-facebook.png);
+}
+.share-button.instagram::before {
+    background-image: url(../images/social-media/icon-instagram.png);
+}
+.share-button.whatsapp::before {
+    background-image: url(../images/social-media/icon-whatsapp.png);
+}
+.share-button.linkedin::before {
+    background-image: url(../images/social-media/icon-linkedin.png);
+}
+.share-button.telegram::before {
+    background-image: url(../images/social-media/icon-telegram.png);
+}
+.share-button.twitter::before {
+    background-image: url(../images/social-media/icon-twitter.png);
+}
+.share-button.line::before {
+    background-image: url(../images/social-media/icon-line.png);
+}
+.link, a.link {
+    color: var(--primary-white);
+    text-decoration: underline;
+}
+#mastfoot {
+    background: #222529;
+}
+.footer-logo {
+    border-bottom: 1px solid #fff;
+}
+.copyright {
+    padding: 20px 0;
 }
