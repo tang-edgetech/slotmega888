@@ -51,8 +51,21 @@ main {
 #masthead .nav-item .nav-link:hover {
     color: var(--primary-black);
 }
+#masthead .dropdown-menu {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#masthead .dropdown-item {
+    padding: 8px 16px;
+}
+#masthead .dropdown-item:hover {
+    background-color: #d7d7d7;
+}
 .navbar-collapse {
     z-index: 10;
+}
+.app {
+    min-height: 100vh;
 }
 h1, h2, h3, h4, h5, h6, p, a, li, a, th, td, input, textarea, select, label, button {
 
@@ -175,7 +188,7 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
     border: none;
     box-shadow: none;
 }
-.navbar-toggler:hover, .btn-copy-clipboard:hover, .share-buttons .share-button:hover::before, .link:hover, a.link:hover {
+.navbar-toggler:hover, .btn-copy-clipboard:hover, .share-buttons .share-button:hover::before, .link:hover, a.link:hover, .footer-nav .nav-item .nav-link:hover, .floating-list-inner .floating-item:hover {
     opacity: 0.8;
 }
 .quad-box {
@@ -264,6 +277,107 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
 .footer-logo {
     border-bottom: 1px solid #fff;
 }
+.footer .social-media {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.footer .social-media .nav-item {
+    width: 35px;
+    height: 35px;
+}
+.footer .social-media .nav-item .nav-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+.footer .social-media .nav-item .nav-link:hover {
+    opacity: 0.8;
+}
+.footer .social-media .nav-item .nav-link::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.footer .social-media .nav-item.facebook .nav-link::before {
+    background-image: url(../images/social-media/icon-facebook.png);
+}
+.footer .social-media .nav-item.instagram .nav-link::before {
+    background-image: url(../images/social-media/icon-instagram.png);
+}
+.footer .social-media .nav-item.linkedin .nav-link::before {
+    background-image: url(../images/social-media/icon-linkedin.png);
+}
+.footer .social-media .nav-item.telegram .nav-link::before {
+    background-image: url(../images/social-media/icon-telegram.png);
+}
+.footer .social-media .nav-item.whatsapp .nav-link::before {
+    background-image: url(../images/social-media/icon-whatsapp.png);
+}
+.footer .social-media .nav-item.line .nav-link::before {
+    background-image: url(../images/social-media/icon-line.png);
+}
+.footer .social-media .nav-item.twitter .nav-link::before {
+    background-image: url(../images/social-media/icon-twitter.png);
+}
+.footer .social-media .nav-item.pinterest .nav-link::before {
+    background-image: url(../images/social-media/icon-pinterest.png);
+}
+.footer .social-media .nav-item.email .nav-link::before {
+    background-image: url(../images/social-media/icon-email.png);
+}
 .copyright {
     padding: 20px 0;
+}
+.map-iframe {
+    height: 250px;
+}
+.map-iframe iframe, iframe {
+    width: 100%;
+    height: 100%;
+}
+.floating-list {
+    display: none;
+    position: fixed;
+    bottom: 15px;
+    right: 25px;
+}
+.floating-list-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+.floating-list-inner .floating-item {
+    width: 52px;
+    height: 52px;
+    background: #fff;
+    border-radius: 26px;
+}
+.floating-list-inner .floating-item  a, .floating-list-inner .floating-item svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.back-to-top {
+    cursor: pointer;
+}
+.floating-item.whatsapp {
+    transform-origin: center center;
+    animation: rotateInfinite 10s infinite linear;
+    animation-delay: 2s;
+}
+@keyframes rotateInfinite {
+    100% {
+        transform: rotate(360deg);
+    }
 }
