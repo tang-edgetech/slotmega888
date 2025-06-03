@@ -3,7 +3,7 @@
         <div class="navbar-row">
             <a href="." class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="images/logo-mega888.png" class="img-fit"/>
+                <img src="./images/logo-mega888.png" class="img-fit"/>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="d-none">Open Mobile Menu</span>

@@ -9,7 +9,7 @@ include 'inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="http://127.0.0.1/websites/ln_tang_edgetech/slotmega888/">
+        <base href="http://localhost/slotmega888/">
         <title><?php echo $page_title;?></title>
         <?php include 'inc/stylesheet.php';?>
     </head>
@@ -17,6 +17,39 @@ include 'inc/functions.php';
         <?php include 'inc/navbar.php';?>
         <main class="app" id="app">
 
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                            <div class="text-editor">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                            <div class="text-editor">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                            <div class="text-editor">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </main>
         <?php include 'inc/footer.php';?>
         <?php include 'inc/popup-share-this.php';?>
