@@ -24,19 +24,19 @@ include 'inc/functions.php';
                             <div class="text-editor">
                                 <h2>Table of Content</h2>
                                 <ol>
-                                    <li><a href="#toc1">Best Real Slot Mega888 App Download [Android & iOS]</a></li>
-                                    <li><a href="#toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</a></li>
-                                    <li><a href="#toc3">Trusted Mega888 APK Download for Android Users</a></li>
-                                    <li><a href="#toc4">Installing Mega888 on iPhone Without App Store</a></li>
-                                    <li><a href="#toc5">Common Problems with Mega888 App (and How to Fix Them)</a></li>
-                                    <li><a href="#toc6">Mega888 register in Less Than 2 Minutes</a></li>
-                                    <li><a href="#toc7">How to Add Money or Cash Out on Mega888</a></li>
-                                    <li><a href="#toc8">Grab These Mega888 Bonuses Before They Expire</a></li>
-                                    <li><a href="#toc9">Mega888 Winning Strategies & Guides</a></li>
-                                    <li><a href="#toc10">Is Mega888 Safe to Download and Use?</a></li>
-                                    <li><a href="#toc11">Slotmega888.app Commitment to Responsible Gambling</a></li>
-                                    <li><a href="#toc12">Your Data is Private and Here’s How We Protect It</a></li>
-                                    <li><a href="#toc13">Frequently Asked Questions (FAQ)</a></li>
+                                    <li><a class="link" href="#toc1">Best Real Slot Mega888 App Download [Android & iOS]</a></li>
+                                    <li><a class="link" href="#toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</a></li>
+                                    <li><a class="link" href="#toc3">Trusted Mega888 APK Download for Android Users</a></li>
+                                    <li><a class="link" href="#toc4">Installing Mega888 on iPhone Without App Store</a></li>
+                                    <li><a class="link" href="#toc5">Common Problems with Mega888 App (and How to Fix Them)</a></li>
+                                    <li><a class="link" href="#toc6">Mega888 register in Less Than 2 Minutes</a></li>
+                                    <li><a class="link" href="#toc7">How to Add Money or Cash Out on Mega888</a></li>
+                                    <li><a class="link" href="#toc8">Grab These Mega888 Bonuses Before They Expire</a></li>
+                                    <li><a class="link" href="#toc9">Mega888 Winning Strategies & Guides</a></li>
+                                    <li><a class="link" href="#toc10">Is Mega888 Safe to Download and Use?</a></li>
+                                    <li><a class="link" href="#toc11">Slotmega888.app Commitment to Responsible Gambling</a></li>
+                                    <li><a class="link" href="#toc12">Your Data is Private and Here’s How We Protect It</a></li>
+                                    <li><a class="link" href="#toc13">Frequently Asked Questions (FAQ)</a></li>
                                 </ol>
                             </div>
                         </div>

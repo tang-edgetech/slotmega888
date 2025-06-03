@@ -1,5 +1,6 @@
 $(document).ready(function() {
-	console.log('Ready');
+	var lastScrollTop = 0,
+		navbar = $('#masthead');
 	$('.share-button').click(function() {
 		const network = $(this).data('network');
 		const pageUrl = encodeURIComponent(window.location.href);
@@ -75,6 +76,7 @@ $(document).ready(function() {
 	floatingFunctionOnScroll();
 	$(window).bind('scroll', function() {
 		floatingFunctionOnScroll();
+		headerScrollDetection();
 	});
 	function floatingFunctionOnScroll() {
 		var $scrollTop = $(window).scrollTop();
@@ -84,5 +86,20 @@ $(document).ready(function() {
 		else {
 			$('.floating-list').fadeOut();
 		}
+	}
+	function headerScrollDetection() {
+		var scrollTop = $(this).scrollTop();
+
+		if (scrollTop > 70) {
+			if (scrollTop > lastScrollTop) {
+				navbar.addClass('scroll-down');
+			} else {
+				navbar.removeClass('scroll-down');
+			}
+		} else {
+			navbar.removeClass('scroll-down');
+		}
+
+		lastScrollTop = scrollTop;
 	}
 });

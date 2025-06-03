@@ -24,7 +24,7 @@ html, body {
     line-height: 24px;
     background: var(--primary-black);
     font-family: var(--font-poppins);
-    color: var(--primary-black);
+    color: var(--primary-white);
 }
 body {
     min-height: 100vh;
@@ -40,7 +40,11 @@ main {
     top: 0;
     left: 0;
     width: 100%;
+    transition: all 0.3s linear;
     z-index: 9;
+}
+#masthead.scroll-down {
+    transform: translateY(-100px);
 }
 #masthead .navbar-nav {
     gap: 20px;
@@ -67,26 +71,26 @@ main {
 .app {
     min-height: 100vh;
 }
-h1, h2, h3, h4, h5, h6, p, a, li, a, th, td, input, textarea, select, label, button {
-
+section {
+    padding: 90px 0;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-weight: var(--fw-bold);
+    font-weight: var(--fw-semi-bold);
 }
 p, a, li, a, th, td, input, textarea, select, label, button {
     font-weight: var(--fw-regular);
 }
 h2, .h2 {
-    font-size: 50px;
-    line-height: 62px;
+    font-size: 42px;
+    line-height: 52px;
 }
 h3, .h3 {
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 35px;
+    line-height: 42px;
 }
 h4, .h4 {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 28px;
+    line-height: 35px;
 }
 h5, .h5 {
     font-size: 20px;
