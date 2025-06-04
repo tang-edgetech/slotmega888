@@ -87,16 +87,6 @@ include 'inc/functions.php';
                 </div>
             </section>
 
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
-                            
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <section class="availabe" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
@@ -123,24 +113,68 @@ include 'inc/functions.php';
                     </div>
                 </div>
             </section>
+
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
-                                <p><b>Key Takeaways</b></p>
-                                <ul>
-                                    <li>Official app download for Android (APK) and iOS</li>
-                                    <li>Safe and private installation walkthrough</li>
-                                    <li>Fast registration and deposit process</li>
-                                    <li>Live bonus updates and winning strategies</li>
-                                    <li>Full support for responsible gaming and user data privac</li>
-                                </ul>
+                            <div class="d-flex flex-wrap justify-content-center">
+                                <div class="text-editor">
+                                    <h2 class="text-center mb-4">Key Takeaways</h2>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-wrap justify-content-center">
+                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
+                                    <div class="iconbox rounded p-4">
+                                        <div class="iconbox-inner text-center">
+                                            <p>Official app download for Android (APK) and iOS</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
+                                    <div class="iconbox rounded p-4">
+                                        <div class="iconbox-inner text-center">
+                                            <p>Safe and private installation walkthrough</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
+                                    <div class="iconbox rounded p-4">
+                                        <div class="iconbox-inner text-center">
+                                            <p>Fast registration and deposit process</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
+                                    <div class="iconbox rounded p-4">
+                                        <div class="iconbox-inner text-center">
+                                            <p>pve bonus updates and winning strategies</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-0 mb-md-4">
+                                    <div class="iconbox rounded p-4">
+                                        <div class="iconbox-inner text-center">
+                                            <p>Full support for responsible gaming and user data privac</p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
+
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
@@ -264,19 +298,19 @@ include 'inc/functions.php';
                     </div>
                 </div>
             </section>
-            <section class="" id="">
+            <section class="" id="faq">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <h2 id="toc13">Frequently Asked Questions (FAQ)</h2>
-                            <div class="accordion" id="accordionExample">
+                            <div class="accordion" id="accordionFAQ">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
                                         Can I download Mega888 on both Android and iOS?
                                     </button>
                                     </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes, both versions are available with specific steps for each OS.
                                     </div>
@@ -288,7 +322,7 @@ include 'inc/functions.php';
                                         Can I play Mega888 on both Android and iPhone?
                                     </button>
                                     </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes. Android users download the APK, and iOS users install via a trusted profile. Both are supported and updated regularly.
                                     </div>
@@ -300,7 +334,7 @@ include 'inc/functions.php';
                                         Is Mega888 safe for real money transactions?
                                     </button>
                                     </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes, if downloaded from trusted sources and using secure payments.
                                     </div>
@@ -312,7 +346,7 @@ include 'inc/functions.php';
                                         Can I get banned for using a modded APK?
                                     </button>
                                     </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes, using hacked versions can lead to account bans and data loss.
                                     </div>
@@ -324,7 +358,7 @@ include 'inc/functions.php';
                                         How do I recover my Mega888 account?
                                     </button>
                                     </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Contact support directly.
                                     </div>
@@ -336,7 +370,7 @@ include 'inc/functions.php';
                                         How do I avoid fake Mega888 apps?
                                     </button>
                                     </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Only download from known platforms like <b>slotmega888.app</b>. Avoid apps with unlimited credit offers — they’re usually scams.
                                     </div>
@@ -348,7 +382,7 @@ include 'inc/functions.php';
                                         How do I get free credits or bonuses?
                                     </button>
                                     </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Mega888 offers welcome bonuses and deposit bonuses weekly. These are listed inside the app and vary by season. New users usually get a first deposit bonus.
                                     </div>
@@ -360,7 +394,7 @@ include 'inc/functions.php';
                                         What happens if my Mega888 app stops updating?
                                     </button>
                                     </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Uninstall the current version and reinstall from slotmega888.app to get the latest release.
                                     </div>
@@ -372,7 +406,7 @@ include 'inc/functions.php';
                                         Can I use one Mega888 account on multiple devices?
                                     </button>
                                     </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes. But avoid logging in at the same time on two devices.
                                     </div>
@@ -384,7 +418,7 @@ include 'inc/functions.php';
                                         Can I switch from a kiosk agent to another agent later?
                                     </button>
                                     </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes, but you’ll need to create a new account under the new agent.
                                     </div>
@@ -396,7 +430,7 @@ include 'inc/functions.php';
                                         Is Mega888 available in other languages besides English?
                                     </button>
                                     </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes, the app supports Malay, English, and Chinese depending on your preference.
                                     </div>
@@ -408,7 +442,7 @@ include 'inc/functions.php';
                                         Does Mega888 log my gameplay or betting history?
                                     </button>
                                     </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Yes, for security and transparency, but this data stays private and encrypted.
                                     </div>
@@ -420,7 +454,7 @@ include 'inc/functions.php';
                                         Why does Mega888 require re-login after app updates?
                                     </button>
                                     </h3>
-                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         It’s a security measure to prevent session hijacking after version changes.
                                     </div>
@@ -432,7 +466,7 @@ include 'inc/functions.php';
                                         What should I do if I suspect someone accessed my Mega888 account?
                                     </button>
                                     </h3>
-                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Change your password immediately and contact support to review recent activity.
                                     </div>
