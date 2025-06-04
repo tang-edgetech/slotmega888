@@ -1,4 +1,8 @@
 @media (max-width: 767px) {
+    .enquiry-sources .btn-wrapper .btn {
+        width: 200px;
+        margin: 0 auto;
+    }
     .footer .social-media {
         gap: 20px;
     }

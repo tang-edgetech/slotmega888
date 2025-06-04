@@ -1,6 +1,6 @@
 <?php
-$page_name = "Mega888 Register, Login & Deposit";
-$page_slug = 'mega888-register-login-deposit';
+$page_name = "Responsible Gaming";
+$page_slug = 'responsible-gaming';
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

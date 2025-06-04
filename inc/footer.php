@@ -90,4 +90,13 @@
             </div>
         </div>
     </div>
+    <div id="a2hs-banner" style="display:none; position:fixed; bottom:0; width:100%; background:#007bff; color:#fff; padding:10px; text-align:center; z-index:999;">
+        <div class="d-flex flex-column flex-md-row justify-content-center align-items-end align-items-md-center gap-4">
+            <span>Add this app to your home screen for a better experience.</span>
+            <div class="btn-wrapper">
+                <button id="install-btn" class="btn btn-default">Add</button>
+                <button id="dismiss-btn" class="btn btn-default">Dismiss</button>
+            </div>
+        </div>
+    </div>
 </footer>

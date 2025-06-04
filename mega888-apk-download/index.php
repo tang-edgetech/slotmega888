@@ -20,7 +20,7 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 
                             </div>
@@ -31,7 +31,7 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1>Download Trusted Mega888 APK for Android [Latest Version]</h1>
                                 <p>If you're an Android user in Malaysia looking to download Mega888, it's important to install the app correctly. Since Mega888 isn’t available on Google Play due to real-money gaming restrictions, users must install it manually via the official APK. This guide explains how to download the real APK safely, complete the installation, avoid scams, and use the latest 2025 version of the app without issues.</p>
@@ -107,7 +107,7 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h2>FAQs: Downloading Mega888 APK on Android</h2>
                                 <div class="accordion" id="accordionExample">

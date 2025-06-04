@@ -20,7 +20,7 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 
                             </div>
@@ -31,7 +31,7 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 
                             </div>
@@ -42,7 +42,7 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 
                             </div>

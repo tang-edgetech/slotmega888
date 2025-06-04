@@ -16,12 +16,92 @@ include 'inc/functions.php';
     <body>
         <?php include 'inc/navbar.php';?>
         <main class="app" id="app">
+            <section class="enquiry-sources" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
+                            <div class="btn-wrapper d-flex flex-column flex-md-row flex-wrap justify-content-center">
+                                <a href="#" class="btn btn-rounded btn-with-icon btn-telegram text-white"><?php echo $icon_telegram_white;?><span>Telegram</span></a>
+                                <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span>WhatsApp</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="availabe-platforms" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
+                            <div class="d-flex flex-wrap">
+                                <div class="col-12 col-md-4 px-4">
+                                    <div class="platform platform-android rounded p-4">
+                                        <div class="platform-inner">
+                                            <div class="platform-thumbnail mx-auto mb-4">
+                                                <img src="./images/icon-android-white-250x250.png" class="img-fluid img-fit"/>
+                                            </div>
+                                            <div class="platform-content text-center">
+                                                <h4 class="text-white fw-normal mb-3">Download for <b>Android</b> device</h4>
+                                                <div class="btn-wrapper justify-content-center">
+                                                    <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="Android"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-12 col-md-4 px-4">
+                                    <div class="platform platform-ios rounded p-4">
+                                        <div class="platform-inner">
+                                            <div class="platform-thumbnail mx-auto mb-4">
+                                                <img src="./images/icon-apple-white-250x250.png" class="img-fluid img-fit"/>
+                                            </div>
+                                            <div class="platform-content text-center">
+                                                <h4 class="text-white fw-normal mb-3">Download for <b>iOS</b> device</h4>
+                                                <div class="btn-wrapper justify-content-center">
+                                                    <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="iOS"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-12 col-md-4 px-4">
+                                    <div class="platform platform-windows rounded p-4">
+                                        <div class="platform-inner">
+                                            <div class="platform-thumbnail mx-auto mb-4">
+                                                <img src="./images/icon-windows-white-250x250.png" class="img-fluid img-fit"/>
+                                            </div>
+                                            <div class="platform-content text-center">
+                                                <h4 class="text-white fw-normal mb-3">Download for <b>Windows</b> device</h4>
+                                                <div class="btn-wrapper justify-content-center">
+                                                    <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="Windows"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
-                            <div class="text-editor">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="availabe" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
                                 <h2>Table of Content</h2>
                                 <ol>
                                     <li><a class="link" href="#toc1">Best Real Slot Mega888 App Download [Android & iOS]</a></li>
@@ -46,7 +126,7 @@ include 'inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <p><b>Key Takeaways</b></p>
                                 <ul>
@@ -64,9 +144,9 @@ include 'inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1 id="toc1">Best Real Slot Mega888 App Download [Android & iOS]</h1>
+                                <h1 class="text-center heading-block" id="toc1">Best Real Slot Mega888 App Download [Android & iOS]</h1>
                                 <p>Mega888 is one of Malaysia’s most trusted and widely used slot game apps, offering a reliable and mobile-friendly platform for players. Built for both Android and iPhone users, this guide covers everything you need to download the official Mega888 app, install it securely, and start playing without hassle. You’ll find a quick setup process, a clear walkthrough for safe app installation, easy registration, and deposit steps. We also provide real-time bonus updates, proven playing tips, and complete support for responsible gambling and user privacy.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</h2>
@@ -187,7 +267,7 @@ include 'inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-9 col-xl-7 px-4">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <h2 id="toc13">Frequently Asked Questions (FAQ)</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
