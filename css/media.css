@@ -3,6 +3,22 @@
         width: 200px;
         margin: 0 auto;
     }
+    .slot-body {
+        padding: 50px 30px;
+    }
+    .slotwrapper ul li {
+        font-size: 40px;
+        min-height: 200px;
+        max-height: 200px;
+    }
+    .slotwrapper, .slotwrapper ul, #rtp-game-list {
+        height: 200px;
+    }
+    .slotbase .btn-spin {
+        width: 120px;
+        height: 120px;
+        margin-top: -60px;
+    }
     .footer .social-media {
         gap: 20px;
     }

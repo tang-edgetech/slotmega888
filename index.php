@@ -1,6 +1,6 @@
 <?php
 $page_name = "Home";
-$page_slug = '';
+$page_slug = 'home';
 $page_thumbnail = "https://example.com/image.jpg";
 include 'inc/functions.php';
 ?>
@@ -34,14 +34,14 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
                             <div class="d-flex flex-wrap">
-                                <div class="col-12 col-md-4 px-4">
+                                <div class="col-12 col-md-4 px-4 mb-5 mb-md-0">
                                     <div class="platform platform-android rounded p-4">
                                         <div class="platform-inner">
-                                            <div class="platform-thumbnail mx-auto mb-4">
+                                            <div class="platform-thumbnail mb-4">
                                                 <img src="./images/icon-android-white-250x250.png" class="img-fluid img-fit"/>
                                             </div>
-                                            <div class="platform-content text-center">
-                                                <h4 class="text-white fw-normal mb-3">Download for <b>Android</b> device</h4>
+                                            <div class="platform-content text-start">
+                                                <h4 class="text-white fw-normal mb-4"><b>Android</b></h4>
                                                 <div class="btn-wrapper justify-content-center">
                                                     <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="Android"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
                                                 </div>
@@ -50,14 +50,14 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                                 
-                                <div class="col-12 col-md-4 px-4">
+                                <div class="col-12 col-md-4 px-4 mb-5 mb-md-0">
                                     <div class="platform platform-ios rounded p-4">
                                         <div class="platform-inner">
-                                            <div class="platform-thumbnail mx-auto mb-4">
+                                            <div class="platform-thumbnail mb-4">
                                                 <img src="./images/icon-apple-white-250x250.png" class="img-fluid img-fit"/>
                                             </div>
-                                            <div class="platform-content text-center">
-                                                <h4 class="text-white fw-normal mb-3">Download for <b>iOS</b> device</h4>
+                                            <div class="platform-content text-start">
+                                                <h4 class="text-white fw-normal mb-4"><b>iOS</b></h4>
                                                 <div class="btn-wrapper justify-content-center">
                                                     <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="iOS"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
                                                 </div>
@@ -66,14 +66,14 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                                 
-                                <div class="col-12 col-md-4 px-4">
+                                <div class="col-12 col-md-4 px-4 mb-5 mb-md-0">
                                     <div class="platform platform-windows rounded p-4">
                                         <div class="platform-inner">
-                                            <div class="platform-thumbnail mx-auto mb-4">
+                                            <div class="platform-thumbnail mb-4">
                                                 <img src="./images/icon-windows-white-250x250.png" class="img-fluid img-fit"/>
                                             </div>
-                                            <div class="platform-content text-center">
-                                                <h4 class="text-white fw-normal mb-3">Download for <b>Windows</b> device</h4>
+                                            <div class="platform-content text-start">
+                                                <h4 class="text-white fw-normal mb-4"><b>Windows</b></h4>
                                                 <div class="btn-wrapper justify-content-center">
                                                     <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="Windows"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
                                                 </div>
@@ -81,6 +81,56 @@ include 'inc/functions.php';
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="slotmachine" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <h2 class="text-white text-center mb-5">Not Sure Which Game to Play Today?</h2>
+                            <div class="slotbase">
+                                <h4 class="slot-header">RTP Game</h4>
+                                <div class="slot-body">
+                                    <div class="slotwrapper" id="rtp-game-list">
+                                        <ul>
+                                            <li>Great Blue</li>
+                                            <li>Safari Heat</li>
+                                            <li>Golden Dragon</li>
+                                            <li>Aztec Gems</li>
+                                            <li>Buffalo Blitz</li>
+                                            <li>Highway Kings</li>
+                                            <li>Robin Hood</li>
+                                            <li>Golden Tour</li>
+                                            <li>Ocean King 3</li>
+                                            <li>Long Long Fa</li>
+                                            <li>Sic Bo</li>
+                                            <li>Aladdin Wishes</li>
+                                            <li>5 Fortune</li>
+                                            <li>Iceland</li>
+                                            <li>Mahjong King</li>
+                                            <li>Rich Pirates</li>
+                                            <li>Golden Reel</li>
+                                            <li>God of War</li>
+                                            <li>Poker Online</li>
+                                            <li>Raja Laut</li>
+                                            <li>King Derby</li>
+                                            <li>Funky Monkey</li>
+                                            <li>Da Sheng Nao Hai</li>
+                                            <li>8 Balls Slots</li>
+                                            <li>Seaworld</li>
+                                            <li>Fairy Garden</li>
+                                            <li>Egyptian Fortunes</li>
+                                            <li>Reel Classic</li>
+                                            <li>God Of Wealth</li>
+                                            <li>Fruit Party</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <button type="button" class="btn btn-spin text-white" id="spin-rtp-game-list"><span>SPIN</span></button>
                             </div>
                         </div>
                     </div>
