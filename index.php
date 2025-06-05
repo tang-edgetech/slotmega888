@@ -9,7 +9,7 @@ include 'inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="http://localhost/slotmega888/">
+        <base href="https://slotmega888.app/">
         <title><?php echo $page_title;?></title>
         <?php include 'inc/stylesheet.php';?>
     </head>
