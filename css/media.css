@@ -1,4 +1,24 @@
 @media (max-width: 767px) {
+    h1, .h1 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    h2, .h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    h3, .h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    h4, .h4 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    h5, .h5 {
+        font-size: 18px;
+        line-height: 28px;
+    }
     .enquiry-sources .btn-wrapper .btn {
         width: 200px;
         margin: 0 auto;
@@ -72,7 +92,7 @@
         margin-left: auto;
         background: #fff;
         max-width: calc( 100% - 25px );
-        width: 100%;
+        width: 80%;
         height: 100%;
         padding-top: 6px;
         z-index: 1;

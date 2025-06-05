@@ -137,7 +137,7 @@ include 'inc/functions.php';
                 </div>
             </section>
 
-            <section class="availabe" id="">
+            <section class="availabe" id="tablecontent">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
@@ -164,7 +164,7 @@ include 'inc/functions.php';
                 </div>
             </section>
 
-            <section class="" id="">
+            <section class="" id="keytakeaways">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
@@ -175,51 +175,41 @@ include 'inc/functions.php';
                             </div>
                             <div class="d-flex flex-wrap justify-content-center">
                                 <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="iconbox rounded p-4">
+                                    <div class="d-flex align-items-center iconbox rounded p-4">
                                         <div class="iconbox-inner text-center">
                                             <p>Official app download for Android (APK) and iOS</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="iconbox rounded p-4">
+                                    <div class="d-flex align-items-center iconbox rounded p-4">
                                         <div class="iconbox-inner text-center">
                                             <p>Safe and private installation walkthrough</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="iconbox rounded p-4">
+                                    <div class="d-flex align-items-center iconbox rounded p-4">
                                         <div class="iconbox-inner text-center">
                                             <p>Fast registration and deposit process</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="iconbox rounded p-4">
+                                    <div class="d-flex align-items-center iconbox rounded p-4">
                                         <div class="iconbox-inner text-center">
                                             <p>pve bonus updates and winning strategies</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-6 col-xl-4 px-4 mb-0 mb-md-4">
-                                    <div class="iconbox rounded p-4">
+                                    <div class="d-flex align-items-center iconbox rounded p-4">
                                         <div class="iconbox-inner text-center">
                                             <p>Full support for responsible gaming and user data privac</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
-                            
                         </div>
                     </div>
                 </div>
@@ -348,6 +338,7 @@ include 'inc/functions.php';
                     </div>
                 </div>
             </section>
+            
             <section class="" id="faq">
                 <div class="container-fluid">
                     <div class="row justify-content-center">

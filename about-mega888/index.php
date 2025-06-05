@@ -22,17 +22,6 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
                                     <h1>About SlotMega888.app – Official Mega888 Platform for Malaysia’s Top Slot App</h1>
                                     <p>Welcome to <b>slotmega888.app</b> where the trusted place where Malaysian players go to download, learn, and play Mega888 safely. Whether you’re just starting out or already using the app, this guide shows what Mega888 is, how it works, and why so many people in Malaysia choose us.</p>
                                     <p>We also help you install the app correctly, understand your payment options, and play safely.</p>

@@ -22,17 +22,6 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
                                 <h1>Download Trusted Mega888 iOS on iPhone or iPad [Latest Version]</h1>
                                 <p>Mega888 is not available on the Apple App Store, but iPhone and iPad users in Malaysia can still install the app safely through a verified profile configuration. This method is widely used, secure, and approved by thousands of Malaysian players. The app supports iPhone 7 through iPhone 15 and all iPad models, offering a fast and smooth experience even on older devices.</p>
                                 <p>&nbsp;</p>

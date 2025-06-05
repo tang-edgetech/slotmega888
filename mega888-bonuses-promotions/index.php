@@ -22,17 +22,6 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
                                 <h1>Claim Mega888 Bonuses That Actually Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</h1>
                                 <p>At <b>slotmega888.app</b>, other than just playing Mega888, you get rewarded for playing it. As an official Mega888 kiosk agent in Malaysia, we offer verified bonuses, free credits, and VIP rewards that are manually approved, fast to claim, and built for real players. No spam, no gimmicks, and no agents who vanish with your money.</p>
                                 <p>&nbsp;</p>

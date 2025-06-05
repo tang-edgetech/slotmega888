@@ -22,17 +22,6 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
                                 <h1>Register, Login & Deposit with Mega888</h1>
                                 <p>If you're ready to start playing Mega888 and want a trusted place to register, log in, and deposit, you're in the right place.</p>
                                 <p>&nbsp;</p>
