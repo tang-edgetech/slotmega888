@@ -1,6 +1,6 @@
 <?php
-// $site_base_url = 'https://slotmega888.app/';
-$site_base_url = 'http://localhost/slotmega888/';
+$site_base_url = 'https://slotmega888.app/';
+// $site_base_url = 'http://localhost/slotmega888/';
 $site_title = 'Slot Mega 888';
 if( !empty($page_name) ) {
     $page_prefix = $page_name . ' | ';
