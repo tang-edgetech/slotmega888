@@ -649,3 +649,61 @@ a, button, .btn, a.button, button.btn {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
 }
+.rtp-table table th, .rtp-table table td {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.rtp-table table th:nth-child(1), .rtp-table table td:nth-child(1) {
+    width: 12%;
+}
+.rtp-table table th:nth-child(2), .rtp-table table td:nth-child(2) {
+    width: 15%;
+}
+.rtp-table table th:nth-child(3), .rtp-table table td:nth-child(3) {
+    width: 30%;
+}
+.percent-bar {
+    width: 100%;
+    background-color: #00c0ff;
+    overflow: hidden;
+    box-shadow: inset 0 0 3px 1px rgba(0, 0, 0, 0.2);
+}
+.percent-bar, .percent-bar-inner {
+    display: block;
+    border-radius: 15px;
+    height: 26px;
+}
+.percent-bar label {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    font-size: 14px;
+    line-height: 14px;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+.percent-bar-inner {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-origin: center left;
+    width: 0;
+    background-color: #3484ce;
+    z-index: 1;
+}
+#install-btn .fa-home {
+    font-size: 20px;
+}
+#install-btn .floating-plus {
+    position: absolute;
+    top: 1px;
+    right: 6px;
+    color: #00a900;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

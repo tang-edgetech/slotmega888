@@ -28,12 +28,45 @@ include '../inc/functions.php';
                 </div>
             </section>
 
-            <section class="" id="">
+            <section class="rtp-features" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
-                                
+                            <div class="rtp-table">
+                                <table class="table table-striped mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th>Game Title</th>
+                                            <th>Theme</th>
+                                            <th>Key Features</th>
+                                            <th>RTP (%)</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    <?php 
+                                    if( $rtp_games ) {
+                                        foreach( $rtp_games as $rtp ) {
+                                            $rtp_title = $rtp['title'];
+                                            $rtp_theme = $rtp['theme'];
+                                            $rtp_rate = $rtp['rate'];
+                                            $rtp_features = $rtp['features'];
+                                    ?>
+                                        <tr>
+                                            <td><?php echo $rtp_title;?></td>
+                                            <td><?php echo $rtp_theme;?></td>
+                                            <td><?php echo $rtp_features;?></td>
+                                            <td>
+                                                <div class="percent-bar">
+                                                    <label><span class="number-increment">0</span>%</label>
+                                                    <div class="percent-bar-inner" data-rate="<?php echo $rtp_rate;?>"></div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    <?php }
+                                    }
+                                    ?>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>

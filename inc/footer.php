@@ -74,9 +74,14 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
     <script type="text/javascript" src="./js/swiper-bundle.min.js"></script>
     <?php
-    if( !empty($page_slug) && $page_slug == 'home' ) {
-        echo '<script type="text/javascript" src="./js/slotmachine.min.js"></script>';
-        echo '<script type="text/javascript" src="./js/scripts-home.js"></script>';
+    if( !empty($page_slug) ) {
+        if( $page_slug == 'home' ) {
+            echo '<script type="text/javascript" src="./js/slotmachine.min.js"></script>';
+            echo '<script type="text/javascript" src="./js/scripts-home.js"></script>';
+        }
+        if( $page_slug == 'mega888-rtp' ) {
+            echo '<script type="text/javascript" src="./js/scripts-rtp.js"></script>';
+        }
     }
     ?>
     <script id="mega888-script-extra">
@@ -100,8 +105,12 @@
         <div class="d-flex flex-column flex-md-row justify-content-center align-items-center py-3 gap-3 gap-md-4">
             <span>Add this app to your home screen for a better experience.</span>
             <div class="btn-wrapper">
-                <button id="install-btn" class="btn btn-default">Add</button>
-                <button id="dismiss-btn" class="btn btn-default">Dismiss</button>
+                <button id="install-btn" class="btn btn-default">
+                    <span class="d-none">Add</span>
+                    <i class="fa fa-home"></i>
+                    <span class="floating-plus"><i class="fa fa-plus-circle"></i></span>
+                </button>
+                <button id="dismiss-btn" class="btn btn-default"><span>Dismiss</span></button>
             </div>
         </div>
     </div>

@@ -16,36 +16,19 @@ include '../inc/functions.php';
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
-
-            <section class="" id="">
+            <section class="enquiry-sources" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
-                                
+                        <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
+                            <div class="text-editor text-center mb-5">
+                                <h1>Contact Us</h1>
+                                <p>Get in touch to see how we can help. You are important to us and we want to help you.</p>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
-                                
+                            <div class="btn-wrapper d-flex flex-column flex-md-row flex-wrap justify-content-center mb-5">
+                                <a href="#" class="btn btn-rounded btn-with-icon btn-telegram text-white"><?php echo $icon_telegram_white;?><span>Telegram</span></a>
+                                <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span>WhatsApp</span></a>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="text-editor">
-                                
-                            </div>
+                            <div class="img-wrapper d-block mx-auto col-12 col-md-9 mb-5"><img src="./images/support-24-7.jpg" class="img-fluid"/></div>
                         </div>
                     </div>
                 </div>

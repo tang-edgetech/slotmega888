@@ -1,6 +1,6 @@
 <?php
-$site_base_url = 'https://slotmega888.app/';
-// $site_base_url = 'http://localhost/slotmega888/';
+// $site_base_url = 'https://slotmega888.app/';
+$site_base_url = 'http://localhost/slotmega888/';
 $site_title = 'Slot Mega 888';
 if( !empty($page_name) ) {
     $page_prefix = $page_name . ' | ';
@@ -27,4 +27,37 @@ $icon_telegram_white = '<svg fill="#ffffff" version="1.1" id="Layer_1" xmlns="ht
 		C17,6.9,17.4,7.1,17.1,7.4z"/>
 	<rect y="0" class="st0" width="24" height="24"/>
 </svg>';
+
+$rtp_games = array(
+    array("title" => "Great Blue", "rate" => "96.03", "theme" => "Underwater", "features" => "High volatility, up to 33 free spins, 15x multipliers, wilds"),
+    array("title" => "Safari Heat", "rate" => "96.16", "theme" => "African Wildlife", "features" => "15 free games with tripled wins, stacked wilds"),
+    array("title" => "Golden Dragon", "rate" => "96.50", "theme" => "Asian Mythology", "features" => "Free spins, multipliers, golden dragon symbols"),
+    array("title" => "Aztec Gems", "rate" => "96.52", "theme" => "Ancient Civilization", "features" => "Multipliers, Aztec-themed symbols, frequent bonus features"),
+    array("title" => "Buffalo Blitz", "rate" => "95.96", "theme" => "North American Wildlife", "features" => "Stacked symbols, bonus rounds, free games"),
+    array("title" => "Highway Kings", "rate" => "94.87", "theme" => "Trucking/Highway", "features" => "Simple gameplay, trucking symbols, bonus features"),
+    array("title" => "Robin Hood", "rate" => "95.73", "theme" => "Medieval Adventure", "features" => "Free spins, bonus rounds, Robin Hood theme"),
+    array("title" => "Golden Tour", "rate" => "96.15", "theme" => "Golf/Sports", "features" => "Bonus mini-games, sports-themed symbols, multipliers"),
+    array("title" => "Ocean King 3", "rate" => "94.92", "theme" => "Oceanic/Fishing Game", "features" => "Multiplayer fish shooting, special bonuses"),
+    array("title" => "Long Long Fa", "rate" => "95.48", "theme" => "Chinese Tradition", "features" => "Traditional symbols, bonus features, scatters"),
+    array("title" => "Sic Bo", "rate" => "97.00", "theme" => "Dice Game", "features" => "Classic dice game, high RTP"),
+    array("title" => "Aladdin Wishes", "rate" => "95.00", "theme" => "Arabian Nights", "features" => "Wilds, scatters, progressive jackpot"),
+    array("title" => "5 Fortune", "rate" => "95.00", "theme" => "Chinese Fortune", "features" => "Wild symbols, scatters"),
+    array("title" => "Iceland", "rate" => "96.58", "theme" => "Arctic Adventure", "features" => "50 paylines, up to 19 free games, bonus multipliers"),
+    array("title" => "Mahjong King", "rate" => "96.95", "theme" => "Mahjong/Asian", "features" => "Mahjong-style slot, multipliers, bonus rounds"),
+    array("title" => "Rich Pirates", "rate" => "96.85", "theme" => "Pirate Adventure", "features" => "Pirate-themed adventure, bonus features, free spins"),
+    array("title" => "Golden Reel", "rate" => "96.70", "theme" => "Classic Slots", "features" => "Classic slot design, bonus spins, straightforward gameplay"),
+    array("title" => "God of War", "rate" => "96.60", "theme" => "Mythology/Battle", "features" => "Epic graphics, battle-themed bonuses, free spins"),
+    array("title" => "Poker Online", "rate" => "97.60", "theme" => "Poker/Card", "features" => "Classic poker gameplay, immersive interface, high RTP"),
+    array("title" => "Raja Laut", "rate" => "95.00", "theme" => "Underwater", "features" => "Interactive fish-shooting gameplay, multiple bonuses"),
+    array("title" => "King Derby", "rate" => "90.50", "theme" => "Horse Racing", "features" => "Realistic racing graphics, frequent scatters, lower RTP"),
+    array("title" => "Funky Monkey", "rate" => "94.00", "theme" => "Jungle/Monkey", "features" => "Simple 3-reel slot, single payline, easy to play"),
+    array("title" => "Da Sheng Nao Hai", "rate" => "95.00", "theme" => "Oceanic/Fishing Game", "features" => "Shoot fish game, ocean theme, additional prizes"),
+    array("title" => "8 Ball Slots", "rate" => "95.00", "theme" => "Billiards", "features" => "Unique graphics, low bet value, high return potential"),
+    array("title" => "Seaworld", "rate" => "95.00", "theme" => "Underwater Adventure", "features" => "Multi-reel system, aquatic symbols, wilds, scatters"),
+    array("title" => "Fairy Garden", "rate" => "95.00", "theme" => "Fantasy", "features" => "Expanding wilds, free spins with multipliers, magical respin feature"),
+    array("title" => "Egyptian Fortunes", "rate" => "95.00", "theme" => "Ancient Egypt", "features" => "Egyptian-themed symbols, bonus features, free spins"),
+    array("title" => "Reel Classic", "rate" => "94.00", "theme" => "Classic Slots", "features" => "Nostalgic symbols like cherries, sevens, and bells"),
+    array("title" => "God Of Wealth", "rate" => "95.00", "theme" => "Chinese Mythology", "features" => "Divine blessings theme, bonus features, free spins"),
+    array("title" => "Fruit Party", "rate" => "94.77", "theme" => "Fruit-Themed", "features" => "Vibrant fruit symbols, bonus features, free spins")
+);
 ?>
