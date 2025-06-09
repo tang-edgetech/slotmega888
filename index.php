@@ -19,64 +19,6 @@ include 'inc/functions.php';
         <main class="app" id="app">
             <?php include 'inc/quick-enquiry.php';?>
 
-            <section class="availabe-platforms" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0 deviceSwiper" id="deviceSwiper">
-                            <div class="d-md-flex flex-md-wrap device-wrapper">
-                                <div class="col-md-4 px-0 px-md-4 mb-0 device-slide">
-                                    <div class="platform platform-android rounded p-4">
-                                        <div class="platform-inner">
-                                            <div class="platform-thumbnail mb-4">
-                                                <img src="./images/icon-android-white-250x250.png" class="img-fluid img-fit"/>
-                                            </div>
-                                            <div class="platform-content text-start">
-                                                <h4 class="text-white fw-normal mb-4"><b>Android</b></h4>
-                                                <div class="btn-wrapper justify-content-center">
-                                                    <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="Android"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-md-4 px-0 px-md-4 mb-0 device-slide">
-                                    <div class="platform platform-ios rounded p-4">
-                                        <div class="platform-inner">
-                                            <div class="platform-thumbnail mb-4">
-                                                <img src="./images/icon-apple-white-250x250.png" class="img-fluid img-fit"/>
-                                            </div>
-                                            <div class="platform-content text-start">
-                                                <h4 class="text-white fw-normal mb-4"><b>iOS</b></h4>
-                                                <div class="btn-wrapper justify-content-center">
-                                                    <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="iOS"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-md-4 px-0 px-md-4 mb-0 device-slide">
-                                    <div class="platform platform-windows rounded p-4">
-                                        <div class="platform-inner">
-                                            <div class="platform-thumbnail mb-4">
-                                                <img src="./images/icon-windows-white-250x250.png" class="img-fluid img-fit"/>
-                                            </div>
-                                            <div class="platform-content text-start">
-                                                <h4 class="text-white fw-normal mb-4"><b>Windows</b></h4>
-                                                <div class="btn-wrapper justify-content-center">
-                                                    <a href="#" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="Windows"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <section class="slotmachine" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
