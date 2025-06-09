@@ -34,10 +34,10 @@ include '../inc/functions.php';
                                     <li><a class="link" href="#iostoc7">Is it Permitted to Install Mega888 on iPhone in Malaysia</a></li>
                                     <li><a class="link" href="#iostoc8">Security Measures Built into Mega888 iOS</a></li>
                                     <li><a class="link" href="#iostoc9">Keeping Your Mega888 Account Safe on iOS</a></li>
-                                    <li><a class="link" href="#apkiostoc10">How to Make Sure Mega888 iOS Performs at Its Best</a></li>
-                                    <li><a class="link" href="#apkiostoc11">Does Mega888 iOS Profile Access Other Apps?</a></li>
-                                    <li><a class="link" href="#apkiostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</a></li>
-                                    <li><a class="link" href="#apkiostoc13">Mega888 iOS Download - Frequently Asked Questions</a></li>
+                                    <li><a class="link" href="#iostoc10">How to Make Sure Mega888 iOS Performs at Its Best</a></li>
+                                    <li><a class="link" href="#iostoc11">Does Mega888 iOS Profile Access Other Apps?</a></li>
+                                    <li><a class="link" href="#iostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</a></li>
+                                    <li><a class="link" href="#iostoc13">Mega888 iOS Download - Frequently Asked Questions</a></li>
                                 </ol>
                             </div>
                         </div>

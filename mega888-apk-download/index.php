@@ -34,8 +34,8 @@ include '../inc/functions.php';
                                     <li><a class="link" href="#apktoc7">Is It Legal to Play Mega888 in Malaysia</a></li>
                                     <li><a class="link" href="#apktoc8">Ways to Safeguard Your Privacy After You Have Installed</a></li>
                                     <li><a class="link" href="#apktoc9">Built-In Tools for Responsible Gaming</a></li>
-                                    <li><a class="link" href="#apkapktoc10">Whether Downloading Mega888 APK is Right for You.</a></li>
-                                    <li><a class="link" href="#apkapktoc11">Mega888 APK Download on Android - Frequently Asked Questions</a></li>
+                                    <li><a class="link" href="#apktoc10">Whether Downloading Mega888 APK is Right for You.</a></li>
+                                    <li><a class="link" href="#apktoc11">Mega888 APK Download on Android - Frequently Asked Questions</a></li>
                                 </ol>
                             </div>
                         </div>
