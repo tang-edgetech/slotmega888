@@ -9,9 +9,178 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
-        <title><?php echo $page_title;?></title>
+        <title>Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia</title>
+        <meta name="title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
+        <meta name="description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. slotmega888.app helps you stay in control while playing.">
+        <meta name="keywords" content="responsible gaming, responsible gambling, responsible gaming mega888, mega888 responsible gaming, responsible gaming online casino">
+        <meta property="og:locale" content="en">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://slotmega888.app/responsible-gaming/">
+        <meta property="og:title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
+        <meta property="adscription" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. slotmega888.app helps you stay in control while playing.">
+        <meta property="og:site_name" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
+        <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
+        <meta property="article:tag" content="responsible gaming">
+        <meta property="article:tag" content="responsible gambling">
+        <meta property="article:tag" content="responsible gaming mega888">
+        <meta property="article:tag" content="mega888 responsible gaming">
+        <meta property="article:tag" content="responsible gaming online casino">
+        <meta name="twitter:url" content="https://slotmega888.app/responsible-gaming/">
+        <meta name="twitter:title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
+        <meta name="twitter:description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. slotmega888.app helps you stay in control while playing.">
+        <link rel="canonical" href="https://slotmega888.app/responsible-gaming/">
+        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/responsible-gaming/">
+        <link rel="alternate" hreflang="en" href="https://slotmega888.app/responsible-gaming/">
+        <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://slotmega888.app/"
+                },
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Responsible Gaming",
+                "item": "https://slotmega888.app/responsible-gaming"
+                }
+            ]
+            }
+            </script>
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "What does responsible gaming mean?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It means playing for fun, setting limits, and knowing when to stop."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "How can I tell if I have a gambling problem?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If you feel stress, hide your play, or keep chasing losses, it’s time to pause."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I set a deposit limit on my Mega888 account?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Just message our support to request daily, weekly, or monthly limits."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What is self-exclusion?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It’s when you ask us to lock your account temporarily or permanently to help you take a break."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I pause my account without deleting it?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Ask for an account freeze. We’ll lock it up until you’re ready to return."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Who can use these safety tools?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Anyone. We offer them to all players."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I still get bonuses after setting limits?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, but we prioritize your safety. If we notice risky behavior, we may pause bonus offers."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is it okay to play if I’m using borrowed money?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. If you’re borrowing to play, it’s time to stop and get help."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What age must I be to play on Mega888?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You must be at least 21 years old."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What if I think someone else has a gambling problem?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Speak to them or get help from a support service like Be Gamble Aware, Gambling Therapy, or Talian Kasih."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Are small bets still risky?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Long sessions, even with small bets, can still lead to problems if you’re not careful."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I stop getting promo messages if I feel triggered?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Contact us and we’ll remove you from all marketing lists."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What happens after I ask for self-exclusion?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Your account will be locked. You won’t be able to deposit or log in until the agreed time ends."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I set time limits for my game sessions?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. We can send alerts after a certain number of minutes or hours."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Are there local support services in Malaysia?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. You can call Talian Kasih at 15999 or visit taliankasih.kpwkm.gov.my for 24/7 help."
+                }
+                }
+            ]
+            }
+            </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

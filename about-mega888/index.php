@@ -9,9 +9,175 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
-        <title><?php echo $page_title;?></title>
+        <title>Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia</title>
+        <meta name="title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta name="description" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
+        <meta name="keywords" content="mega888">
+        <meta property="og:locale" content="en">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://slotmega888.app/about-mega888/">
+        <meta property="og:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta property="adscription" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
+        <meta property="og:site_name" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
+        <meta property="article:tag" content="mega888">
+        <meta name="twitter:url" content="https://slotmega888.app/about-mega888/">
+        <meta name="twitter:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta name="twitter:description" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
+        <link rel="canonical" href="https://slotmega888.app/about-mega888/">
+        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/about-mega888/">
+        <link rel="alternate" hreflang="en" href="https://slotmega888.app/about-mega888/">
+        <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://slotmega888.app/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "About Mega888",
+            "item": "https://slotmega888.app/about-mega888"
+            }
+        ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "What is SlotMega888.app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It’s a safe website where players in Malaysia download Mega888, get app updates, latest strategies and guides, updated RTP, legit bonuses and learn how to play safely."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is SlotMega888.app an official Mega888 app developer?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, but it’s a trusted platform that partners with official sources to give safe downloads and real updates."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I trust the downloads on SlotMega888.app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. All APKs and iOS profiles here are scanned and updated weekly."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Who runs SlotMega888.app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A Malaysian-based team focused on secure downloads, local player support, and responsible gaming education."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What makes this site different from others?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No fake agents, no spam, no hacked files, no scam. Just clean links, guides, and local banking support."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is it legal to download Mega888 from SlotMega888.app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, if you’re over 21 and using it for private play. The app is hosted offshore."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Why does it sometimes ask for an agent code?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To link your account to a verified agent who helps with top-ups and support."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I play Mega888 on both Android and iOS?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. You can use one account on both devices. Just not at the same time."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Do I need to register on SlotMega888.app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No sign-up is needed. You just visit, download, and contact our live chat or customer support."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What should I do if I downloaded Mega888 from a different site?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Delete it and reinstall to avoid security risks."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Does SlotMega888.app have a support team I can talk to?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, you can contact support via WhatsApp or live chat if you need help."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "How do I know if a Mega888 update is real?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Check out our site frequently. Fake updates often come from random social media links."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is Mega888 APK & iOS app from SlotMega888.app safe for beginners?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, everything is explained step-by-step with clear guides made for new players."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can you help me recover my Mega888 account?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. You can contact support via WhatsApp or live chat for account recovery."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What if I see another site with the same name?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Only trust the one with the exact URL: slotmega888.app. Others might be clones or scams."
+                }
+                }
+            ]
+            }
+            </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

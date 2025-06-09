@@ -9,9 +9,174 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025</title>
+        <meta name="title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta name="description" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
+        <meta name="keywords" content="mega888">
+        <meta property="og:locale" content="en">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://slotmega888.app/mega888-register-login-deposit/">
+        <meta property="og:title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta property="adscription" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
+        <meta property="og:site_name" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
+        <meta property="article:tag" content="mega888">
+        <meta name="twitter:url" content="https://slotmega888.app/mega888-register-login-deposit/">
+        <meta name="twitter:title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta name="twitter:description" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
+        <link rel="canonical" href="https://slotmega888.app/mega888-register-login-deposit/">
+        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-register-login-deposit/">
+        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-register-login-deposit/">
         <base href="../<?php echo $page_slug;?>">
-        <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://slotmega888.app/"
+                },
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Register, Login & Deposit",
+                "item": "https://slotmega888.app/register-login-deposit"
+                }
+            ]
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "Can I register for Mega888 directly in the app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. You must get your account ID from a trusted agent."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "How long does it take to get my login ID?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Usually under 5 minutes after contacting our team."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is registration free?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. We don’t charge for creating your Mega888 game ID."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Why does Mega888 use a kiosk system for sign-up?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It prevents bots, fake accounts, and keeps the platform secure."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I change my username later?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. Once it’s created, it stays the same."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What payment methods can I use to deposit?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We accept local bank transfer, e-wallet, and even crypto on request."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What’s the minimum amount I can deposit?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "RM30 is the minimum. It’s fast and confirmed right after payment."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "How long do deposits take?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Less than 5 minutes, once payment is confirmed."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Do I need to send a screenshot for deposit proof?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. It helps us confirm and process your top-up quickly."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I use the same account on more than one phone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, but only one device at a time. Always log out before switching."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What if my friend gives me a Mega888 account — is it safe to use?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. Always create your own account through a verified agent to stay protected."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can I deposit using someone else’s bank account?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It’s better to use your own to avoid delays or identity verification issues."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "How do I know if my deposit went through?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We send confirmation once your credit is added. Contact us if you don’t see it in 5 minutes."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What if I made a deposit but didn’t receive credits?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Send us your payment proof. We’ll verify and fix it fast."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is there a limit to how many times I can deposit in a day?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No hard limit, but the daily cap is RM5,000 unless verified for higher."
+                }
+                }
+            ]
+            }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
