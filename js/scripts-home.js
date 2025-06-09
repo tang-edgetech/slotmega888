@@ -10,4 +10,24 @@ $(document).ready(function() {
             }
         });
     });
+
+    let deviceSwiper = null;
+    const buildDeviceSwiper = false;
+    if( window.matchMedia("(max-width: 767px)").matches ) {
+        if( !deviceSwiper ) {
+            deviceSwiper = new Swiper("#deviceSwiper", {
+                slidesPerView: "auto",
+                spaceBetween: 30,
+                loop: false,
+                slidesOffsetBefore: 24,
+                slidesOffsetAfter: 24,
+            });
+        }
+    }
+    else {
+        if (deviceSwiper) {
+            deviceSwiper.destroy(true, true);
+            deviceSwiper = null;
+        }
+    }
 });

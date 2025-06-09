@@ -10,6 +10,7 @@ include 'inc/functions.php';
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <base href="<?php echo $site_base_url;?>">
+        <link rel="icon" type="image/png" href="<?php echo $site_base_url.'images/mega888-favicon.png';?>" />
         <title><?php echo $page_title;?></title>
         <?php include 'inc/stylesheet.php';?>
     </head>
@@ -20,7 +21,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
-                            <div class="btn-wrapper d-flex flex-column flex-md-row flex-wrap justify-content-center">
+                            <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">
                                 <a href="#" class="btn btn-rounded btn-with-icon btn-telegram text-white"><?php echo $icon_telegram_white;?><span>Telegram</span></a>
                                 <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span>WhatsApp</span></a>
                             </div>
@@ -32,9 +33,9 @@ include 'inc/functions.php';
             <section class="availabe-platforms" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0">
-                            <div class="d-flex flex-wrap">
-                                <div class="col-12 col-md-4 px-4 mb-5 mb-md-0">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0 deviceSwiper" id="deviceSwiper">
+                            <div class="d-md-flex flex-md-wrap swiper-wrapper">
+                                <div class="col-12 col-md-4 px-0 px-md-4 mb-0 swiper-slide">
                                     <div class="platform platform-android rounded p-4">
                                         <div class="platform-inner">
                                             <div class="platform-thumbnail mb-4">
@@ -50,7 +51,7 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                                 
-                                <div class="col-12 col-md-4 px-4 mb-5 mb-md-0">
+                                <div class="col-12 col-md-4 px-0 px-md-4 mb-0 swiper-slide">
                                     <div class="platform platform-ios rounded p-4">
                                         <div class="platform-inner">
                                             <div class="platform-thumbnail mb-4">
@@ -66,7 +67,7 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                                 
-                                <div class="col-12 col-md-4 px-4 mb-5 mb-md-0">
+                                <div class="col-12 col-md-4 px-0 px-md-4 mb-0 swiper-slide">
                                     <div class="platform platform-windows rounded p-4">
                                         <div class="platform-inner">
                                             <div class="platform-thumbnail mb-4">

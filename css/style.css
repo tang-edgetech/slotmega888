@@ -44,7 +44,7 @@ main {
     z-index: 9;
 }
 #masthead.scroll-down {
-    transform: translateY(-100px);
+    transform: translateY(-125px);
 }
 #masthead .navbar-nav {
     gap: 20px;
@@ -395,7 +395,10 @@ a, button, .btn, a.button, button.btn {
 }
 .navbar-brand {
     display: block;
-    width: 150px;
+    width: 88px;
+}
+.scroll-down .navbar-brand {
+    width: 60px;
 }
 .navbar-toggler, .quad-box, .quad-inner {
     display: flex;
@@ -416,9 +419,6 @@ a, button, .btn, a.button, button.btn {
 }
 .navbar-toggler:hover, .btn-copy-clipboard:hover, .share-buttons .share-button:hover::before, .link:hover, a.link:hover, .footer-nav .nav-item .nav-link:hover, .floating-list-inner .floating-item:hover {
     opacity: 0.8;
-}
-.platform, .platform-inner, .iconbox, .quad-box {
-    height: 100%;
 }
 .quad-inner {
     position: absolute;

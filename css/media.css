@@ -19,9 +19,24 @@
         font-size: 18px;
         line-height: 28px;
     }
+    .navbar-brand {
+        width: 60px;
+    }
+    #masthead.scroll-down {
+        transform: translateY(-120px);
+    }
+    #deviceSwiper .swiper-slide {
+        width: 300px;
+    }
     .enquiry-sources .btn-wrapper .btn {
-        width: 200px;
+        width: 100%;
         margin: 0 auto;
+    }
+    .enquiry-sources .btn-wrapper .btn, .platform .btn.btn-download {
+        padding: 0.75rem 1rem;
+    }
+    .btn-with-icon {
+        font-size: 18px;
     }
     .slot-body {
         padding: 50px 30px;
@@ -64,7 +79,11 @@
         width: 20%;
     }
 }
-@media (min-width: 768px) {}
+@media (min-width: 768px) {
+    .platform, .platform-inner, .iconbox, .quad-box {
+        height: 100%;
+    }
+}
 @media (max-width: 1199px) {
     #masthead .navbar-collapse {
         display: block;
