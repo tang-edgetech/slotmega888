@@ -12,5 +12,5 @@ if( !empty($page_slug) && $page_slug == 'home' ) {
     echo '<link rel="stylesheet" type="text/css" href="./css/slotmachine.css"/>';
 }
 ?>
-<link rel="stylesheet" type="text/css" href="./css/style.css"/>
-<link rel="stylesheet" type="text/css" href="./css/media.css"/>
+<link rel="stylesheet" type="text/css" href="./css/style.css<?php echo '?v='.$version;?>"/>
+<link rel="stylesheet" type="text/css" href="./css/media.css<?php echo '?v='.$version;?>"/>

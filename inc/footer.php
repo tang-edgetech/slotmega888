@@ -78,10 +78,10 @@
         if( $page_slug == 'home' ) {
             echo '<script type="text/javascript" src="./js/slotmachine.min.js"></script>';
             echo '<script type="text/javascript" src="./js/jquery.easing.min.js"></script>';
-            echo '<script type="text/javascript" src="./js/scripts-home.js"></script>';
+            echo '<script type="text/javascript" src="./js/scripts-home.js?v='.$version.'"></script>';
         }
         if( $page_slug == 'mega888-rtp' ) {
-            echo '<script type="text/javascript" src="./js/scripts-rtp.js"></script>';
+            echo '<script type="text/javascript" src="./js/scripts-rtp.js?v='.$version.'"></script>';
         }
     }
     ?>
@@ -92,7 +92,7 @@
             thumbnail: <?= json_encode($page_thumbnail) ?>
         };
     </script>
-    <script id="mega888-script" type="text/javascript" src="./js/scripts.js"></script>
+    <script id="mega888-script" type="text/javascript" src="./js/scripts.js<?php echo '?v='.$version;?>"></script>
 
     <div class="floating-list">
         <div class="floating-list-inner">

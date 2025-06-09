@@ -65,5 +65,5 @@ $rtp_games = array(
     array("title" => "God Of Wealth", "rate" => "95.00", "theme" => "Chinese Mythology", "features" => "Divine blessings theme, bonus features, free spins"),
     array("title" => "Fruit Party", "rate" => "94.77", "theme" => "Fruit-Themed", "features" => "Vibrant fruit symbols, bonus features, free spins")
 );
-$a2hs_banner = '';
+$version = '1.0.'.time();
 ?>
