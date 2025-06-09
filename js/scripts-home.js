@@ -27,6 +27,11 @@ $(document).ready(function() {
                     loop: false,
                     slidesOffsetBefore: 24,
                     slidesOffsetAfter: 24,
+                    autoplay: {
+                        delay: 4000,
+                        disableOnInteraction: false,
+                    },
+                    loop: true,
                 });
             }
         }

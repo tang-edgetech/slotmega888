@@ -78,6 +78,9 @@
     .rtp-table table th:nth-child(1), .rtp-table table td:nth-child(1) {
         width: 20%;
     }
+    #masthead .nav-link, #masthead .dropdown-item {
+        white-space: break-spaces;
+    }
 }
 @media (min-width: 768px) {
     .platform, .platform-inner {

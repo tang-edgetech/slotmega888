@@ -10,7 +10,7 @@
                 <div class="col-12 col-md-3 px-md-2 px-xl-4">
                     <div class="footer-column py-3 pt-md-4">
                         <h4 class="text-uppercase text-white mb-4">Sitemap</h4>
-                        <ul class="nav footer-nav d-flex flex-wrap gap-3">
+                        <!-- <ul class="nav footer-nav d-flex flex-wrap gap-3">
                             <li class="nav-item">
                                 <a href="javascript:void(0);" class="nav-link text-white p-0">Lorem Ipsum</a>
                             </li>
@@ -23,7 +23,7 @@
                             <li class="nav-item">
                                 <a href="javascript:void(0);" class="nav-link text-white p-0">Lorem Ipsum</a>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-12 col-md-4 px-md-2 px-xl-4">
@@ -98,7 +98,7 @@
         <div class="floating-list-inner">
             <div class="floating-item back-to-top" id="back-to-top"><span class="d-none">Back To Top</span><?php echo $icon_backtotop;?></div>
             <div class="floating-item whatsapp">
-                <a href="https://wa.me/60123456789" target="_blank"><span class="d-none">WhatsApp</span><?php echo $icon_whatsapp;?></a>
+                <a href="javascript:void(0);" target="_self"><span class="d-none">WhatsApp</span><?php echo $icon_whatsapp;?></a>
             </div>
         </div>
     </div>
