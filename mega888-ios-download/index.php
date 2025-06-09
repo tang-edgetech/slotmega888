@@ -17,20 +17,46 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
 
+            <section class="availabe" id="tablecontent">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
+                                <h2>Table of Content</h2>
+                                <ol>
+                                    <li><a class="link" href="#iostoc1">Download Updated Version of Trusted Mega888 iOS for iPhone or iPad</a></li>
+                                    <li><a class="link" href="#iostoc2">Why Mega888 Isn’t in the App Store</a></li>
+                                    <li><a class="link" href="#iostoc3">How to Download and Install Mega888 iOS Cautiously (Step-by-Step for 2025)</a></li>
+                                    <li><a class="link" href="#iostoc4">Fixing “Untrusted Developer” Errors on Mega888</a></li>
+                                    <li><a class="link" href="#iostoc5">Mega888 iOS Compatibility List for 2025</a></li>
+                                    <li><a class="link" href="#iostoc6">What You Should Expect with the Recent iOS Update of Mega888</a></li>
+                                    <li><a class="link" href="#iostoc7">Is it Permitted to Install Mega888 on iPhone in Malaysia</a></li>
+                                    <li><a class="link" href="#iostoc8">Security Measures Built into Mega888 iOS</a></li>
+                                    <li><a class="link" href="#iostoc9">Keeping Your Mega888 Account Safe on iOS</a></li>
+                                    <li><a class="link" href="#apkiostoc10">How to Make Sure Mega888 iOS Performs at Its Best</a></li>
+                                    <li><a class="link" href="#apkiostoc11">Does Mega888 iOS Profile Access Other Apps?</a></li>
+                                    <li><a class="link" href="#apkiostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</a></li>
+                                    <li><a class="link" href="#apkiostoc13">Mega888 iOS Download – Frequently Asked Questions</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1>Download Trusted Mega888 iOS on iPhone or iPad [Latest Version]</h1>
-                                <p>Mega888 is not available on the Apple App Store, but iPhone and iPad users in Malaysia can still install the app safely through a verified profile configuration. This method is widely used, secure, and approved by thousands of Malaysian players. The app supports iPhone 7 through iPhone 15 and all iPad models, offering a fast and smooth experience even on older devices.</p>
+                                <h1 id="iostoc1">Download Updated Version of Trusted Mega888 iOS for iPhone or iPad</h1>
+                                <p>Although Mega888 is not found on the App Store, it’s still possible for Apple users in Malaysia to enjoy the app after reconfiguring the app profile. Using this approach is common, reliable and acknowledged by numerous Malaysian players. This app can be used with iPhone 7 through iPhone 16 and every iPad and it is still fast and user-friendly on older devices.</p>
                                 <p>&nbsp;</p>
-                                <h2>Why Mega888 Isn’t in the App Store</h2>
-                                <p>Apple restricts gambling apps unless they meet strict licensing rules within its jurisdiction. Since Mega888 operates offshore, it uses a direct configuration profile instead. This method is legitimate and secure when downloaded from a trusted site like slotmega888.app.</p>
+                                <h2 id="iostoc2">Why Mega888 Isn’t in the App Store</h2>
+                                <p>To be made available on Apple devices, gambling apps need to conform to tough licensing laws in the country. Being an offshore casino, Mega888 runs off its own direct configuration. You can use this method as it is safe and trustworthy as long as you download from slotmega888.app.</p>
                                 <p>&nbsp;</p>
-                                <h3>How to Download and Install Mega888 iOS Cautiously (Step-by-Step for 2025)</h3>
+                                <h3 id="iostoc3">How to Download and Install Mega888 iOS Cautiously (Step-by-Step for 2025)</h3>
                                 <ol>
-                                    <li>Visit the official Mega888 iOS download page at slotmega888.app</li>
+                                    <li>Visit the official Mega888 at <a href="https://slotmega888.app/">slotmega888.app</a></li>
                                     <li>Tap <b>“Download iOS”</b></li>
                                     <li>When prompted, tap <b>“Allow”</b> to approve profile installation</li>
                                     <li>Open <b>Settings > General > VPN & Device Management</b></li>
@@ -39,7 +65,7 @@ include '../inc/functions.php';
                                     <li>Once complete, the Mega888 icon will appear on your home screen</li>
                                 </ol>
 
-                                <h3>Fixing “Untrusted Developer” Errors on Mega888</h3>
+                                <h3 id="iostoc4">Fixing “Untrusted Developer” Errors on Mega888</h3>
                                 <p>When opening Mega888 for the first time, iOS may show: “Untrusted Enterprise Developer”. This is normal for apps not installed via the App Store.</p>
                                 <p>To resolve it:</p>
                                 <ul>
@@ -51,19 +77,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>After this, the app will launch normally.</p>
                                 <p>&nbsp;</p>
-                                <h3>Fixing “Google Play Protect” Errors on Mega888</h3>
-                                <p>If you still have trouble downloading it because of Google Play Protect: -</p>
-                                <ul>
-                                    <li>Open the Google Play Store app</li>
-                                    <li>Tap your profile icon</li>
-                                    <li>Select <b>"Play Protect"</b></li>
-                                    <li>Open Play Protect settings</li>
-                                    <li><b>Turn off</b> Play Protect scanning</li>
-                                    <li>Confirm your choice to disable Google Play Protect</li>
-                                </ul>
-                                <p>If you are unsure at any stage, just contact our support and we will help you.</p>
-
-                                <h3>Mega888 iOS Compatibility List for 2025</h3>
+                                <h3 id="iostoc5">Mega888 iOS Compatibility List for 2025</h3>
                                 <table class="table table-striped mb-0">
                                     <thead>
                                         <tr>
@@ -96,20 +110,20 @@ include '../inc/functions.php';
                                 </table>
                                 <p>Mega888 runs best on iOS 13 or newer.</p>
                                 <p>&nbsp;</p>
-                                <h3>What’s Inside the Latest iOS Version of Mega888</h3>
-                                <p>The updated version features a cleaner interface, lower battery usage, and faster access to all slot and live dealer games. Players receive real-time promo updates and enjoy touch-optimized gameplay with quick loading times. Login is secure with Face ID or Touch ID enabled.</p>
+                                <h3 id="iostoc6">What You Should Expect with the Recent iOS Update of Mega888</h3>
+                                <p>You will find that the new version has a better layout, draws less battery and is speedier when playing any slot or live dealer games. The game sends real-time updates about promos and provides gameplay designed for touch screens that load fast. You can log in using Face ID or Touch ID for your security.</p>
                                 <p>&nbsp;</p>
-                                <h3>Is Installing Mega888 on iPhone Legal in Malaysia</h3>
-                                <p>Yes, the installation itself is not illegal. Mega888 operates offshore, and the app is downloaded by users for private use. Malaysian players over 21 are free to use the app responsibly. Mega888 also promotes entertainment over gambling dependency and provides built-in responsible gaming tools.</p>
+                                <h3 id="iostoc7">Is it Permitted to Install Mega888 on iPhone in Malaysia</h3>
+                                <p>YHaving the installation done is not against the law. Mega888 is based overseas and people download the application for their personal needs. The application is available for Malaysians who are above the age of 21. The site is committed to helping players enjoy themselves, not to become addicted and offers tools for responsible gaming.</p>
                                 <p>&nbsp;</p>
-                                <h3>Security Measures Built into Mega888 iOS</h3>
-                                <p>The iOS version uses encryption and does not request unnecessary device permissions. It does not access your photos, contacts, or microphone. Only internet access and storage are required for it to run. Every update is tested for malware and stability before release.</p>
+                                <h3 id="iostoc8">Security Measures Built into Mega888 iOS</h3>
+                                <p>Encryption is provided in the iOS version, and it does not require access to unnecessary things on the user’s device. It does not get information from your photos, contacts or microphone. You only have to have internet access and storage space for it to function. Updates are always checked for malware and their stability before they can be released.</p>
                                 <p>&nbsp;</p>
-                                <h3>How to Keep Your Mega888 Account Safe on iOS</h3>
-                                <p>To protect your account, set a strong and unique password, avoid sharing credentials with anyone (including self-claimed Mega888 agent), and enable Face ID or Touch ID. Always use trusted payment methods and log out when using shared devices. Contact support if you suspect any unauthorized access.</p>
+                                <h3 id="iostoc9">Keeping Your Mega888 Account Safe on iOS</h3>
+                                <p>You should choose a secure and distinct password, not give your login details to fake agents of Mega888 and turn on Face ID or Touch ID on your device. Make sure to use safe and certified payment options and log off when you use a computer that isn’t yours. Ask for support should you believe an unauthorized person is accessing your account.</p>
                                 <p>&nbsp;</p>
-                                <h3>When to Reinstall Mega888 iOS for Best Performance</h3>
-                                <p>Reinstalling every 2–3 months helps avoid lag, clears outdated cache, and ensures you’re running the latest version. This is especially helpful after major iOS updates or when new features are released by Mega888.</p>
+                                <h3 id="iostoc10">How to Make Sure Mega888 iOS Performs at Its Best</h3>
+                                <p>Putting new apps on your device every 2–3 months prevents lag, manages your memory effectively and runs the latest version. It becomes very useful when there are new iOS updates or when Mega888 introduces new features.</p>
                                 <p>&nbsp;</p>
                                 <p><b>How to Reinstall Mega888 iOS Without Losing Data</b></p>
                                 <p>If you need to fix bugs or reinstall the app:</p>
@@ -121,13 +135,13 @@ include '../inc/functions.php';
                                     <li>Revisit <b>slotmega888.app</b> and download the latest version</li>
                                     <li>Reinstall using the same step-by-step process</li>
                                 </ol>
-                                <p>Complete these steps, then refresh the app and ensure you're running the latest version.</p>
+                                <p>Complete these steps, then refresh or restart the app and ensure you're running the latest version.</p>
                                 <p>&nbsp;</p>
-                                <h3>Does the Mega888 iOS Profile Access Other Apps?</h3>
-                                <p>No, the profile is strictly limited to installing the Mega888 app. It cannot monitor or control other apps on your device. iOS sandboxing prevents unauthorized cross-app access. This ensures your privacy is maintained while using Mega888 with us.</p>
+                                <h3 id="iostoc11">Does Mega888 iOS Profile Access Other Apps?</h3>
+                                <p>Installing the Mega888 app using the profile is all that is allowed. Unauthorized communication between apps is not allowed by iOS because it uses sandboxing. These steps guarantee that your privacy is fully protected during your usage of Mega888 with us.</p>
                                 <p>&nbsp;</p>
-                                <h3>Mega888 iOS in 2025 – A Smart Choice for Mobile Players</h3>
-                                <p>Mega888 on iOS offers a complete casino experience built for Malaysian users. With proper installation and account security, it’s fast, reliable, and user-friendly. Downloading via profile is secure, legal, and gives you full access to slots, table games, and more.</p>
+                                <h3 id="iostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</h3>
+                                <p>Users on iOS get to enjoy all the features a casino can offer, tailored for the needs of Malaysian players. After the program is installed correctly and security is set up, Google services are quick, dependable and easy to use. You can safely and legally use the casino site to play slots, table games and much more.</p>
                             </div>
                         </div>
                     </div>
@@ -138,7 +152,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2>Mega888 iOS Download – Frequently Asked Questions</h2>
+                                <h2 id="iostoc13">Mega888 iOS Download – Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
