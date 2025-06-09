@@ -17,19 +17,7 @@ include 'inc/functions.php';
     <body>
         <?php include 'inc/navbar.php';?>
         <main class="app" id="app">
-            <section class="enquiry-sources" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
-                            <div class="page-starter d-block mx-auto mb-4"><img src="./images/mega888-logo.png" class="img-fluid w-100"/></div>
-                            <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">
-                                <a href="#" class="btn btn-rounded btn-with-icon btn-telegram text-white"><?php echo $icon_telegram_white;?><span>Telegram</span></a>
-                                <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span>WhatsApp</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <?php include 'inc/quick-enquiry.php';?>
 
             <section class="availabe-platforms" id="">
                 <div class="container-fluid">
@@ -89,16 +77,6 @@ include 'inc/functions.php';
                 </div>
             </section>
 
-            <section class="" id="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <?php echo $a2hs_banner;?>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <section class="slotmachine" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
@@ -152,6 +130,8 @@ include 'inc/functions.php';
                     </div>
                 </div>
             </section>
+
+            <?php include 'inc/add-to-screen.php';?>
 
             <section class="availabe" id="tablecontent">
                 <div class="container-fluid">

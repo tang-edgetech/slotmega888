@@ -16,6 +16,8 @@ include '../inc/functions.php';
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
+            <?php include 'inc/quick-enquiry.php';?>
+
             <section class="availabe" id="tablecontent">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
