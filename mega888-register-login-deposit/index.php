@@ -9,23 +9,47 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
+        <base href="../<?php echo $page_slug;?>">
         <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
+            <section class="availabe" id="tablecontent">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
+                                <h2>Table of Content</h2>
+                                <ol>
+                                    <li><a class="link" href="#toc1">Register, Login & Deposit with Mega888</a></li>
+                                    <li><a class="link" href="#toc2">How Registration Works on Mega888 (Kiosk System)</a></li>
+                                    <li><a class="link" href="#toc3">Logging in to Mega888 on Android or iOS</a></li>
+                                    <li><a class="link" href="#toc4">How to Deposit Safely Through slotmega888.app</a></li>
+                                    <li><a class="link" href="#toc5">What Happens After You Deposit?</a></li>
+                                    <li><a class="link" href="#toc6">Lost Login or Deposit Issues? We’ve Got You</a></li>
+                                    <li><a class="link" href="#toc7">Why Choose SlotMega888.app Over Other Agents</a></li>
+                                    <li><a class="link" href="#toc8">What Makes a Real Mega888 Agent vs a Fake One</a></li>
+                                    <li><a class="link" href="#toc9">Can I Use One Mega888 Account for Multiple Deposits or Devices</a></li>
+                                    <li><a class="link" href="#toc10">Why Mega888 Uses an Agent System (And Why It’s Safer)</a></li>
+                                    <li><a class="link" href="#toc11">Register, Login & Deposit with Mega888 - Frequently Asked Questions</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1>Register, Login & Deposit with Mega888</h1>
+                                <h1 id="toc1">Register, Login & Deposit with Mega888</h1>
                                 <p>If you're ready to start playing Mega888 and want a trusted place to register, log in, and deposit, you're in the right place.</p>
                                 <p>&nbsp;</p>
-                                <h2>How Registration Works on Mega888 (Kiosk System)</h2>
+                                <h2 id="toc2">How Registration Works on Mega888 (Kiosk System)</h2>
                                 <p>You can’t sign up directly inside the app. Mega888 uses a kiosk system, which means your account must be created by an official agent like us. This keeps the game secure and blocks bots and scam accounts.</p>
                                 <p><b>How to register:</b></p>
                                 <ol>
@@ -36,7 +60,7 @@ include '../inc/functions.php';
                                 </ol>
                                 <p>Once you receive your ID, enter it in the Mega888 app. That’s it.</p>
                                 <p>&nbsp;</p>
-                                <h3>Logging in to Mega888 on Android or iOS</h3>
+                                <h3 id="toc3">Logging in to Mega888 on Android or iOS</h3>
                                 <p>After you get your login ID:</p>
                                 <ol>
                                     <li>Open the Mega888 app</li>
@@ -51,7 +75,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>Contact us if its not working, we’ll help to fix it fast.</p>
                                 <p>&nbsp;</p>
-                                <h3>How to Deposit Safely Through slotmega888.app</h3>
+                                <h3 id="toc4">How to Deposit Safely Through slotmega888.app</h3>
                                 <p>We handle all deposits directly. No credit cards and no risky gateways. You message us, choose your payment method, and we handle the rest.</p>
                                 <p><b>Deposit steps:</b></p>
                                 <ul>
@@ -66,7 +90,7 @@ include '../inc/functions.php';
                                 <li><b>Daily Maximum</b>: RM5,000 (KYC needed for more)</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>What Happens After You Deposit?</h3>
+                                <h3 id="toc5">What Happens After You Deposit?</h3>
                                 <p>Once your deposit is confirmed, your in-game wallet updates instantly. You can:</p>
                                 <ul>
                                     <li>Start playing slot games</li>
@@ -75,7 +99,7 @@ include '../inc/functions.php';
                                     <li>Withdraw winnings through the same agent</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>Lost Login or Deposit Issues? We’ve Got You</h3>
+                                <h3 id="toc6">Lost Login or Deposit Issues? We’ve Got You</h3>
                                 <p>If you forget your login or have trouble with your balance, don’t panic. Just message our support team.</p>
                                 <p>We can help you:</p>
                                 <ul>
@@ -86,7 +110,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>Just send your phone number or payment proof of it, we’ll sort it out quickly.</p>
                                 <p>&nbsp;</p>
-                                <h3>Why Choose SlotMega888.app Over Other Agents</h3>
+                                <h3 id="toc7">Why Choose SlotMega888.app Over Other Agents</h3>
                                 <table class="table table-striped mb-0">
                                 <thead>
                                     <tr>
@@ -130,7 +154,7 @@ include '../inc/functions.php';
                                 </table>
                                 <p>Don’t risk your account or money. Choose a verified kiosk like us and stay protected.</p>
                                 <p>&nbsp;</p>
-                                <h3>What Makes a Real Mega888 Agent vs a Fake One</h3>
+                                <h3 id="toc8">What Makes a Real Mega888 Agent vs a Fake One</h3>
                                 <p>Real Agents like us:</p>
                                 <ul>
                                     <li>Offer support before and after registration</li>
@@ -145,10 +169,10 @@ include '../inc/functions.php';
                                     <li>Use random personal accounts for payments</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>Can I Use One Mega888 Account for Multiple Deposits or Devices</h3>
+                                <h3 id="toc9">Can I Use One Mega888 Account for Multiple Deposits or Devices</h3>
                                 <p>Yes. You can top up the same game ID as many times as you want. You can also log in on to different devices just not at the same time. Always log out from one phone before switching to another.</p>
                                 <p>&nbsp;</p>
-                                <h3>Why Mega888 Uses an Agent System (And Why It’s Safer)</h3>
+                                <h3 id="toc10">Why Mega888 Uses an Agent System (And Why It’s Safer)</h3>
                                 <p>Mega888 uses agents instead of open registration to keep bots, cheaters, and fake accounts out. This system also helps players get real support and fast deposits from verified kiosks like slotmega888.app, not just some unknown app on the internet.</p>
                             </div>
                         </div>
@@ -160,7 +184,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2>FAQs – Register, Login & Deposit with Mega888</h2>
+                                <h2 id="toc11">Register, Login & Deposit with Mega888 - Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">

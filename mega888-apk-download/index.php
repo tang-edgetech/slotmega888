@@ -9,7 +9,7 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
+        <base href="../<?php echo $page_slug;?>">
         <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -41,6 +41,7 @@ include '../inc/functions.php';
                     </div>
                 </div>
             </section>
+            
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">

@@ -16,21 +16,44 @@ include '../inc/functions.php';
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
+            <section class="availabe" id="tablecontent">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
+                                <h2>Table of Content</h2>
+                                <ol>
+                                    <li><a class="link" href="#toc1">About SlotMega888.app – Official Mega888 Platform for Malaysia’s Top Slot App</a></li>
+                                    <li><a class="link" href="#toc2">About Mega888 You Would Like To Know</a></li>
+                                    <li><a class="link" href="#toc3">Who We Are at SlotMega888.app</a></li>
+                                    <li><a class="link" href="#toc4">Why Mega888 is Popular in Malaysia</a></li>
+                                    <li><a class="link" href="#toc5">Is Mega888 Legal in Malaysia</a></li>
+                                    <li><a class="link" href="#toc6">Why SlotMega888.app is the Safer Choice</a></li>
+                                    <li><a class="link" href="#toc7">How to Tell If a Mega888 App Is Fake</a></li>
+                                    <li><a class="link" href="#toc8">How Use the Same Mega888 Account on iPhone and Android</a></li>
+                                    <li><a class="link" href="#toc9">What to Do if a Friend Tells You About a “Hacked” Version</a></li>
+                                    <li><a class="link" href="#toc10">Mega888 iOS Download – Frequently Asked Questions</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                    <h1>About SlotMega888.app – Official Mega888 Platform for Malaysia’s Top Slot App</h1>
+                                    <h1 id="toc1">About SlotMega888.app – Official Mega888 Platform for Malaysia’s Top Slot App</h1>
                                     <p>Welcome to <b>slotmega888.app</b> where the trusted place where Malaysian players go to download, learn, and play Mega888 safely. Whether you’re just starting out or already using the app, this guide shows what Mega888 is, how it works, and why so many people in Malaysia choose us.</p>
                                     <p>We also help you install the app correctly, understand your payment options, and play safely.</p>
                                     <p>&nbsp;</p>
-                                    <h2>About Mega888 You Would Like To Know</h2>
+                                    <h2 id="toc2">About Mega888 You Would Like To Know</h2>
                                     <p><b>Mega888</b> is a mobile slot app where you can play for real money. It started in Southeast Asia and is now one of Malaysia’s most popular apps for Android and iPhone users. It offers slot games, fishing games, table games like blackjack, and even live dealers.</p>
                                     <p>Mega888 is known for smooth gameplay, high RTP (return-to-player) games, fast withdrawals, and secure data. It works well on most phones and is updated often to keep things fair and stable.</p>
                                     <p>&nbsp;</p>
-                                    <h3>Who We Are at SlotMega888.app</h3>
+                                    <h3 id="toc3">Who We Are at SlotMega888.app</h3>
                                     <p>We’re a local Malaysian team, not just another download site. We help users download the app safely, get the latest version, avoid scams, and learn how to play responsibly. Every article here follows standard rules and is written to help real people, not bots.</p>
                                     <p>What do we offer:</p>
                                     <ul>
@@ -42,7 +65,7 @@ include '../inc/functions.php';
                                     </ul>
                                     <p>We don’t push spam, fake agents, or “hacked” APKs. We focus on safety, trust, and support.</p>
                                     <p>&nbsp;</p>
-                                    <h3>Why Mega888 is Popular in Malaysia</h3>
+                                    <h3 id="toc4">Why Mega888 is Popular in Malaysia</h3>
                                     <p>Many Malaysians like Mega888 because it’s simple, mobile-friendly, and gives real money rewards.</p>
                                     <p><b>Why do players trust it:</b></p>
                                     <ul>
@@ -53,11 +76,11 @@ include '../inc/functions.php';
                                     </ul>
                                     <p>You don’t need a big phone or fast Wi-Fi. Just a steady connection and you’re ready.</p>
                                     <p>&nbsp;</p>
-                                    <h3>Is Mega888 Legal in Malaysia</h3>
+                                    <h3 id="toc5">Is Mega888 Legal in Malaysia</h3>
                                     <p>Yes, but there are rules. Mega888 runs from outside Malaysia, and people can use it privately. You must be <b>21 or older</b>, play on your own, and not promote it to kids.</p>
                                     <p>Downloading the app is not illegal if you use trusted sources and follow the law. We also encourage responsible play and offer support if you need help.</p>
-
-                                    <h3>Why SlotMega888.app is the Safer Choice</h3>
+                                    <p>&nbsp;</p>
+                                    <h3 id="toc6">Why SlotMega888.app is the Safer Choice</h3>
                                     <p>There are many sites claiming to offer Mega888, but not all of them are safe. Some spread fake apps or ask for your login info. We never do that.</p>
                                     <table class="table table-striped mb-0">
                                         <thead>
@@ -101,7 +124,7 @@ include '../inc/functions.php';
                                         </tbody>
                                     </table>
                                     <p>&nbsp;</p>
-                                    <h3>How to Tell If a Mega888 App Is Fake</h3>
+                                    <h3 id="toc7">How to Tell If a Mega888 App Is Fake</h3>
                                     <p>A lot of people download the wrong app. Here’s how to spot a fake:</p>
                                     <ul>
                                         <li>The file is too small (under 10MB)</li>
@@ -109,11 +132,11 @@ include '../inc/functions.php';
                                         <li>The icon or design looks off</li>
                                         <li>It came from a random link, not slotmega888.app</li>
                                     </ul>
-
-                                    <h3>How Use the Same Mega888 Account on iPhone and Android</h3>
+                                    <p>&nbsp;</p>
+                                    <h3 id="toc8">How Use the Same Mega888 Account on iPhone and Android</h3>
                                     <p>Yes, you can use your Mega888 ID on both iPhone and Android. Just install the app on each device, log in, and your account info stays the same. You don’t need to make two accounts.</p>
                                     <p>&nbsp;</p>
-                                    <h3>What to Do if a Friend Tells You About a “Hacked” Version</h3>
+                                    <h3 id="toc9">What to Do if a Friend Tells You About a “Hacked” Version</h3>
                                     <p>Don’t use hacked or modded apps. These often steal your account or don’t pay out. Even if a friend says it’s safe, it’s better to use the original version from slotmega888.app. Keep your account safe.</p>
                             </div>
                         </div>
@@ -125,7 +148,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2>Mega888 iOS Download – Frequently Asked Questions</h2>
+                                <h2 id="toc10">Mega888 iOS Download – Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">

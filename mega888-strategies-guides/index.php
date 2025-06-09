@@ -9,27 +9,52 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
+        <base href="../<?php echo $page_slug;?>">
         <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
+            <section class="availabe" id="tablecontent">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
+                                <h2>Table of Content</h2>
+                                <ol>
+                                    <li><a class="link" href="#toc1">Mega888 Game Guides & Winning Strategies</a></li>
+                                    <li><a class="link" href="#toc2">How Mega888 Slots Really Work</a></li>
+                                    <li><a class="link" href="#toc3">Best Games to Try on Mega888 Right Now</a></li>
+                                    <li><a class="link" href="#toc4">Real Mega888 Slot Strategies</a></li>
+                                    <li><a class="link" href="#toc5">Improve Gameplay on Your Device</a></li>
+                                    <li><a class="link" href="#toc6">How to Test Games Without Losing Big</a></li>
+                                    <li><a class="link" href="#toc7">What to Avoid if You Want to Keep Winning</a></li>
+                                    <li><a class="link" href="#toc8">Track Your Gameplay Like a Pro</a></li>
+                                    <li><a class="link" href="#toc9">What Is a Hot Cycle and How Do You Spot It</a></li>
+                                    <li><a class="link" href="#toc10">Games That Drain Your Wallet Fast</a></li>
+                                    <li><a class="link" href="#toc11">Win Without Spending Too Much</a></li>
+                                    <li><a class="link" href="#toc12">Mega888 Game Strategies & Slot Tips - Frequently Asked Questions</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1>Mega888 Game Guides & Winning Strategies</h1>
+                                <h1 id="toc1">Mega888 Game Guides & Winning Strategies</h1>
                                 <p>Most new Mega888 players lose fast — not because the game is unfair, but because they don’t play smart. At slotmega888.app, we help you go beyond guessing. This page gives you real tips and proven strategies to improve your game, manage your credits, and stop burning your balance.</p>
                                 <p>&nbsp;</p>
-                                <h2>How Mega888 Slots Really Work</h2>
+                                <h2 id="toc2">How Mega888 Slots Really Work</h2>
                                 <p>Every slot in Mega888 uses something called <b>RTP</b> (Return to Player). It shows how much a game pays back overtime. A 96% RTP game means for every RM100 played, RM96 may come back, over many spins. Games with <b>lower RTP</b> (under 90%) might pay less often but give bigger rewards when they do.</p>
                                 <p>Also, slots have <b>hot and cold cycles</b>. In hot cycles, games pay out more. In cold ones, they barely hit. Smart players watch the pattern and switch at the right time.</p>
                                 <p>&nbsp;</p>
-                                <h3>Best Games to Try on Mega888 Right Now</h3>
+                                <h3 id="toc3">Best Games to Try on Mega888 Right Now</h3>
                                 <p>Here are top picks based on what’s popular with Malaysian players:</p>
                                 <table class="table table-striped mb-0">
                                     <thead>
@@ -69,7 +94,7 @@ include '../inc/functions.php';
                                 </table>
                                 <p>Start with small bets to test each game before increasing.</p>
                                 <p>&nbsp;</p>
-                                <h3>Real Mega888 Slot Strategies</h3>
+                                <h3 id="toc4">Real Mega888 Slot Strategies</h3>
                                 <p>These are used by experienced players. No gambling myths, just real tips for you.</p>
                                 <ul>
                                     <li><b>Start with Low Bets: </b>Try 10–15 spins. If nothing hits, switch games.</li>
@@ -79,7 +104,7 @@ include '../inc/functions.php';
                                     <li><b>Never Chase Losses: </b>Lost RM100? Don’t top up RM300 just to get even.</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>Improve Gameplay on Your Device</h3>
+                                <h3 id="toc5">Improve Gameplay on Your Device</h3>
                                 <p>Phone issues can ruin gameplay. For smoother sessions:</p>
                                 <ul>
                                     <li>Close unused apps</li>
@@ -90,7 +115,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p><b>More control = better decisions = less money wasted.</b></p>
                                 <p>&nbsp;</p>
-                                <h3>How to Test Games Without Losing Big</h3>
+                                <h3 id="toc6">How to Test Games Without Losing Big</h3>
                                 <p>Want to find good slots without spending too much?</p>
                                 <ul>
                                     <li>Set RM10–RM20 aside</li>
@@ -100,7 +125,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>Old slots often pay better than new ones. Don’t be fooled by flashy graphics.</p>
                                 <p>&nbsp;</p>
-                                <h3>What to Avoid if You Want to Keep Winning</h3>
+                                <h3 id="toc7">What to Avoid if You Want to Keep Winning</h3>
                                 <p>Avoid these common mistakes:</p>
                                 <ul>
                                     <li>Believing in modded apps or cheat APKs</li>
@@ -111,7 +136,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>If you don’t control how you play, you’ll lose fast — no matter how good the game is.</p>
                                 <p>&nbsp;</p>
-                                <h3>Track Your Gameplay Like a Pro</h3>
+                                <h3 id="toc8">Track Your Gameplay Like a Pro</h3>
                                 <p>Smart players keep notes. It helps you see which games are good and which ones drain your balance.</p>
                                 <p>What to write down:</p>
                                 <ul>
@@ -122,12 +147,13 @@ include '../inc/functions.php';
                                     <li>Notes (bonus triggers, hot/cold behavior)</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>What Is a Hot Cycle and How Do You Spot It</h3>
+                                <h3 id="toc9">What Is a Hot Cycle and How Do You Spot It</h3>
                                 <p>A <b>hot cycle</b> means a game is giving wins, free spins, or bonuses often. You’ll notice it within 10–20 spins. If bonuses drop back-to-back or small wins keep coming, increase your bets slowly. But stop once the pattern dies.</p>
                                 <p>&nbsp;</p>
-                                <h3>Games That Drain Your Wallet Fast</h3>
+                                <h3 id="toc10">Games That Drain Your Wallet Fast</h3>
                                 <p>High-jackpot games and newer “promo” slots often have lower RTP. They may promise big wins, but the payout timing is harder to predict. Avoid making big bets on them unless you have a clear testing plan.</p>
-                                <h3>Win Without Spending Too Much</h3>
+                                <p>&nbsp;</p>
+                                <h3 id="toc11">Win Without Spending Too Much</h3>
                                 <p>With a proper test-and-track method, RM30–RM50 can last multiple sessions. Winning is not about how much you spend it, it’s about <b>when and how</b> you play.</p>
                             </div>
                         </div>
@@ -139,7 +165,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2>FAQs – Mega888 Game Strategies & Slot Tips</h2>
+                                <h2 id="toc12">Mega888 Game Strategies & Slot Tips - Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">

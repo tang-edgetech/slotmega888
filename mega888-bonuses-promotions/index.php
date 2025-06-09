@@ -1,6 +1,6 @@
 <?php
 $page_name = "Mega888 Bonuses & Promotions";
-$page_slug = 'mega888-bonusese-promotions';
+$page_slug = 'mega888-bonuses-promotions';
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
@@ -9,23 +9,48 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
+        <base href="../<?php echo $page_slug;?>">
         <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
+            <section class="availabe" id="tablecontent">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
+                                <h2>Table of Content</h2>
+                                <ol>
+                                    <li><a class="link" href="#toc1">Claim Mega888 Bonuses That Actually Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</a></li>
+                                    <li><a class="link" href="#toc2">Welcome Bonus for New Players – Real Extra Credit on Your First Deposit</a></li>
+                                    <li><a class="link" href="#toc3">Free Credit Giveaways</a></li>
+                                    <li><a class="link" href="#toc4">VIP Rewards – Exclusive for Loyal Players</a></li>
+                                    <li><a class="link" href="#toc5">Festival Promotions for Malaysian Players</a></li>
+                                    <li><a class="link" href="#toc6">How to Claim Your Bonus the Right Way</a></li>
+                                    <li><a class="link" href="#toc7">⚠️ Bonus Rules You Need to Know ⚠️</a></li>
+                                    <li><a class="link" href="#toc8">Why Our Bonuses Are Better Than Others</a></li>
+                                    <li><a class="link" href="#toc9">Two Bonuses Active at The Same Time</a></li>
+                                    <li><a class="link" href="#toc10">When You Miss a Bonus Deadline</a></li>
+                                    <li><a class="link" href="#toc11">Eligibility for VIP</a></li>
+                                    <li><a class="link" href="#toc12">Mega888 Bonuses & Promotions - Frequently Asked Questions</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1>Claim Mega888 Bonuses That Actually Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</h1>
+                                <h1 id="toc1">Claim Mega888 Bonuses That Actually Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</h1>
                                 <p>At <b>slotmega888.app</b>, other than just playing Mega888, you get rewarded for playing it. As an official Mega888 kiosk agent in Malaysia, we offer verified bonuses, free credits, and VIP rewards that are manually approved, fast to claim, and built for real players. No spam, no gimmicks, and no agents who vanish with your money.</p>
                                 <p>&nbsp;</p>
-                                <h2>Welcome Bonus for New Players – Real Extra Credit on Your First Deposit</h2>
+                                <h2 id="toc2">Welcome Bonus for New Players – Real Extra Credit on Your First Deposit</h2>
                                 <p>If you're a first-time player registering through <b>slotmega888.app</b>, we’ll give you an extra bonus on your first top-up. Once you deposit at least RM30, you can claim a 50% bonus up to RM150. You only need to meet a simple <b>5x turnover</b> before withdrawing.</p>
                                 <p><b>Bonus Overview:</b></p>
                                 <ul>
@@ -37,7 +62,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>After you deposit, just send your Game ID and payment proof to our team on WhatsApp or Telegram. We’ll credit your bonus manually in minutes.</p>
                                 <p>&nbsp;</p>
-                                <h3>Free Credit Giveaways</h3>
+                                <h3 id="toc3">Free Credit Giveaways</h3>
                                 <p>We run real free credit campaigns throughout the year for loyal users. These are not clickbait or fake survey traps. Our giveaways include:</p>
                                 <ul>
                                     <li>Referral bonuses</li>
@@ -47,7 +72,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>When a free credit event is active, we’ll announce it here or through our verified Telegram channel. If it’s not here, it’s probably not real. Else, you can ask our customer support agent for the bonus information.</p>
                                 <p>&nbsp;</p>
-                                <h3>VIP Rewards – Exclusive for Loyal Players</h3>
+                                <h3 id="toc4">VIP Rewards – Exclusive for Loyal Players</h3>
                                 <p>If you deposit regularly and play cleanly, you may be invited to join our VIP group. VIPs enjoy bigger bonus limits, faster crediting, and special monthly perks.</p>
                                 <p><b>VIP perks include:</b></p>
                                 <ul>
@@ -57,7 +82,7 @@ include '../inc/functions.php';
                                     <li>Early access to new slot releases</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>Festival Promotions for Malaysian Players</h3>
+                                <h3 id="toc5">Festival Promotions for Malaysian Players</h3>
                                 <p>We celebrate all major Malaysian festivals with special promotions. These promos run during:</p>
                                 <ul>
                                     <li>Chinese New Year</li>
@@ -68,7 +93,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>Offers during these periods include bonus boosts, free credit bundles, and free spins.</p>
                                 <p>&nbsp;</p>
-                                <h3>How to Claim Your Bonus the Right Way</h3>
+                                <h3 id="toc6">How to Claim Your Bonus the Right Way</h3>
                                 <p>Getting your bonus is simple. No promo codes or messy forms.</p>
                                 <ol>
                                     <li>Register your Mega888 account through slotmega888.app</li>
@@ -78,7 +103,7 @@ include '../inc/functions.php';
                                 </ol>
                                 <p>All done within minutes, with our local support.</p>
                                 <p>&nbsp;</p>
-                                <h3>⚠️ Bonus Rules You Need to Know ⚠️</h3>
+                                <h3 id="toc7">⚠️ Bonus Rules You Need to Know ⚠️</h3>
                                 <p>We want everyone to play fair, so our bonus system comes with basic rules:</p>
                                 <ul>
                                     <li>One bonus per player/device</li>
@@ -88,7 +113,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>As long as you play clean, you’ll always get what you’re promised.</p>
                                 <p>&nbsp;</p>
-                                <h3>Why Our Bonuses Are Better Than Others</h3>
+                                <h3 id="toc8">Why Our Bonuses Are Better Than Others</h3>
                                 <table class="table table-striped mb-0">
                                 <thead>
                                     <tr>
@@ -132,13 +157,13 @@ include '../inc/functions.php';
                                 </table>
                                 <p>We’ve built this system to reward our players.</p>
                                 <p>&nbsp;</p>
-                                <h3>Two Bonuses Active at The Same Time</h3>
+                                <h3 id="toc9">Two Bonuses Active at The Same Time</h3>
                                 <p>No. Bonuses are one at a time per account. After using one, you can claim another. But not all at once.</p>
                                 <p>&nbsp;</p>
-                                <h3>When You Miss a Bonus Deadline</h3>
+                                <h3 id="toc10">When You Miss a Bonus Deadline</h3>
                                 <p>Missed a promo? Contact us. If it's still within the event period and your deposit is verified, we may still honor it.</p>
                                 <p>&nbsp;</p>
-                                <h3>Eligibility for VIP</h3>
+                                <h3 id="toc11">Eligibility for VIP</h3>
                                 <p>Our team will message you privately once you qualify. You can also ask us directly if you’ve been active.</p>
                             </div>
                         </div>
@@ -150,7 +175,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2>FAQs – Mega888 Bonuses & Promotions</h2>
+                                <h2 id="toc12">Mega888 Bonuses & Promotions - Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">

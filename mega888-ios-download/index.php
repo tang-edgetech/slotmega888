@@ -9,7 +9,7 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
+        <base href="../<?php echo $page_slug;?>">
         <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -36,7 +36,7 @@ include '../inc/functions.php';
                                     <li><a class="link" href="#apkiostoc10">How to Make Sure Mega888 iOS Performs at Its Best</a></li>
                                     <li><a class="link" href="#apkiostoc11">Does Mega888 iOS Profile Access Other Apps?</a></li>
                                     <li><a class="link" href="#apkiostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</a></li>
-                                    <li><a class="link" href="#apkiostoc13">Mega888 iOS Download – Frequently Asked Questions</a></li>
+                                    <li><a class="link" href="#apkiostoc13">Mega888 iOS Download - Frequently Asked Questions</a></li>
                                 </ol>
                             </div>
                         </div>
@@ -152,7 +152,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2 id="iostoc13">Mega888 iOS Download – Frequently Asked Questions</h2>
+                                <h2 id="iostoc13">Mega888 iOS Download - Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">

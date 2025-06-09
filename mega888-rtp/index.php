@@ -9,19 +9,40 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="../">
+        <base href="../<?php echo $page_slug;?>">
         <title><?php echo $page_title;?></title>
         <?php include '../inc/stylesheet.php';?>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
+            <section class="availabe" id="tablecontent">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <div class="table-content">
+                                <h2>Table of Content</h2>
+                                <ol>
+                                    <li><a class="link" href="#toc1">Mega888 RTP | Slot Mega 888</a></li>
+                                    <li><a class="link" href="#toc2">Mega888 RTP and It Matters</a></li>
+                                    <li><a class="link" href="#toc3">RTP Make a Difference</a></li>
+                                    <li><a class="link" href="#toc4">Spot RTP Without Seeing the Percentage</a></li>
+                                    <li><a class="link" href="#toc5">Tips to Use RTP Properly on Mega888</a></li>
+                                    <li><a class="link" href="#toc6">RTP Is Just One Piece of the Puzzle</a></li>
+                                    <li><a class="link" href="#toc7">Mega888 RTP - Frequently Asked Questions</a></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1 class="text-white heading-block text-center"><?php echo $page_title;?></h1>
+                                <h1 class="text-white heading-block text-center" id="toc1"><?php echo $page_title;?></h1>
                             </div>
                         </div>
                     </div>
@@ -78,19 +99,19 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h3>Mega888 RTP and It Matters</h3>
+                                <h3 id="toc2">Mega888 RTP and It Matters</h3>
                                 <p>RTP stands for Return to Player. It’s shown as a percentage and tells you how much a game is expected to return to you as a player over many spins.</p>
                                 <p>&nbsp;</p>
                                 <p><b>For example</b><br/>If a slot has an RTP of 96%, it means that for every RM100 played, it gives back RM96. Not in one session, but over time.</p>
                                 <p>&nbsp;</p>
                                 <p>High RTP means better odds. It won’t make you win every time, but it helps you stretch your credit and reduce losses over the long run.</p>
                                 <p>&nbsp;</p>
-                                <h3>RTP Make a Difference</h3>
+                                <h3 id="toc3">RTP Make a Difference</h3>
                                 <p>When you’re playing with discipline. High RTP protects your bankroll over time, but it’s not a magic win button. If you keep reloading and chasing, even 98% RTP won’t help.</p>
                                 <p>&nbsp;</p>
                                 <p>Good players use RTP as a tool. Watch, test, and switch when needed.</p>
                                 <p>&nbsp;</p>
-                                <h3>Spot RTP Without Seeing the Percentage</h3>
+                                <h3 id="toc4">Spot RTP Without Seeing the Percentage</h3>
                                 <p>Not all games display RTP upfront. But you can guess based on:</p>
                                 <ul>
                                     <li>How often it pays out in 20–30 spins</li>
@@ -99,7 +120,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>If a game burns through RM10 without a single win, it’s likely low RTP or in a cold cycle.</p>
                                 <p>&nbsp;</p>
-                                <h3>Tips to Use RTP Properly on Mega888</h3>
+                                <h3 id="toc5">Tips to Use RTP Properly on Mega888</h3>
                                 <ul>
                                     <li>Play small bets when testing</li>
                                     <li>Use bonuses for medium RTP games (safe for exploration)</li>
@@ -108,7 +129,7 @@ include '../inc/functions.php';
                                     <li>Track what games give consistent returns</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3>RTP Is Just One Piece of the Puzzle</h3>
+                                <h3 id="toc6">RTP Is Just One Piece of the Puzzle</h3>
                                 <p>Knowing the RTP helps you play better. But it works best when combined with:</p>
                                 <ul>
                                     <li>Good timing</li>
@@ -125,6 +146,7 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
+                            <h2 id="toc7">Mega888 RTP - Frequently Asked Questions</h2>
                             <div class="accordion" id="accordionRTP">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">

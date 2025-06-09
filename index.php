@@ -89,7 +89,7 @@ include 'inc/functions.php';
                 </div>
             </section>
 
-            <section class="slotmachine" id="">
+            <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
@@ -163,15 +163,15 @@ include 'inc/functions.php';
                                     <li><a class="link" href="#toc1">Best Real Slot Mega888 App Download [Android & iOS]</a></li>
                                     <li><a class="link" href="#toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</a></li>
                                     <li><a class="link" href="#toc3">Trusted Mega888 APK Download for Android Users</a></li>
-                                    <li><a class="link" href="#toc4">Installing Mega888 on iPhone Without App Store</a></li>
-                                    <li><a class="link" href="#toc5">Common Problems with Mega888 App (and How to Fix Them)</a></li>
+                                    <li><a class="link" href="#toc4">Installing Mega888 On iPhone Without Downloading from App Store</a></li>
+                                    <li><a class="link" href="#toc5">What Are the Typical Problems with the Mega888 (and How Can You Fix Them) </a></li>
                                     <li><a class="link" href="#toc6">Mega888 register in Less Than 2 Minutes</a></li>
-                                    <li><a class="link" href="#toc7">How to Add Money or Cash Out on Mega888</a></li>
-                                    <li><a class="link" href="#toc8">Grab These Mega888 Bonuses Before They Expire</a></li>
-                                    <li><a class="link" href="#toc9">Mega888 Winning Strategies & Guides</a></li>
-                                    <li><a class="link" href="#toc10">Is Mega888 Safe to Download and Use?</a></li>
+                                    <li><a class="link" href="#toc7">Mega888 Deposit and Withdrawal Process</a></li>
+                                    <li><a class="link" href="#toc8">Act Fast to Take Advantage of Mega888 Bonuses</a></li>
+                                    <li><a class="link" href="#toc9">Learning the Mega888 Winning Strategies & Guides</a></li>
+                                    <li><a class="link" href="#toc10">Is it Safe to Use and Download Mega888?</a></li>
                                     <li><a class="link" href="#toc11">Slotmega888.app Commitment to Responsible Gambling</a></li>
-                                    <li><a class="link" href="#toc12">Your Data is Private and Here’s How We Protect It</a></li>
+                                    <li><a class="link" href="#toc12">Your Data Belongs to You and This is How We Keep It Safe</a></li>
                                     <li><a class="link" href="#toc13">Frequently Asked Questions (FAQ)</a></li>
                                 </ol>
                             </div>
@@ -186,58 +186,67 @@ include 'inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1 class="text-center heading-block" id="toc1">Best Real Slot Mega888 App Download [Android & iOS]</h1>
-                                <p>Mega888 is one of Malaysia’s most trusted and widely used slot game apps, offering a reliable and mobile-friendly platform for players. Built for both Android and iPhone users, this guide covers everything you need to download the official Mega888 app, install it securely, and start playing without hassle. You’ll find a quick setup process, a clear walkthrough for safe app installation, easy registration, and deposit steps. We also provide real-time bonus updates, proven playing tips, and complete support for responsible gambling and user privacy.</p>
+                                <p>Mega888 is an excellent choice for Malaysians looking for a slot game app, because it is dependable and can be played on mobile devices. Both Android users and iPhone users will benefit from this guide, as it covers downloading the app, installing it and starting play. It is easy to set up your account, find detailed instructions for safeguarding your apps, have a smooth registration process and deposit money. Real-time bonuses, helpful tips and total support for responsible gaming and privacy are also offered by us. </p>
+                                <p>&nbsp;</p>
+                                <p>Key Takeaways</p>
+                                <ul>
+                                    <li>Official app download for Android APK and iOS</li>
+                                    <li>Safe and private installation walkthrough </li>
+                                    <li>Fast registration and deposit process</li>
+                                    <li>Real-time bonus available updates and winning strategies </li>
+                                    <li>Full support for responsible gaming and user data privacy</li>
+                                </ul>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</h2>
-                                <p>Mega888 is one of the most reliable and widely used slot apps in Malaysia. It’s known for smooth performance, a huge variety of games, and fast payouts. From classics like Panther Moon to fish shooting games and live dealer tables, it offers something for everyone. Compared to apps like 918Kiss and Xe88, Mega888 runs more smoothly and rewards players more often.</p>
+                                <p>Mega888 is considered one of the most reputable and common slot apps in Malaysia. This platform is famous for providing seamless gaming, a wide choice of games and quick payment. It has a broad collection, including Panther Moon, various fish shooting games and live dealer options. Games in Mega888 are smoother than those in 918Kiss and Xe88 and the rewards are given out more frequently.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc3">Trusted Mega888 APK Download for Android Users</h3>
-                                <p>Mega888 isn’t on Google Play, so Android users must install it using an APK file. Here's how:</p>
+                                <p>Because Mega888 isn’t in Google Play, Android users have to install it using an APK file. Here's how:</p>
                                 <ul>
-                                    <li>Download the official file from <b>Mega888 APK</b></li>
+                                    <li>Download the official file from <a href="/mega888-apk-download"><b>Mega888 APK</b></a></li>
                                     <li>Turn on <b>“Unknown Sources”</b> in your phone settings</li>
-                                    <li>Open the APK and install it</li>
+                                    <li>Open the APK and install it accordingly </li>
                                 </ul>
-                                <p>Make sure your phone runs Android 5.0 or newer. The app opens to the login screen, where you can create an account and start playing safely.</p>
+                                <p>Your device should have an Android 5.0 or newer version.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc4">Installing Mega888 on iPhone Without App Store</h3>
-                                <p>Mega888 isn’t available on the Apple App Store, but iPhone users can still install it through a secure mobile configuration profile.</p>
-                                <p><b>Steps to install Mega888 on iPhone:</b></p>
+                                <h3 id="toc4">Installing Mega888 On iPhone Without Downloading from App Store</h3>
+                                <p>Although Mega888 isn’t available on the Apple official App Store, iOS devices’ users can still install it through a secure mobile configuration profile.</p>
+                                <p><b>These are the steps for installing Mega888 on iOS devices:</b></p>
                                 <ul>
-                                    <li>Download the iOS installation file from slotmega888.app</li>
+                                    <li>Download the <b>iOS installation file</b> from slotmega888.app</li>
                                     <li>Go to <b>Settings > General > Device Management</b></li>
                                     <li>Tap the developer’s name and select <b>“Trust”</b></li>
                                     <li>Launch the app like any other iOS application</li>
                                 </ul>
-                                <p><b>For smooth installation:</b></p>
+                                <p><b>For the installation to work smoothly:</b></p>
                                 <ul>
-                                    <li>Works with iPhone models 7 to 16</li>
-                                    <li>Close background apps before launching for better performance</li>
+                                    <li>Works well with iPhone models 7 to 16</li>
+                                    <li>Delete unnecessary apps from the background to enjoy optimal performance</li>
                                     <li>If stuck on the loading screen, try:</li>
                                     <ul>
-                                        <li>Clearing web browser cache</li>
-                                        <li>Re-trusting the profile under settings</li>
+                                        <li>Clearing your web browser cache</li>
+                                        <li>Re-trusting the relevant profile under the settings</li>
                                     </ul>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3 id="toc5">Common Problems with Mega888 App (and How to Fix Them)</h3>
-                                <p>While Mega888 runs smoothly for most users, some common issues can occur during installation or login.</p>
-                                <p><b>If Mega888 isn’t working right, try this:</b></p>
+                                <h3 id="toc5">What Are the Typical Problems with the Mega888 (and How Can You Fix Them) </h3>
+                                <p>While Mega888 runs smoothly for most users, some common issues can occur during installation or login process.</p>
+                                <p><b>This is what you should do if you notice that Mega888 isn’t running correctly: </b></p>
                                 <ul>
                                     <li>Enable <b>“Unknown Sources”</b> (Android)</li>
                                     <li><b>Trust</b> the developer profile (iOS)</li>
                                     <li><b>Restart</b> your phone and clear the app cache</li>
-                                    <li>Update to the latest version</li>
-                                    <li>Use strong, stable internet</li>      
+                                    <li>Ensure your version of the application is updated</li>
+                                    <li>Use strong and stable internet</li>      
                                 </ul>
-                                <p>Following these steps solves most problems without needing advanced troubleshooting.</p>
+                                <p>Performing these steps usually resolves most problems without needing further troubleshooting.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc6">Mega888 register in Less Than 2 Minutes</h3>
-                                <p>Registering for Mega888 is quick and doesn’t require lengthy forms or document uploads. Because Mega888 slotmega888.app operates through a <b>kiosk system</b>, you’ll first need to contact our customer service agent.</p>
-                                <p><b>How to register your Mega888 account:</b></p>
+                                <h3 id="toc6">Mega888 Register in Less Than 2 Minutes</h3>
+                                <p>Registering for Mega888 only takes a short time and doesn’t require you to send any documents. Because Mega888 slotmega888.app operates through a kiosk system, you’ll first need to contact our customer service agent “Amoi”.</p>
+                                <p><b>To register your Mega888 account, you need to:</b></p>
                                 <ul>
-                                    <li>Contact a trusted Mega888 agent via WhatsApp or live chat</li>
-                                    <li>The agent will create your account and send you the login credentials</li>
+                                    <li>Contact our trusted Mega888 agent via WhatsApp or Telegram</li>
+                                    <li>Customer support will register and share the login information with you s</li>
                                     <li>You’ll then bank in your first deposit via:</li>
                                     <ul>
                                         <li>Malaysia Local Bank Transfer</li>
@@ -247,57 +256,57 @@ include 'inc/functions.php';
                                     </ul>
                                     <li>Your account is activated once payment is confirmed</li>
                                 </ul>
-                                <p>This process avoids delays and lets you get started fast. For future access, account recovery support is available, and our Account & Payments Guide also explains how to manage deposits, withdrawals, and any issues that may arise.</p>
+                                <p>With this method, you are all set to begin work almost immediately. In case you want to access your account later, help is available. Will also teach you how to make deposits, withdrawals and manage any issues you meet.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc7">How to Add Money or Cash Out on Mega888</h3>
-                                <p>Mega888 offers secure and fast payment options tailored for Malaysian users. You can deposit funds using local bank transfers or choose popular e-wallets in Malaysia. For users who prefer digital currencies, <b>USDT and Bitcoin</b> are also accepted.</p>
+                                <h3 id="toc7">Mega888 Deposit and Withdrawal Process </h3>
+                                <p>Using Mega888, Malaysian users have access to easy and safe payment features. Depositing funds is possible through local bank transfers or by picking one of the main e-wallets used in Malaysia. Digital currency users can make payments using USDT and Bitcoin as well.</p>
                                 <p><b>Deposit and withdrawal process:</b></p>
                                 <ul>
-                                    <li>Deposits are usually completed within minutes</li>
-                                    <li>Withdrawals typically take <b>under 30 minutes</b></li>
-                                    <li>All transactions are encrypted and confirmed via notification</li>
-                                    <li>Funds are sent directly to your selected bank or e-wallet account</li>
+                                    <li>Most deposits are usually carried out within 2 minutes.</li>
+                                    <li>You can expect a withdrawal to take under 30 minutes.</li>
+                                    <li>All transactions are made secure with encryption and are confirmed using notification.</li>
+                                    <li>You will have the money come in directly into your selected bank or e-wallet account.</li>
                                 </ul>
-                                <p>If there’s a problem, <b>look for our customer support “Amoi”</b> for fast help. Most common payment issues are addressed within the Account & Payments section.</p>
+                                <p>If there’s a problem, <b>look for our customer support “Amoi”</b> will assist you right away. </p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc8">Grab These Mega888 Bonuses Before They Expire</h3>
-                                <p>Mega888, we reward players with regular bonus offers designed to support longer gameplay and increase winning chances. New users often qualify for a <b>first deposit welcome bonus.</b></p>
-                                <p><b>Other available rewards include:</b></p>
+                                <h3 id="toc8">Act Fast to Take Advantage of Mega888 Bonuses </h3>
+                                <p>Mega888, we offer bonuses to our players often which aim to make playing more enjoyable and help them get more wins. Regularly, new players can take advantage of <b>first deposit welcome bonus</b> during registration process.</p>
+                                <p><b>More rewards you can get are:</b></p>
                                 <ul>
-                                    <li>Free spins for selected slot games</li>
-                                    <li>Deposit bonuses tied to specific days or amounts</li>
-                                    <li>Daily rebates based on your win/loss activity</li>
-                                    <li>VIP and reload bonuses for frequent players</li>
+                                    <li>Free spins for selected slot games.</li>
+                                    <li>Deposit bonuses that are tied to specific days or amounts.</li>
+                                    <li>Daily cashback based on your win/loss activity.</li>
+                                    <li>VIP rewards and reload bonuses for loyal players.</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3 id="toc9">Mega888 Winning Strategies & Guides</h3>
-                                <p>Winning on Mega888 isn’t just about luck, it comes down to smart game selection and managing how you play. Start by choosing <b>high-RTP</b> games. Malaysian players often recommend options like <b>Ocean King, Safari Heat</b>, and <b>Panther Moon</b> for better payout potential.</p>
-                                <p><b>Simple strategies that work:</b></p>
+                                <h3 id="toc9">Learning the Mega888 Winning Strategies & Guides</h3>
+                                <p>You can win on Mega888 by being smart and careful in choosing your games, instead of just relying on luck. It is essential to pick the particular games with higher RTP percentages. A lot of Malaysian players suggest playing Ocean King, Safari Heat and Panther Moon to increase their payouts.</p>
+                                <p><b>Strategies that work well:</b></p>
                                 <ul>
                                     <li>Avoid spinning randomly, pick your game based on payout history</li>
-                                    <li>If a machine doesn’t pay after 10-15 spins, switch to another</li>
-                                    <li>Set a clear session limit and stick to it</li>
-                                    <li>Don’t chase losses; keep bets consistent</li>
-                                    <li>Focus on timing rather than speed</li>
+                                    <li>If the specific slot game doesn’t pay any after 10-15 spins, switch to another one</li>
+                                    <li>Set a clear session limit and don’t exceed it</li>
+                                    <li>Don’t try to recover your losses with bigger bets; choose consistent betting amounts</li>
+                                    <li>Watch your timing over trying to go as fast as possible</li>
                                 </ul>
-                                <p>You don’t need advanced systems to win where you just need to be disciplined and make smart decisions. For more detailed tips, check our Slot Strategies for Mega888 guide.</p>
+                                <p>Smart play, using a basic system, is enough to win, with discipline and good decision making. This Mega888 guide contains more detailed information on how to play slots.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc10">Is Mega888 Safe to Download and Use?</h3>
-                                <p>Mega888 is secure, if downloaded from a trusted source like slotmega888.app. The official app uses end-to-end encryption for both login and transactions, ensuring that your personal data and funds stay protected. Updates are released regularly to fix bugs and enhance security.</p>
-                                <p><b>To stay safe, follow these tips:</b></p>
+                                <h3 id="toc10">Is it Safe to Use and Download Mega888?</h3>
+                                <p>Mega888 remains secure as long as you get the application from a trusted site like slotmega888.app. The app applies end-to-end encryption to both logging in and sending money, so your information and money are safe. Software on mobile phones is frequently updated to fix bugs and increase security.</p>
+                                <p><b>The best way to stay safe is to use these tips:</b></p>
                                 <ul>
-                                    <li>Only download the app from verified sites</li>
-                                    <li>Avoid modified APKs or apps claiming “unlimited credits”</li>
-                                    <li>Use secure payment methods like bank transfer or e-wallets</li>
-                                    <li>Never share your login details with unknown sources</li>
+                                    <li>Only download the APK file from websites that are reliable</li>
+                                    <li>Avoid using applications that promise you “unlimited credits” when they are not official</li>
+                                    <li>Use banking or e-wallets as your payment method</li>
+                                    <li>Never share your login information with anyone</li>
                                 </ul>
-                                <p>By sticking to reputable platforms, you avoid malware, account theft, and fake versions. slotmega888.app offers the real Mega888 which is clean, secure, and reliable.</p>
+                                <p>Choosing a famous platform helps you stay away from malware, losing your account and receiving fake game variants.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc11">Slotmega888.app Commitment to Responsible Gambling</h3>
-                                <p>At slotmega888.app, we support responsible gambling and emphasize that Mega888 is meant to be a form of entertainment, not a source of income. If you notice your gaming sessions are becoming longer, losses are increasing, or you feel the need to chase your balance, it may be time to take a break. We include features that help players stay in control, such as deposit limits, session time reminders, and options for temporary or permanent self-exclusion. These tools are easy to activate and are intended to help prevent problem gambling before it starts. For additional help, players can reach out to external support organizations like BeGambleAware.org. More information and resources are available in our Responsible Gambling guide.</p>
+                                <p>Slotmega888 shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the Responsible Gambling guide.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc12">Your Data is Private and Here’s How We Protect It</h3>
-                                <p>When you register or make payments with us, your personal and financial information is secured using advanced AES-256 encryption. This ensures that your login credentials, transaction records, and identity details always remain protected. We do not sell your data or display third-party ads within the app. You have full control over your account, including the right to request data removal or permanent account deletion through customer support. For complete transparency, our Privacy Policy explains how your information is collected, used, and protected.</p>
+                                <h3 id="toc12">Your Data Belongs to You and This is How We Keep It Safe</h3>
+                                <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our Privacy Policy explains the process of collecting, using and safeguarding your personal details.</p>
                             </div>
                         </div>
                     </div>
@@ -313,12 +322,12 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Can I download Mega888 on both Android and iOS?
+                                        Can I download Mega888 on my smartphone, regardless of if it’s Android or iOS? 
                                     </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes, both versions are available with specific steps for each OS.
+                                        Yes, both versions are available with specific steps that you need to follow for each OS.
                                     </div>
                                     </div>
                                 </div>
@@ -330,19 +339,19 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes. Android users download the APK, and iOS users install via a trusted profile. Both are supported and updated regularly.
+                                        Yes. The usual way for Android users is to download the APK, however, iOS users need to install via a trusted profile. 
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                        Is Mega888 safe for real money transactions?
+                                        Does Mega888 guarantee safe and secure gambling with real money?
                                     </button>
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes, if downloaded from trusted sources and using secure payments.
+                                        That is possible as long as you download from trusted sources and use safe payment methods.
                                     </div>
                                     </div>
                                 </div>
@@ -354,7 +363,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes, using hacked versions can lead to account bans and data loss.
+                                        Definitely, you may experience bans and lose all your information if you install hacked versions.
                                     </div>
                                     </div>
                                 </div>
@@ -373,36 +382,36 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        How do I avoid fake Mega888 apps?
+                                        How do I avoid fraudulent Mega888 apps?
                                     </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Only download from known platforms like <b>slotmega888.app</b>. Avoid apps with unlimited credit offers — they’re usually scams.
+                                        It is best to download apk only from trusted platforms like us. If others offer you unlimited credit, that most probably would be a scam.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                        How do I get free credits or bonuses?
+                                        How can I get free credit or bonuses?
                                     </button>
                                     </h3>
                                     <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Mega888 offers welcome bonuses and deposit bonuses weekly. These are listed inside the app and vary by season. New users usually get a first deposit bonus.
+                                        Mega888 offers welcome bonuses and deposit bonuses weekly. New players usually get a first deposit bonus.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        What happens if my Mega888 app stops updating?
+                                        If I notice that my Mega888 app does not update anymore, what do I do?
                                     </button>
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Uninstall the current version and reinstall from slotmega888.app to get the latest release.
+                                        Uninstall what you have now and then install from slotmega888.app for the most updated version.
                                     </div>
                                     </div>
                                 </div>
@@ -414,19 +423,19 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes. But avoid logging in at the same time on two devices.
+                                        Yes. But avoid logging in on two different devices at the same time.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                        Can I switch from a kiosk agent to another agent later?
+                                        Can I switch from one agent to another?
                                     </button>
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes, but you’ll need to create a new account under the new agent.
+                                        Yes, but you’ll have another new account under the new agent. Choice is yours.
                                     </div>
                                     </div>
                                 </div>
@@ -438,7 +447,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Yes, the app supports Malay, English, and Chinese depending on your preference.
+                                        Yes, Mega888 supports Malay, English, and Chinese depending on your preference.
                                     </div>
                                     </div>
                                 </div>
@@ -462,7 +471,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        It’s a security measure to prevent session hijacking after version changes.
+                                        It’s just a standard procedure for security measures to prevent session hijacking after version changes. 
                                     </div>
                                     </div>
                                 </div>
@@ -474,7 +483,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Change your password immediately and contact support to review recent activity.
+                                        Request changing password immediately and contact support to review recent activity.
                                     </div>
                                 </div>
                             </div>

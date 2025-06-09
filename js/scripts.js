@@ -2,18 +2,20 @@ $(document).ready(function() {
 	var lastScrollTop = 0,
 		navbar = $('#masthead');
 
-    document.getElementById('install-btn').addEventListener('click', function() {
-		const url = window.location.href;
-		const title = document.title;
-		const shortcutContent = `[InternetShortcut]\nURL=${url}`;
+	if( $('#install-btn')[0] ) {
+		document.getElementById('install-btn').addEventListener('click', function() {
+			const url = window.location.href;
+			const title = document.title;
+			const shortcutContent = `[InternetShortcut]\nURL=${url}`;
 
-		const blob = new Blob([shortcutContent], { type: 'application/octet-stream' });
-		const a = document.createElement('a');
-		a.href = URL.createObjectURL(blob);
-		a.download = `${title}.url`;
-		a.click();
-		URL.revokeObjectURL(a.href);
-    });
+			const blob = new Blob([shortcutContent], { type: 'application/octet-stream' });
+			const a = document.createElement('a');
+			a.href = URL.createObjectURL(blob);
+			a.download = `${title}.url`;
+			a.click();
+			URL.revokeObjectURL(a.href);
+		});
+	}
 	
 	$('.share-button').click(function() {
 		const network = $(this).data('network');
