@@ -21,6 +21,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
+                            <div class="page-starter d-block mx-auto mb-4"><img src="./images/mega888-logo.png" class="img-fluid w-100"/></div>
                             <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">
                                 <a href="#" class="btn btn-rounded btn-with-icon btn-telegram text-white"><?php echo $icon_telegram_white;?><span>Telegram</span></a>
                                 <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span>WhatsApp</span></a>
@@ -34,8 +35,8 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0 deviceSwiper" id="deviceSwiper">
-                            <div class="d-md-flex flex-md-wrap swiper-wrapper">
-                                <div class="col-12 col-md-4 px-0 px-md-4 mb-0 swiper-slide">
+                            <div class="d-md-flex flex-md-wrap device-wrapper">
+                                <div class="col-md-4 px-0 px-md-4 mb-0 device-slide">
                                     <div class="platform platform-android rounded p-4">
                                         <div class="platform-inner">
                                             <div class="platform-thumbnail mb-4">
@@ -51,7 +52,7 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                                 
-                                <div class="col-12 col-md-4 px-0 px-md-4 mb-0 swiper-slide">
+                                <div class="col-md-4 px-0 px-md-4 mb-0 device-slide">
                                     <div class="platform platform-ios rounded p-4">
                                         <div class="platform-inner">
                                             <div class="platform-thumbnail mb-4">
@@ -67,7 +68,7 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                                 
-                                <div class="col-12 col-md-4 px-0 px-md-4 mb-0 swiper-slide">
+                                <div class="col-md-4 px-0 px-md-4 mb-0 device-slide">
                                     <div class="platform platform-windows rounded p-4">
                                         <div class="platform-inner">
                                             <div class="platform-thumbnail mb-4">
@@ -92,7 +93,21 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <h2 class="text-white text-center mb-5">Not Sure Which Game to Play Today?</h2>
+                            <?php echo $a2hs_banner;?>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="slotmachine" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
+                            <h2 class="text-white text-center mb-5">Not Sure Which Mega888 Game to Play Today?</h2>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-11 col-xl-7 col-xxl-6 px-4">
                             <div class="slotbase">
                                 <h4 class="slot-header">RTP Game</h4>
                                 <div class="slot-body">
@@ -159,57 +174,6 @@ include 'inc/functions.php';
                                     <li><a class="link" href="#toc12">Your Data is Private and Here’s How We Protect It</a></li>
                                     <li><a class="link" href="#toc13">Frequently Asked Questions (FAQ)</a></li>
                                 </ol>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="" id="keytakeaways">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
-                            <div class="d-flex flex-wrap justify-content-center">
-                                <div class="text-editor">
-                                    <h2 class="text-center mb-4">Key Takeaways</h2>
-                                </div>
-                            </div>
-                            <div class="d-flex flex-wrap justify-content-center">
-                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="d-flex align-items-center iconbox rounded p-4">
-                                        <div class="iconbox-inner text-center">
-                                            <p>Official app download for Android (APK) and iOS</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="d-flex align-items-center iconbox rounded p-4">
-                                        <div class="iconbox-inner text-center">
-                                            <p>Safe and private installation walkthrough</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="d-flex align-items-center iconbox rounded p-4">
-                                        <div class="iconbox-inner text-center">
-                                            <p>Fast registration and deposit process</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-4">
-                                    <div class="d-flex align-items-center iconbox rounded p-4">
-                                        <div class="iconbox-inner text-center">
-                                            <p>pve bonus updates and winning strategies</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6 col-xl-4 px-4 mb-0 mb-md-4">
-                                    <div class="d-flex align-items-center iconbox rounded p-4">
-                                        <div class="iconbox-inner text-center">
-                                            <p>Full support for responsible gaming and user data privac</p>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

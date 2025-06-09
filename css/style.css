@@ -74,9 +74,6 @@ main {
 section {
     padding: 30px 0;
 }
-.slotmachine {
-    padding: 70px 0;
-}
 .section-default-padding {
     padding: 90px 0;
 }
@@ -249,6 +246,9 @@ a, button, .btn, a.button, button.btn {
 .platform-windows .btn.btn-download{
     background: rgba(0, 188, 242, 1);
 }
+.page-starter {
+    width: 150px;
+}
 .slotbase {
     text-align: center;
     max-width: 500px;
@@ -262,20 +262,20 @@ a, button, .btn, a.button, button.btn {
 }
 .slotwrapper, .slotwrapper ul {
     width: 100%;
-    height: 250px;
+    height: 180px;
 }
 .slotwrapper ul {
-    line-height: 250px;
+    line-height: 180px;
 }
 .slotwrapper ul li {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 0 20px;
-    font-size: 60px;
-    line-height: 75px;
-    min-height: 250px;
-    max-height: 250px;
+    font-size: 30px;
+    line-height: 42px;
+    min-height: 180px;
+    max-height: 180px;
 }
 .slot-header {
     background-color: #ff5627;
@@ -295,7 +295,7 @@ a, button, .btn, a.button, button.btn {
     background: linear-gradient(0deg, #ff5627, #ffab18);
 }
 #rtp-game-list {
-    height: 250px;
+    height: 180px;
 }
 #rtp-game-list ul {
     position: relative;
@@ -313,8 +313,8 @@ a, button, .btn, a.button, button.btn {
     background-color: #fff;
 }
 .slotbase .btn-spin {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     padding: 15px;
     border-radius: 75px;
     background: linear-gradient(180deg, #ff5627, #ffab18);
@@ -395,10 +395,7 @@ a, button, .btn, a.button, button.btn {
 }
 .navbar-brand {
     display: block;
-    width: 88px;
-}
-.scroll-down .navbar-brand {
-    width: 60px;
+    width: 55px;
 }
 .navbar-toggler, .quad-box, .quad-inner {
     display: flex;
@@ -419,6 +416,9 @@ a, button, .btn, a.button, button.btn {
 }
 .navbar-toggler:hover, .btn-copy-clipboard:hover, .share-buttons .share-button:hover::before, .link:hover, a.link:hover, .footer-nav .nav-item .nav-link:hover, .floating-list-inner .floating-item:hover {
     opacity: 0.8;
+}
+.iconbox, .quad-box {
+    height: 100%;
 }
 .quad-inner {
     position: absolute;
@@ -588,16 +588,42 @@ a, button, .btn, a.button, button.btn {
     background: linear-gradient(0deg, #58cffc, #438FF0);
 }
 #a2hs-banner {
-    display:none;
-    position:fixed;
+    display: block;
+    position: relative;
     left: 0;
     bottom:0;
     width:100%; 
     background: linear-gradient(0deg, #ff5627, #ffab18);
     color:#fff;
-    padding:10px;
+    padding: 24px;
     text-align:center;
-    z-index:999;
+    border-radius: 12px;
+}
+#a2hs-banner.default {
+    background: linear-gradient(125deg, #6168ec, #9d47bb, #9d47bb, #df1f82);
+}
+#a2hs-banner .btn {
+    width: 55px;
+    height: 55px;
+}
+#install-btn .fa-home {
+    font-size: 28px;
+}
+#install-btn .floating-plus {
+    position: absolute;
+    top: 10px;
+    right: 8px;
+    color: #00a900;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#install-btn .floating-plus i {
+    font-size: 18px;
 }
 .floating-list {
     display: none;
@@ -638,7 +664,7 @@ a, button, .btn, a.button, button.btn {
 .accordion {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 10px;
     border-radius: 0;
 }
 .accordion-item:first-of-type>.accordion-header .accordion-button, .accordion-item:first-of-type {
@@ -690,20 +716,4 @@ a, button, .btn, a.button, button.btn {
     width: 0;
     background-color: #3484ce;
     z-index: 1;
-}
-#install-btn .fa-home {
-    font-size: 20px;
-}
-#install-btn .floating-plus {
-    position: absolute;
-    top: 1px;
-    right: 6px;
-    color: #00a900;
-    width: 16px;
-    height: 16px;
-    border-radius: 8px;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }

@@ -77,6 +77,7 @@
     if( !empty($page_slug) ) {
         if( $page_slug == 'home' ) {
             echo '<script type="text/javascript" src="./js/slotmachine.min.js"></script>';
+            echo '<script type="text/javascript" src="./js/jquery.easing.min.js"></script>';
             echo '<script type="text/javascript" src="./js/scripts-home.js"></script>';
         }
         if( $page_slug == 'mega888-rtp' ) {
@@ -98,19 +99,6 @@
             <div class="floating-item back-to-top" id="back-to-top"><span class="d-none">Back To Top</span><?php echo $icon_backtotop;?></div>
             <div class="floating-item whatsapp">
                 <a href="https://wa.me/60123456789" target="_blank"><span class="d-none">WhatsApp</span><?php echo $icon_whatsapp;?></a>
-            </div>
-        </div>
-    </div>
-    <div id="a2hs-banner">
-        <div class="d-flex flex-column flex-md-row justify-content-center align-items-center py-3 gap-3 gap-md-4">
-            <span>Add this app to your home screen for a better experience.</span>
-            <div class="btn-wrapper">
-                <button id="install-btn" class="btn btn-default">
-                    <span class="d-none">Add</span>
-                    <i class="fa fa-home"></i>
-                    <span class="floating-plus"><i class="fa fa-plus-circle"></i></span>
-                </button>
-                <button id="dismiss-btn" class="btn btn-default"><span>Dismiss</span></button>
             </div>
         </div>
     </div>

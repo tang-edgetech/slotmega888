@@ -26,7 +26,7 @@
         transform: translateY(-120px);
     }
     #deviceSwiper .swiper-slide {
-        width: 300px;
+        width: 260px;
     }
     .enquiry-sources .btn-wrapper .btn {
         width: 100%;
@@ -80,7 +80,7 @@
     }
 }
 @media (min-width: 768px) {
-    .platform, .platform-inner, .iconbox, .quad-box {
+    .platform, .platform-inner {
         height: 100%;
     }
 }

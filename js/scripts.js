@@ -1,10 +1,6 @@
 $(document).ready(function() {
 	var lastScrollTop = 0,
 		navbar = $('#masthead');
-	
-	setTimeout(function() {
-		$('#a2hs-banner').fadeIn();
-	}, 1000);
 
     document.getElementById('install-btn').addEventListener('click', function() {
 		const url = window.location.href;
@@ -18,14 +14,7 @@ $(document).ready(function() {
 		a.click();
 		URL.revokeObjectURL(a.href);
     });
-
-	$(document).on('click', '#dismiss-btn', function() {
-		$('#a2hs-banner').fadeOut();
-		setTimeout(function() {
-			$('#a2hs-banner').remove();
-		}, 300);
-    });
-
+	
 	$('.share-button').click(function() {
 		const network = $(this).data('network');
 		const pageUrl = encodeURIComponent(window.location.href);
