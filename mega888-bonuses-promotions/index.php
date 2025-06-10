@@ -339,7 +339,7 @@ include '../inc/functions.php';
                                 <p>No. Bonuses are one at a time per account. After using one, you can claim another. But not all at once.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">When You Miss a Bonus Deadline</h3>
-                                <p>Missed a promo? <b><a href="<?php echo $site_base_url;?>">Contact us</a></b>. If it's still within the event period and your deposit is verified, we may still honor it.</p>
+                                <p>Missed a promo? <b><a href="<?php echo $site_base_url;?>contact/">Contact us</a></b>. If it's still within the event period and your deposit is verified, we may still honor it.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc11">Eligibility for VIP</h3>
                                 <p>Our team will message you privately once you qualify. You can also ask us directly if you’ve been active.</p>

@@ -214,11 +214,11 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                     <h1 id="toc1">About SlotMega888.app – Official Mega888 Platform for Malaysia’s Top Slot App</h1>
-                                    <p>Welcome to <a href="<?php echo $site_base_url;?>"><b>slotmega888.app</b></a> where the trusted place where Malaysian players go to download, learn, and play Mega888 safely. Whether you’re just starting out or already using the app, this guide shows what Mega888 is, how it works, and why so many people in Malaysia choose us.</p>
+                                    <p>Welcome to slotmega888.app where the trusted place where Malaysian players go to download, learn, and play Mega888 safely. Whether you’re just starting out or already using the app, this guide shows what Mega888 is, how it works, and why so many people in Malaysia choose us.</p>
                                     <p>We also help you install the app correctly, understand your payment options, and play safely.</p>
                                     <p>&nbsp;</p>
                                     <h2 id="toc2">About Mega888 You Would Like To Know</h2>
-                                    <p><b>Mega888</b> is a mobile slot app where you can play for real money. It started in Southeast Asia and is now one of Malaysia’s most popular apps for Android and iPhone users. It offers slot games, fishing games, table games like blackjack, and even live dealers.</p>
+                                    <p><b><a href="<?php echo $site_base_url;?>">Mega888 mobile slot app</a></b> where you can play for real money. It started in Southeast Asia and is now one of Malaysia’s most popular apps for Android and iPhone users. It offers slot games, fishing games, table games like blackjack, and even live dealers.</p>
                                     <p>Mega888 is known for smooth gameplay, high RTP (return-to-player) games, fast withdrawals, and secure data. It works well on most phones and is updated often to keep things fair and stable.</p>
                                     <p>&nbsp;</p>
                                     <h3 id="toc3">Who We Are at SlotMega888.app</h3>

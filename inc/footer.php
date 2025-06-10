@@ -5,31 +5,12 @@
                 <img src="images/mega888-logo.png" class="img-fit"/>
             </a>
         </div>
-        <div class="col-12 col-md-11 col-xl-9">
-            <div class="d-flex flex-wrap">
-                <div class="col-12 col-md-3 px-md-2 px-xl-4">
-                    <div class="footer-column py-3 pt-md-4">
-                        <h4 class="text-uppercase text-white mb-4">Sitemap</h4>
-                        <!-- <ul class="nav footer-nav d-flex flex-wrap gap-3">
-                            <li class="nav-item">
-                                <a href="javascript:void(0);" class="nav-link text-white p-0">Lorem Ipsum</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0);" class="nav-link text-white p-0">Lorem Ipsum</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0);" class="nav-link text-white p-0">Lorem Ipsum</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0);" class="nav-link text-white p-0">Lorem Ipsum</a>
-                            </li>
-                        </ul> -->
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 px-md-2 px-xl-4">
+        <div class="col-12 col-md-9 col-xl-6">
+            <div class="d-flex flex-wrap justify-content-center">
+                <div class="col-12 text-center">
                     <div class="footer-column py-3 pt-md-4">
                         <h4 class="text-uppercase text-white mb-4">Follow Us</h4>
-                        <ul class="nav social-media">
+                        <ul class="nav social-media justify-content-center d-flex">
                             <li class="nav-item facebook">
                                 <a href="javascript:void(0);" class="nav-link"><span class="d-none">Facebook</span></a>
                             </li>
@@ -53,8 +34,6 @@
                             </li>
                         </ul>
                     </div>
-                </div>
-                <div class="col-12 col-md-5 px-md-2 px-xl-4">
                     <div class="footer-column py-3 pt-md-4">
                         <h4 class="text-uppercase text-white mb-4">Location</h4>
                         <div class="map-iframe">
