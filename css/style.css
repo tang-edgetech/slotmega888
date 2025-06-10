@@ -77,8 +77,13 @@ section {
 .section-default-padding {
     padding: 90px 0;
 }
-h1, h2, h3, h4, h5, h6, b, strong {
+h1, h2, h3, h4, h5, h6, b, strong, .text-editor > p > b > a {
     font-weight: var(--fw-semi-bold);
+}
+.text-editor h1 a, .text-editor h2 a, .text-editor h3 a, .text-editor h4 a, .text-editor h5 a, .text-editor h6 a {
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
 }
 p, a, li, a, th, td, input, textarea, select, label, button {
     font-weight: var(--fw-regular);
@@ -118,6 +123,14 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
 }
 p, ul, ol {
     margin-bottom: 0.5rem;
+}
+.text-editor li p a, .text-editor li p a:hover, 
+.text-editor li a, .text-editor li a:hover,
+.text-editor > p > a, .text-editor > p > a:hover, .text-editor > p > b > a, .text-editor > p > b > a:hover {
+    color: #ffae18;
+}
+.text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
+    text-decoration: underline;
 }
 table thead tr th{
     background-color: #9db0c7!important;

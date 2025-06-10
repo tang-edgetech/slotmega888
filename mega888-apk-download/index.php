@@ -229,7 +229,7 @@ include '../inc/functions.php';
                                 <p>Players report that Mega888 works well and is smooth on low-spec Android phones. It operates efficiently with 4G and supports games with a high rate of play. In addition, it combines well with Maybank, CIMB, RHB, Touch ‘n Go, Boost, Grab Pay, Shopee Pay and Crypto which are used in Malaysia for payments. Mega888 loads much faster and has stronger security compared to other browser-based sites. </p>
                                 <p>&nbsp;</p>
                                 <h3 id="apktoc3">Step 1: Download Mega888 APK Safely</h3>
-                                <p>Always get the Mega888 APK from <a href="https://slotmega888.app/">slotmega888.app</a> and avoid all other sites, forums or Telegram channels. Such sites often have malware or are designed to trick you. </p>
+                                <p>Always get the Mega888 APK from slotmega888.app and avoid all other sites, forums or Telegram channels. Such sites often have malware or are designed to trick you. </p>
                                 <p>&nbsp;</p>
                                 <table class="table table-striped mb-0">
                                     <thead>
