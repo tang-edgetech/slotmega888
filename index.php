@@ -16,6 +16,7 @@ include 'inc/functions.php';
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://slotmega888.app/">
         <meta property="og:title" content="Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888">
+        <meta property="og:description" content="Download the trusted Mega888 APK for Android, iOS, and PC. Fast registration, secure gameplay, real-time bonuses and promotions, and 24/7 support.">
         <meta property="adscription" content="Download the trusted Mega888 APK for Android, iOS, and PC. Fast registration, secure gameplay, real-time bonuses and promotions, and 24/7 support.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
