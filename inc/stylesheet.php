@@ -1,3 +1,4 @@
+<meta name="robots" content="index, follow">
 <link rel="icon" type="image/png" href="<?php echo $site_base_url.'images/mega888-favicon.png';?>" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
