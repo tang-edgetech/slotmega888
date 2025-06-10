@@ -285,7 +285,7 @@ include '../inc/functions.php';
                                     <li>Use WiFi or stable 4G / 5G</li>
                                     <li>Turn off battery saver mode</li>
                                     <li>Clear app cache regularly</li>
-                                    <li>Keep your Mega888 app updated from slotmega888.app</li>
+                                    <li>Keep your <a href="<?php echo $site_base_url;?>">Mega888 app</a> updated from slotmega888.app</li>
                                 </ul>
                                 <p><b>More control = better decisions = less money wasted.</b></p>
                                 <p>&nbsp;</p>

@@ -229,7 +229,7 @@ include '../inc/functions.php';
                                 <p>At <b>slotmega888.app</b>, other than just playing Mega888, you get rewarded for playing it. As an official Mega888 kiosk agent in Malaysia, we offer verified bonuses, free credits, and VIP rewards that are manually approved, fast to claim, and built for real players. No spam, no gimmicks, and no agents who vanish with your money.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Welcome Bonus for New Players – Real Extra Credit on Your First Deposit</h2>
-                                <p>If you're a first-time player registering through <b>slotmega888.app</b>, we’ll give you an extra bonus on your first top-up. Once you deposit at least RM30, you can claim a 50% bonus up to RM150. You only need to meet a simple <b>5x turnover</b> before withdrawing.</p>
+                                <p>If you're a first-time player registering through <b>slotmega888.app</b>, we’ll give you an extra bonus on your first top-up. Once you deposit at least RM30, you can <a href="<?php echo $site_base_url;?>">claim a 50% bonus up to RM150</a>. You only need to meet a simple <b>5x turnover</b> before withdrawing.</p>
                                 <p><b>Bonus Overview:</b></p>
                                 <ul>
                                     <li><b>Type: </b>First Deposit Bonus</li>
@@ -274,7 +274,7 @@ include '../inc/functions.php';
                                 <h3 id="toc6">How to Claim Your Bonus the Right Way</h3>
                                 <p>Getting your bonus is simple. No promo codes or messy forms.</p>
                                 <ol>
-                                    <li>Register your Mega888 account through slotmega888.app</li>
+                                    <li><a href="<?php echo $site_base_url;?>">Register your Mega888 account</a> through slotmega888.app</li>
                                     <li>Deposit RM30 or more</li>
                                     <li>Send your Game ID + receipt to us on WhatsApp or Telegram</li>
                                     <li>We credit your bonus after confirming your top-up</li>
@@ -339,7 +339,7 @@ include '../inc/functions.php';
                                 <p>No. Bonuses are one at a time per account. After using one, you can claim another. But not all at once.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">When You Miss a Bonus Deadline</h3>
-                                <p>Missed a promo? Contact us. If it's still within the event period and your deposit is verified, we may still honor it.</p>
+                                <p>Missed a promo? <a href="<?php echo $site_base_url;?>">Contact us</a>. If it's still within the event period and your deposit is verified, we may still honor it.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc11">Eligibility for VIP</h3>
                                 <p>Our team will message you privately once you qualify. You can also ask us directly if you’ve been active.</p>
