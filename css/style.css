@@ -84,6 +84,7 @@ h1, h2, h3, h4, h5, h6, b, strong, .text-editor > p > b > a {
     color: inherit;
     font-size: inherit;
     line-height: inherit;
+    font-weight: inherit;
 }
 p, a, li, a, th, td, input, textarea, select, label, button {
     font-weight: var(--fw-regular);
@@ -124,11 +125,13 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
 p, ul, ol {
     margin-bottom: 0.5rem;
 }
+.text-editor h1 > a, .text-editor h2 > a, .text-editor h3 > a, .text-editor h4 > a, .text-editor h5 > a, .text-editor h6 > a,
 .text-editor li p a, .text-editor li p a:hover, 
 .text-editor li a, .text-editor li a:hover,
 .text-editor > p > a, .text-editor > p > a:hover, .text-editor > p > b > a, .text-editor > p > b > a:hover {
     color: #ffae18;
 }
+.text-editor h1 > a:hover, .text-editor h2 > a:hover, .text-editor h3 > a:hover, .text-editor h4 > a:hover, .text-editor h5 > a:hover, .text-editor h6 > a:hover,
 .text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
     text-decoration: underline;
 }
