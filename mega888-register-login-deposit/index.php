@@ -217,7 +217,7 @@ include '../inc/functions.php';
                                 <p>If you're ready to start playing Mega888 and want a trusted place to register, log in, and deposit, you're in the right place.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">How Registration Works on Mega888 (Kiosk System)</h2>
-                                <p>You can’t sign up directly inside the app. Mega888 uses a kiosk system, which means your account must be created by an <a href="<?php echo $site_base_url;?>">official Mega888 agent</a> like us. This keeps the game secure and blocks bots and scam accounts.</p>
+                                <p>You can’t sign up directly inside the app. Mega888 uses a kiosk system, which means your account must be created by an <b><a href="<?php echo $site_base_url;?>">official Mega888 agent</a></b> like us. This keeps the game secure and blocks bots and scam accounts.</p>
                                 <p><b>How to register:</b></p>
                                 <ol>
                                     <li>Contact us via WhatsApp or Telegram</li>
