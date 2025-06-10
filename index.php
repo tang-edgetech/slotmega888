@@ -400,8 +400,8 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>Performing these steps usually resolves most problems without needing further troubleshooting.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc6"><a href="<?php echo $site_base_url;?>mega888-register-login-deposit/">Mega888 Register</a> in Less Than 2 Minutes</h3>
-                                <p>Registering for Mega888 only takes a short time and doesn’t require you to send any documents. Because Mega888 slotmega888.app operates through a kiosk system, you’ll first need to contact our customer service agent “Amoi”.</p>
+                                <h3 id="toc6">Mega888 Register in Less Than 2 Minutes</h3>
+                                <p><b><a href="<?php echo $site_base_url;?>mega888-register-login-deposit/">Registering for Mega888</a></b> only takes a short time and doesn’t require you to send any documents. Because Mega888 slotmega888.app operates through a kiosk system, you’ll first need to contact our customer service agent “Amoi”.</p>
                                 <p><b>To register your Mega888 account, you need to:</b></p>
                                 <ul>
                                     <li>Contact our trusted Mega888 agent via WhatsApp or Telegram</li>
@@ -439,7 +439,7 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3 id="toc9">Learning the Mega888 Winning Strategies & Guides</h3>
-                                <p>You can win on Mega888 by being smart and careful in choosing your games, instead of just relying on luck. It is essential to pick the particular games with higher <a href="<?php echo $site_base_url;?>mega888-rtp">RTP percentages</a>. A lot of Malaysian players suggest playing Ocean King, Safari Heat and Panther Moon to increase their payouts.</p>
+                                <p>You can win on Mega888 by being smart and careful in choosing your games, instead of just relying on luck. It is essential to pick the particular games with higher <b><a href="<?php echo $site_base_url;?>mega888-rtp">RTP percentages</a></b>. A lot of Malaysian players suggest playing Ocean King, Safari Heat and Panther Moon to increase their payouts.</p>
                                 <p><b>Strategies that work well:</b></p>
                                 <ul>
                                     <li>Avoid spinning randomly, pick your game based on payout history</li>
@@ -448,10 +448,10 @@ include 'inc/functions.php';
                                     <li>Don’t try to recover your losses with bigger bets; choose consistent betting amounts</li>
                                     <li>Watch your timing over trying to go as fast as possible</li>
                                 </ul>
-                                <p>Smart play, using a basic system, is enough to win, with discipline and good decision making. <a href="<?php echo $site_base_url;?>mega888-strategies-guides">Mega888 strategy and guide</a> contains more detailed information on how to play slots.</p>
+                                <p>Smart play, using a basic system, is enough to win, with discipline and good decision making. <b><a href="<?php echo $site_base_url;?>mega888-strategies-guides">Mega888 strategy and guide</a></b> contains more detailed information on how to play slots.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">Is it Safe to Use and Download Mega888?</h3>
-                                <p><a href="<?php echo $site_base_url;?>about-mega888">Mega888</a> remains secure as long as you get the application from a trusted site like slotmega888.app. The app applies end-to-end encryption to both logging in and sending money, so your information and money are safe. Software on mobile phones is frequently updated to fix bugs and increase security.</p>
+                                <p><b><a href="<?php echo $site_base_url;?>about-mega888">Mega888</a></b> remains secure as long as you get the application from a trusted site like slotmega888.app. The app applies end-to-end encryption to both logging in and sending money, so your information and money are safe. Software on mobile phones is frequently updated to fix bugs and increase security.</p>
                                 <p><b>The best way to stay safe is to use these tips:</b></p>
                                 <ul>
                                     <li>Only download the APK file from websites that are reliable</li>
@@ -462,10 +462,10 @@ include 'inc/functions.php';
                                 <p>Choosing a famous platform helps you stay away from malware, losing your account and receiving fake game variants.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc11">Slotmega888.app Commitment to Responsible Gambling</h3>
-                                <p>Slotmega888 shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <a href="<?php echo $site_base_url;?>responsible-gaming">Responsible Gambling guide</a>.</p>
+                                <p>Slotmega888 shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <b><a href="<?php echo $site_base_url;?>responsible-gaming">Responsible Gambling guide</a></b>.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc12">Your Data Belongs to You and This is How We Keep It Safe</h3>
-                                <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our <a href="<?php echo $site_base_url;?>privacy-policy">Privacy Policy</a> explains the process of collecting, using and safeguarding your personal details.</p>
+                                <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our <b><a href="<?php echo $site_base_url;?>privacy-policy">Privacy Policy</a></b> explains the process of collecting, using and safeguarding your personal details.</p>
                             </div>
                         </div>
                     </div>

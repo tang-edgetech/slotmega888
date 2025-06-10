@@ -216,7 +216,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 <h3 id="iostoc3">How to Download and Install Mega888 iOS Cautiously (Step-by-Step for 2025)</h3>
                                 <ol>
-                                    <li>Visit the official Mega888 at <a href="https://slotmega888.app/">slotmega888.app</a></li>
+                                    <li>Visit the official Mega888 at <b><a href="<?php echo $site_base_url;?>">slotmega888.app</a></b></li>
                                     <li>Tap <b>“Download iOS”</b></li>
                                     <li>When prompted, tap <b>“Allow”</b> to approve profile installation</li>
                                     <li>Open <b>Settings > General > VPN & Device Management</b></li>

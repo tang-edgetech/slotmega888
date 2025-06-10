@@ -232,7 +232,7 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h2 id="toc2">Latest Mega888 Highest RTP Games</h2>
-                                <p>If you're playing Mega888 without knowing about RTP, you're making blind bets. RTP, or Return to Player, tells you how much a game usually pays back over tie. This page explains what RTP really means, which games have the highest RTP on <a href="<?php echo $site_base_url;?>">Mega888</a>, and how you can use that ifo to keep your credit balance safe.</p>
+                                <p>If you're playing Mega888 without knowing about RTP, you're making blind bets. RTP, or Return to Player, tells you how much a game usually pays back over tie. This page explains what RTP really means, which games have the highest RTP on <b><a href="<?php echo $site_base_url;?>">Mega888</a></b>, and how you can use that ifo to keep your credit balance safe.</p>
                                 <p>&nbsp;</p>
                             </div>
                         </div>
