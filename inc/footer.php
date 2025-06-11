@@ -5,7 +5,7 @@
                 <picture>
                     <source srcset="./images/mega888-logo.webp" type="image/webp">
                     <source srcset="./images/mega888-logo.png" type="image/png">
-                    <img src="images/mega888-logo.png" class="img-fit" alt="Mega888 Logo"/>
+                    <img src="images/mega888-logo.png" width="80px" height="80px" class="img-fit" alt="Mega888 Logo"/>
                 </picture>
             </a>
         </div>
