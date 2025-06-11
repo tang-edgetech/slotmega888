@@ -382,11 +382,12 @@ include 'inc/functions.php';
                                 <ul>
                                     <li>Works well with iPhone models 7 to 16</li>
                                     <li>Delete unnecessary apps from the background to enjoy optimal performance</li>
-                                    <li>If stuck on the loading screen, try:</li>
-                                    <ul>
-                                        <li>Clearing your web browser cache</li>
-                                        <li>Re-trusting the relevant profile under the settings</li>
-                                    </ul>
+                                    <li>If stuck on the loading screen, try:
+                                        <ul>
+                                            <li>Clearing your web browser cache</li>
+                                            <li>Re-trusting the relevant profile under the settings</li>
+                                        </ul>
+                                    </li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3 id="toc5">What Are the Typical Problems with the Mega888 (and How Can You Fix Them) </h3>
@@ -407,13 +408,14 @@ include 'inc/functions.php';
                                 <ul>
                                     <li>Contact our trusted Mega888 agent via WhatsApp or Telegram</li>
                                     <li>Customer support will register and share the login information with you s</li>
-                                    <li>You’ll then bank in your first deposit via:</li>
-                                    <ul>
-                                        <li>Malaysia Local Bank Transfer</li>
-                                        <li>E-Wallet</li>
-                                        <li>Mobile Payment</li>
-                                        <li>Cryptocurrency</li>
-                                    </ul>
+                                    <li>You’ll then bank in your first deposit via:
+                                        <ul>
+                                            <li>Malaysia Local Bank Transfer</li>
+                                            <li>E-Wallet</li>
+                                            <li>Mobile Payment</li>
+                                            <li>Cryptocurrency</li>
+                                        </ul>
+                                    </li>
                                     <li>Your account is activated once payment is confirmed</li>
                                 </ul>
                                 <p>With this method, you are all set to begin work almost immediately. In case you want to access your account later, help is available. Will also teach you how to make deposits, withdrawals and manage any issues you meet.</p>
