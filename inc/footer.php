@@ -1,8 +1,12 @@
 <footer class="footer px-4 px-md-2 px-xl-3" id="mastfoot">
     <div class="d-flex flex-wrap flex-row w-100 justify-content-center gap-4">
         <div class="col-12 px-2 px-md-3 py-4 footer-logo">
-            <a href="." class="navbar-brand">
-                <img src="images/mega888-logo.png" class="img-fit" alt="Mega888 Logo"/>
+            <a href="/" class="navbar-brand">
+                <picture>
+                    <source srcset="./images/mega888-logo.webp" type="image/webp">
+                    <source srcset="./images/mega888-logo.png" type="image/png">
+                    <img src="images/mega888-logo.png" class="img-fit" alt="Mega888 Logo"/>
+                </picture>
             </a>
         </div>
         <div class="col-12 col-md-9 col-xl-6">

@@ -3,7 +3,11 @@
         <div class="navbar-row">
             <a href="/" class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="<?php echo $site_base_url;?>images/mega888-logo.png" class="img-fit" alt="Mega888 Logo"/>
+                <picture>
+                    <source srcset="./images/mega888-logo.webp" type="image/webp">
+                    <source srcset="./images/mega888-logo.png" type="image/png">
+                    <img src="<?php echo $site_base_url;?>images/mega888-logo.png" alt="Mega888 Logo" class="img-fit w-100">
+                </picture>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="d-none">Open Mobile Menu</span>
