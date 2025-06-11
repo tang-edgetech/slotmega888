@@ -18,6 +18,9 @@
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
                     <ul class="navbar-nav nav w-100 w-xl-auto p-4 p-xl-0">
+                        <li class="nav-item">
+                            <a href="<?php echo $site_base_url;?>" class="nav-link d-xl-none">Home</a>
+                        </li>
                         <li class="nav-item dropdown">
                             <a href="javascript:void(0);" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mega888 Download</a>
                             <ul class="dropdown-menu">
