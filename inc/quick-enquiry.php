@@ -2,7 +2,13 @@
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
-                <div class="page-starter d-block mx-auto mb-4"><img src="./images/mega888-logo.png" class="img-fluid w-100" alt="Mega888 Logo" /></div>
+                <div class="page-starter d-block mx-auto mb-4">
+                    <picture>
+                        <source srcset="./images/mega888-logo.webp" type="image/webp">
+                        <source srcset="./images/mega888-logo.png" type="image/png">
+                        <img src="./images/mega888-logo.png" alt="Mega888 Logo" class="img-fluid w-100">
+                    </picture>
+                </div>
                 <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">
                     <a href="#" class="btn btn-rounded btn-with-icon btn-telegram text-white"><?php echo $icon_telegram_white;?><span><b>Telegram</b></span></a>
                     <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span><b>WhatsApp</b></span></a>
