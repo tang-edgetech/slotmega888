@@ -37,7 +37,7 @@
                     <div class="footer-column py-3 pt-md-4">
                         <h4 class="text-uppercase text-white mb-4">Location</h4>
                         <div class="map-iframe">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.797981307952!2d101.61343627497112!3d3.1479379968274586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc495e8a352251%3A0x18d66b44ea097a64!2sMega888%20(Official%20Malaysia)!5e0!3m2!1sen!2ssg!4v1748920271803!5m2!1sen!2ssg" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.797981307952!2d101.61343627497112!3d3.1479379968274586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc495e8a352251%3A0x18d66b44ea097a64!2sMega888%20(Official%20Malaysia)!5e0!3m2!1sen!2ssg!4v1748920271803!5m2!1sen!2ssg" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mega888 Office"></iframe>
                         </div>
                     </div>
                 </div>

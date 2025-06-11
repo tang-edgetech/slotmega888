@@ -1,9 +1,9 @@
 <header class="masthead px-2 px-xl-3 py-3" id="masthead">
     <nav class="navbar navbar-expand-xl bg-light rounded px-3 pe-xxl-5">
         <div class="navbar-row">
-            <a href="." class="navbar-brand">
+            <a href="/" class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="<?php echo $site_base_url;?>images/mega888-logo.png" class="img-fit"/>
+                <img src="<?php echo $site_base_url;?>images/mega888-logo.png" class="img-fit" alt="Mega888 Logo"/>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="d-none">Open Mobile Menu</span>
