@@ -6,7 +6,7 @@
                     <picture>
                         <source srcset="./images/mega888-logo.webp" type="image/webp">
                         <source srcset="./images/mega888-logo.png" type="image/png">
-                        <img src="./images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo">
+                        <img src="./images/mega888-logo.png" width="200px" height="200px" alt="Mega888 Logo" class="logo">
                     </picture>
                 </div>
                 <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">
