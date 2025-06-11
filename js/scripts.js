@@ -8,6 +8,18 @@ $(document).ready(function() {
     $(window).on('resize', autoBuildDestroyDeviceSwiper);
     function autoBuildDestroyDeviceSwiper() {
         if( window.matchMedia("(max-width: 767px)").matches ) {
+			$(document).on('click', function(e) {
+				var $target = $(e.target);
+
+				// If navbar is shown
+				if ($('.navbar-collapse').hasClass('show')) {
+					// If click is **not** inside .navbar-collapse-inner
+					if (!$target.closest('.navbar-collapse-inner').length) {
+						$('.navbar-collapse').collapse('hide');
+					}
+				}
+			});
+
             if( !deviceSwiper ) {
                 $("#deviceSwiper").addClass('swiper');
                 $("#deviceSwiper .device-wrapper").addClass('swiper-wrapper');
