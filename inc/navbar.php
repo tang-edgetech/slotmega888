@@ -14,7 +14,7 @@
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
                     <h4 class="d- d-xl-none w-100 p-4">Menu</h4>
-                    <button type="button" class="navbar-close d-xl-none">
+                    <button type="button" class="navbar-close d-xl-none" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
                     <ul class="navbar-nav nav w-100 w-xl-auto p-4 p-xl-0">
@@ -48,7 +48,7 @@
                             <a href="contact" class="nav-link">Contact</a>
                         </li>
                         <li class="nav-item">
-                            <button type="button" class="nav-link bg-transparent share-this" id="share-this" data-bs-toggle="modal" data-bs-target="#popupShareThis"><span class="d-none">Share This</span><?php echo $icon_share_this;?></button>
+                            <button type="button" class="nav-link bg-transparent share-this" id="share-this" data-bs-toggle="modal" data-bs-target="#popupShareThis" aria-label="Share this page"><span class="d-none">Share This</span><?php echo $icon_share_this;?></button>
                         </li>
                     </ul>
                 </div>

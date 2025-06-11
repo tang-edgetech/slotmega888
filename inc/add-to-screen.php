@@ -10,7 +10,7 @@
                         </div>
                         <div class="col-12 col-md-3 ps-md-4">
                             <div class="btn-wrapper justify-content-center justify-content-md-start">
-                                <button id="install-btn" class="btn btn-default">
+                                <button id="install-btn" class="btn btn-default" aria-label="Install App">
                                     <span class="d-none">Add</span>
                                     <i class="fa fa-home"></i>
                                     <span class="floating-plus"><i class="fa fa-plus-circle"></i></span>
