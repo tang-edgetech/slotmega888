@@ -2,11 +2,11 @@
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
-                <div class="page-starter d-block mx-auto mb-4">
+                <div class="d-block w-100 mx-auto mb-4 text-center">
                     <picture>
                         <source srcset="./images/mega888-logo.webp" type="image/webp">
                         <source srcset="./images/mega888-logo.png" type="image/png">
-                        <img src="./images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fluid">
+                        <img src="./images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo">
                     </picture>
                 </div>
                 <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">
