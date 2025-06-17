@@ -454,7 +454,7 @@ include 'inc/functions.php';
                                 <p>Smart play, using a basic system, is enough to win, with discipline and good decision making. Our <a href="<?php echo $site_base_url;?>/mega888-strategies-guides/"><b>strategy and guide</b></a> contain more detailed information on how to play slots.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">Is it Safe to Use and Download Mega888?</h3>
-                                p><a href="<?php echo $site_base_url;?>/about-mega888/"><b>Mega888</b></a> remains secure as long as you get the application from a trusted site like slotmega888.app. The app applies end-to-end encryption to both logging in and sending money, so your information and money are safe. Software on mobile phones is frequently updated to fix bugs and increase security.</p>
+                                <p><a href="<?php echo $site_base_url;?>/about-mega888/"><b>Mega888</b></a> remains secure as long as you get the application from a trusted site like slotmega888.app. The app applies end-to-end encryption to both logging in and sending money, so your information and money are safe. Software on mobile phones is frequently updated to fix bugs and increase security.</p>
                                 <p><b>The best way to stay safe is to use these tips:</b></p>
                                 <ul>
                                     <li>Only download the APK file from websites that are reliable</li>
