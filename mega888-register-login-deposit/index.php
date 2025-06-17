@@ -191,16 +191,16 @@ include '../inc/functions.php';
                                 <h2>Table of Content</h2>
                                 <ol>
                                     <li><a class="link" href="#toc1">Register, Login & Deposit with Mega888</a></li>
-                                    <li><a class="link" href="#toc2">How Registration Works on Mega888 (Kiosk System)</a></li>
-                                    <li><a class="link" href="#toc3">Logging in to Mega888 on Android or iOS</a></li>
-                                    <li><a class="link" href="#toc4">How to Deposit Safely Through slotmega888.app</a></li>
+                                    <li><a class="link" href="#toc2">How to Register Account with Us (Kiosk)</a></li>
+                                    <li><a class="link" href="#toc3">Logging in to Your Mega888 Account on Android or iOS</a></li>
+                                    <li><a class="link" href="#toc4">How to Deposit Safely Through Us</a></li>
                                     <li><a class="link" href="#toc5">What Happens After You Deposit?</a></li>
                                     <li><a class="link" href="#toc6">Lost Login or Deposit Issues? We’ve Got You</a></li>
                                     <li><a class="link" href="#toc7">Why Choose SlotMega888.app Over Other Agents</a></li>
-                                    <li><a class="link" href="#toc8">What Makes a Real Mega888 Agent vs a Fake One</a></li>
-                                    <li><a class="link" href="#toc9">Can I Use One Mega888 Account for Multiple Deposits or Devices</a></li>
-                                    <li><a class="link" href="#toc10">Why Mega888 Uses an Agent System (And Why It’s Safer)</a></li>
-                                    <li><a class="link" href="#toc11">Register, Login & Deposit with Mega888 - Frequently Asked Questions</a></li>
+                                    <li><a class="link" href="#toc8">How to Differentiate Between Real Mega888 Agent vs a Fake One</a></li>
+                                    <li><a class="link" href="#toc9">Can I Use One Account for Multiple Deposits or Devices</a></li>
+                                    <li><a class="link" href="#toc10">How come Mega888 Uses an Agent System (And Why It’s Safer)</a></li>
+                                    <li><a class="link" href="#toc11">FAQs – Register, Login & Deposit with Mega888</a></li>
                                 </ol>
                             </div>
                         </div>
@@ -214,133 +214,133 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1 id="toc1">Register, Login & Deposit with Mega888</h1>
-                                <p>If you're ready to start playing Mega888 and want a trusted place to register, log in, and deposit, you're in the right place.</p>
+                                <p>If you're ready to start playing and want a reliable site to register, log in, and deposit, you're in the correct place.</p>
                                 <p>&nbsp;</p>
-                                <h2 id="toc2">How Registration Works on Mega888 (Kiosk System)</h2>
-                                <p>You can’t sign up directly inside the app. Mega888 uses a kiosk system, which means your account must be created by an <b><a href="<?php echo $site_base_url;?>">official Mega888 agent</a></b> like us. This keeps the game secure and blocks bots and scam accounts.</p>
-                                <p><b>How to register:</b></p>
+                                <h2 id="toc2">How to Register Account with Us (Kiosk)</h2>
+                                <p>You can’t directly sign up for an account inside the app. We use a kiosk system, which means your account must be created by an <a href="<?php echo $site_base_url;?>"><b>official mega888 agent</b></a> like us. This keeps the game safer and avoids bots and scam accounts.</p>
+                                <p><b>How to register in simple steps:</b></p>
                                 <ol>
-                                    <li>Contact us via WhatsApp or Telegram</li>
-                                    <li>Tell us your preferred username (usually random)</li>
-                                    <li>We’ll create your game ID and password</li>
-                                    <li>You’ll get your login details within 5 minutes</li>
+                                    <li>Reach out to us via WhatsApp or Telegram</li>
+                                    <li>Tell us the username that you prefer (usually random)</li>
+                                    <li>We’ll create your game ID and password for you</li>
+                                    <li>It will take less than 5 minutes to receive your login details.</li>
                                 </ol>
-                                <p>Once you receive your ID, enter it in the Mega888 app. That’s it.</p>
+                                <p>Once you receive your game ID, enter it within the app. That’s it.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc3">Logging in to Mega888 on Android or iOS</h3>
-                                <p>After you get your login ID:</p>
+                                <h3 id="toc3">Logging in to Your Mega888 Account on Android or iOS</h3>
+                                <p>After you get your login ID, proceed with the following steps:</p>
                                 <ol>
-                                    <li>Open the Mega888 app</li>
+                                    <li>Launch the Mega888 app</li>
                                     <li>Enter your User ID and Password</li>
-                                    <li>Tap Login</li>
+                                    <li>Click Login</li>
                                 </ol>
-                                <p>If login fails:</p>
+                                <p>In case login fails:</p>
                                 <ul>
                                     <li>Double-check your password</li>
                                     <li>Update the app</li>
                                     <li>Clear cache or reinstall if needed</li>
                                 </ul>
-                                <p>Contact us if its not working, we’ll help to fix it fast.</p>
+                                <p>Reach out to us if it’s not working, we’ll solve them right away.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc4">How to Deposit Safely Through slotmega888.app</h3>
-                                <p>We handle all deposits directly. No credit cards and no risky gateways. You message us, choose your payment method, and we handle the rest.</p>
+                                <h3 id="toc4">How to Deposit Safely Through Us</h3>
+                                <p>We handle all the deposits directly. No credit cards and no risky gateways. When you message us, select your preferred payment method, and we handle the rest.</p>
                                 <p><b>Deposit steps:</b></p>
                                 <ul>
-                                <li>Message our support team</li>
-                                <li>Pick your payment method (Maybank, CIMB, Touch ‘n Go, Boost, Crypto, or more)</li>
-                                <li>Share your Game ID and payment proof</li>
-                                <li>Get your balance in under 5 minutes</li>
+                                    <li>Drop a message to our support team</li>
+                                    <li>Pick your payment method (Maybank, CIMB, Touch ‘n Go, Boost, Crypto, or more)</li>
+                                    <li>Share your Game ID and the proof of payment</li>
+                                    <li>Getting your balance in less than 5 minutes</li>
                                 </ul>
                                 <p><b>Limits:</b></p>
                                 <ul>
-                                <li><b>Minimum</b>: RM30</li>
-                                <li><b>Daily Maximum</b>: RM5,000 (KYC needed for more)</li>
+                                    <li><b>Minimum</b>: RM30</li>
+                                    <li><b>Daily Maximum</b>: RM5,000 (KYC needed for more)</li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3 id="toc5">What Happens After You Deposit?</h3>
-                                <p>Once your deposit is confirmed, your in-game wallet updates instantly. You can:</p>
+                                <p>After your deposit is confirmed, your in-game wallet updates right away. You can:</p>
                                 <ul>
                                     <li>Start playing slot games</li>
                                     <li>Enter live casino or fishing rooms</li>
                                     <li>Claim welcome or reload bonuses</li>
-                                    <li>Withdraw winnings through the same agent</li>
+                                    <li>Withdraw the money you have won via the same agent</li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3 id="toc6">Lost Login or Deposit Issues? We’ve Got You</h3>
-                                <p>If you forget your login or have trouble with your balance, don’t panic. Just message our support team.</p>
-                                <p>We can help you:</p>
+                                 <p>If you forget your login info or have trouble with your balance, don’t panic. Just drop a message to our support team.</p>
+                                <p>We can help you to:</p>
                                 <ul>
                                     <li>Reset your password</li>
                                     <li>Recover your login ID</li>
-                                    <li>Fix blocked accounts</li>
+                                    <li>Fix the accounts that are blocked</li>
                                     <li>Re-check deposit confirmation</li>
                                 </ul>
-                                <p>Just send your phone number or payment proof of it, we’ll sort it out quickly.</p>
+                                <p>Just send your phone number or proof of payment, and we’ll sort it out quickly.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc7">Why Choose SlotMega888.app Over Other Agents</h3>
                                 <table class="table table-striped mb-0">
-                                <thead>
-                                    <tr>
-                                        <th>Feature</th>
-                                        <th>Our Agents</th>
-                                        <th>Other Agents</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Local Support (Malaysia)</td>
-                                        <td><i class="fas fa-check"></i></td>
-                                        <td><i class="fas fa-times"></i></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Verified Kiosk Agent</td>
-                                        <td><i class="fas fa-check"></i></td>
-                                        <td><i class="fas fa-times"></i></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Fast Deposit Processing</td>
-                                        <td><i class="fas fa-check"></i></td>
-                                        <td><i class="fas fa-times"></i></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Clear Rules & Payment Limits</td>
-                                        <td><i class="fas fa-check"></i></td>
-                                        <td><i class="fas fa-times"></i></td>
-                                    </tr>
-                                    <tr>
-                                        <td>100% Credit Guarantee</td>
-                                        <td><i class="fas fa-check"></i></td>
-                                        <td><i class="fas fa-times"></i></td>
-                                    </tr>
+                                    <thead>
                                         <tr>
-                                        <td>No Ghosting or Scam Risk</td>
-                                        <td><i class="fas fa-check"></i></td>
-                                        <td><i class="fas fa-times"></i></td>
-                                    </tr>
-                                </tbody>
+                                            <th>Feature</th>
+                                            <th>Our Agents</th>
+                                            <th>Other Agents</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Local Support (Malaysia)</td>
+                                            <td><i class="fas fa-check"></i></td>
+                                            <td><i class="fas fa-times"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Verified Kiosk Agent</td>
+                                            <td><i class="fas fa-check"></i></td>
+                                            <td><i class="fas fa-times"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Fast Deposit Processing</td>
+                                            <td><i class="fas fa-check"></i></td>
+                                            <td><i class="fas fa-times"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Clear Rules & Payment Limits</td>
+                                            <td><i class="fas fa-check"></i></td>
+                                            <td><i class="fas fa-times"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>100% Credit Guarantee</td>
+                                            <td><i class="fas fa-check"></i></td>
+                                            <td><i class="fas fa-times"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>No Ghosting or Scam Risk</td>
+                                            <td><i class="fas fa-check"></i></td>
+                                            <td><i class="fas fa-times"></i></td>
+                                        </tr>
+                                    </tbody>
                                 </table>
-                                <p>Don’t risk your account or money. Choose a verified kiosk like us and stay protected.</p>
+                                <p>Don’t put your account or money at risk. Use a verified kiosk like us and stay protected.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc8">What Makes a Real Mega888 Agent vs a Fake One</h3>
+                                <h3 id="toc8">How to Differentiate Between Real Mega888 Agent vs a Fake One</h3>
                                 <p>Real Agents like us:</p>
                                 <ul>
-                                    <li>Offer support before and after registration</li>
-                                    <li>Don’t ask for unnecessary info</li>
-                                    <li>Process deposits fast</li>
+                                    <li>Provide support before and after registration</li>
+                                    <li>We don’t ask for unnecessary info</li>
+                                    <li>Process deposits quickly</li>
                                     <li>Use verified bank accounts or e-wallets</li>
                                 </ul>
                                 <p>Fake agents:</p>
                                 <ul>
                                     <li>Disappear after taking your money</li>
-                                    <li>Promise unlimited credits or “hacks”</li>
+                                    <li>Offer unlimited credits or “hacks”</li>
                                     <li>Use random personal accounts for payments</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3 id="toc9">Can I Use One Mega888 Account for Multiple Deposits or Devices</h3>
-                                <p>Yes. You can top up the same game ID as many times as you want. You can also log in on to different devices just not at the same time. Always log out from one phone before switching to another.</p>
+                                <h3 id="toc9">Can I Use One Account for Multiple Deposits or Devices</h3>
+                                <p>Yes. You may top up the same game ID as many times as you like. You can also log in on to other devices just not at the same time. Always log out from one device before switching to another.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc10">Why Mega888 Uses an Agent System (And Why It’s Safer)</h3>
-                                <p>Mega888 uses agents instead of open registration to keep bots, cheaters, and fake accounts out. This system also helps players get real support and fast deposits from verified kiosks like slotmega888.app, not just some unknown app on the internet.</p>
+                                <h3 id="toc10">How come Mega888 Uses an Agent System (And Why It’s Safer)</h3>
+                                <p>Mega888 uses agents instead of open registration to avoid bots, cheaters, and fake accounts. Such system also helps players get actual support and fast deposits from verified kiosks like slotmega888.app rather than some random app on the internet.</p>
                             </div>
                         </div>
                     </div>
@@ -351,12 +351,12 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2 id="toc11">Register, Login & Deposit with Mega888 - Frequently Asked Questions</h2>
+                                <h2 id="toc11">FAQs – Register, Login & Deposit with Mega888</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Can I register for Mega888 directly in the app?
+                                            Can I register directly in the app?
                                         </button>
                                         </h3>
                                         <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -373,14 +373,14 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Usually under 5 minutes after contacting our team.
+                                            Typically in less than 5 minutes after calling our team.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Is registration free?
+                                            Is it free to register?
                                         </button>
                                         </h3>
                                         <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -397,7 +397,7 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            It prevents bots, fake accounts, and keeps the platform secure.
+                                            It keeps the platform safe from bots, fake accounts, and secure.
                                         </div>
                                         </div>
                                     </div>
@@ -409,14 +409,14 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. Once it’s created, it stays the same.
+                                            No. Once it’s created, it remains the same.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            What payment methods can I use to deposit?
+                                            Which payment methods are available for deposit?
                                         </button>
                                         </h3>
                                         <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -433,103 +433,103 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            RM30 is the minimum. It’s fast and confirmed right after payment.
+                                            RM30 is the minimum. It’s fast and confirmed immediately after payment.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            How long do deposits take?
+                                            What is the duration of deposit time?
                                         </button>
                                         </h3>
                                         <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Less than 5 minutes, once payment is confirmed.
+                                            Less than 5 minutes, after the confirmation of payment.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                                Do I need to send a screenshot for deposit proof?
+                                            Is a screenshot required for deposit proof?
                                         </button>
                                         </h3>
                                         <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. It helps us confirm and process your top-up quickly.
+                                            Yes. It helps us in verifying and processing your top-up quickly.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            Can I use the same account on more than one phone?
+                                            Can I use the same account on two or more phones?
                                         </button>
                                         </h3>
                                         <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes, but only one device at a time. Always log out before switching.
+                                            Yes, but only one device at a time. Always log out before switching off.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            What if my friend gives me a Mega888 account — is it safe to use?
+                                            What if my friend gives me an account, is it safe to play?
                                         </button>
                                         </h3>
                                         <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. Always create your own account through a verified agent to stay protected.
+                                            No. We recommend creating your own account through a verified agent to stay protected.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Can I deposit using someone else’s bank account?
+                                            Is it possible to deposit using someone else’s bank account?
                                         </button>
                                         </h3>
                                         <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            It’s better to use your own to avoid delays or identity verification issues.
+                                            It’s better to use your own to avoid delays or get issues with identity verification.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            How do I know if my deposit went through?
+                                            How do I know if my deposit has been successful or not?
                                         </button>
                                         </h3>
                                         <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            We send confirmation once your credit is added. Contact us if you don’t see it in 5 minutes.
+                                            We send you confirmation once your credit is added. Contact us if you don’t see it within 5 minutes.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                            What if I made a deposit but didn’t receive credits?
+                                            What if I deposited money but didn’t receive credits?
                                         </button>
                                         </h3>
                                         <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Send us your payment proof. We’ll verify and fix it fast.
+                                            Submit us your payment proof. We’ll verify and fix it quickly.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                            Is there a limit to how many times I can deposit in a day?
+                                            Is there a limit to how many times I can deposit per day?
                                         </button>
                                         </h3>
                                         <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No hard limit, but the daily cap is RM5,000 unless verified for higher.
+                                            There’s no hard limit, but the daily limit is RM5,000 unless verified for higher.
                                         </div>
                                         </div>
                                     </div>
