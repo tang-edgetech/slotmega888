@@ -67,66 +67,6 @@ include 'inc/functions.php';
             "position": 1,
             "name": "Home",
             "item": "https://slotmega888.app/"
-            },
-            {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Mega888 APK Download",
-            "item": "https://slotmega888.app/mega888-apk-download"
-            },
-            {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Mega888 iOS Download",
-            "item": "https://slotmega888.app/mega888-ios-download"
-            },
-            {
-            "@type": "ListItem",
-            "position": 4,
-            "name": "About Mega888",
-            "item": "https://slotmega888.app/about-mega888"
-            },
-            {
-            "@type": "ListItem",
-            "position": 5,
-            "name": "Register, Login & Deposit",
-            "item": "https://slotmega888.app/register-login-deposit"
-            },
-            {
-            "@type": "ListItem",
-            "position": 6,
-            "name": "Bonuses & Promotions",
-            "item": "https://slotmega888.app/bonuses-promotions"
-            },
-            {
-            "@type": "ListItem",
-            "position": 7,
-            "name": "Game Guides & Strategies",
-            "item": "https://slotmega888.app/game-guides-strategies"
-            },
-            {
-            "@type": "ListItem",
-            "position": 8,
-            "name": "Responsible Gaming",
-            "item": "https://slotmega888.app/responsible-gaming"
-            },
-            {
-            "@type": "ListItem",
-            "position": 9,
-            "name": "Privacy Policy",
-            "item": "https://slotmega888.app/privacy-policy"
-            },
-            {
-            "@type": "ListItem",
-            "position": 10,
-            "name": "Highest RTP Games",
-            "item": "https://slotmega888.app/mega888-rtp"
-            },
-            {
-            "@type": "ListItem",
-            "position": 11,
-            "name": "Contact Us",
-            "item": "https://slotmega888.app/contact-us"
             }
         ]
         }
