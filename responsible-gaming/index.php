@@ -297,7 +297,7 @@ include '../inc/functions.php';
                                 <p>If someone you know is struggling — reach out to us.</p>
                                 <p>And if you’re ever unsure — ask us.</p>
                                 <p>Because winning should never cost your peace of mind.</p>
-                                <p>If you need help, you’re free to contact us via our email: <a hreef="mailto@support@slotmega888.app">support@slotmega888.app</a>.</p>
+                                <p>If you need help, you’re free to contact us via our email: <a href="mailto@support@slotmega888.app">support@slotmega888.app</a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>FAQs – Responsible Gaming at SlotMega888.app</h2>
                                 <div class="accordion" id="accordionExample">
