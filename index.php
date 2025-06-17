@@ -65,7 +65,7 @@ include 'inc/functions.php';
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "Mega888",
             "item": "https://slotmega888.app/"
             }
         ]
