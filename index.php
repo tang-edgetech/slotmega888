@@ -299,7 +299,7 @@ include 'inc/functions.php';
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</h2>
                                 <p>Mega888 is considered one of the most reputable and common slot apps in Malaysia. This platform is famous for providing seamless gaming, a wide choice of games and quick payment. It has a broad collection, including Panther Moon, various fish shooting games and live dealer options. The games within the app are smoother than those in 918Kiss and Xe88 and the rewards are given out more frequently.</p>
-                                <img src="images/mega-apk-ios-install.png" class="img-fit" alt="mega888-apk-ios-install"/>
+                                <img src="images/mega-apk-ios-install-1.png" class="img-fit" alt="mega888-apk-ios-install"/>
                                 <p>&nbsp;</p>
                                 <h3 id="toc3">Trusted Mega888 APK Download for Android Users</h3>
                                 <p>Because it isn’t in Google Play, Android users must install it using an APK file. Here's how:</p>
