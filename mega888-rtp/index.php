@@ -220,7 +220,7 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1 id="toc1">New Mega888 Top RTP Games</h1>
-                                <p>You can only make blind bets when you do not understand RTP, and you are playing Mega888. RTP aka Return to Player, will tell you the percentage that the game will give back. This page will explain to you what RTP is, which games offer the best RTP on <a href="https://slotmega888.app/"><b><u>Mega888</u></b></a> and how you can exploit this information to not lose your credit balance.</p>
+                                <p>You can only make blind bets when you do not understand RTP, and you are playing Mega888. RTP aka Return to Player, will tell you the percentage that the game will give back. This page will explain to you what RTP is, which games offer the best RTP on <a href="<?php echo $site_base_url;?>/"><b><u>Mega888</u></b></a> and how you can exploit this information to not lose your credit balance.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Verified Mega888 Games with High RTP and Features</h2>
                             </div>

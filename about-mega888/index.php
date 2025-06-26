@@ -214,7 +214,7 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1 id="toc1">About SlotMega888.app – Malaysia best Slot Application Official App of Mega888</h1>
-                                <p>The Malaysian users find a safe space to download and play Mega888 game at <a href=https://slotmega888.app><b><u>slotmega888.app</u></b></a>. Either you are a first-time user of Mega888 or have been using it, this guide you what the game is, how it is played and its reasons as to why the game is so popular here in Malaysia. We will assist you to download just the right version of the app and you can have fun while you play with us.</p>
+                                <p>The Malaysian users find a safe space to download and play Mega888 game at <a href="<?php echo $site_base_url;?>"><b><u>slotmega888.app</u></b></a>. Either you are a first-time user of Mega888 or have been using it, this guide you what the game is, how it is played and its reasons as to why the game is so popular here in Malaysia. We will assist you to download just the right version of the app and you can have fun while you play with us.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Facts You Should Know About Mega888</h2>
                                 <p><b>Mega888</b> is an online slot app playing which you may win real money. It originated in Southeast Asia, and it has become one of the top applications in Malaysia for Android and iOS users. It has slot games, fish games, table games such as Blackjack and even live dealers.</p>

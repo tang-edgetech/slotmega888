@@ -285,7 +285,7 @@ include '../inc/functions.php';
                                     <li>Connect with internet connection that are stable</li>
                                     <li>Ensure that battery saving mode isn’t enabled</li>
                                     <li>Clear the app cache frequently in setting</li>
-                                    <li>Get the newest version of <a href=https://slotmega888.app><b><u>Mega888 app</u></b></a> from slotmega888.app</li>
+                                    <li>Get the newest version of <a href=<?php echo $site_base_url;?>><b><u>Mega888 app</u></b></a> from slotmega888.app</li>
                                 </ul>
                                 <p><b>The more in control it is = the better the decision = the less wasted money.</b></p>
                                 <p>&nbsp;</p>

@@ -286,7 +286,7 @@ include '../inc/functions.php';
                                 <p>Players can use daily deposit limits, warnings when logging in, and self-exclusion to help control their gaming habits. When games seem too much, users should take some time off to relax. All the information you provide is protected, is not shared outside the company, and we can erase it for you at any time. Review the pages for Responsible Gambling and Privacy Policy when you want to know more.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="apktoc10">Whether Downloading Mega888 APK is Right for You</h3>
-                                <p>If you are in Malaysia and want to access secure real-money slot games on your Android device, you should try <a href="https://slotmega888.app/"><b><u>download Mega888 APK</u></b></a>. When you use a safe and legal site like slotmega888.app, the process is quite simple. Each time you play, keep your login details hidden and don’t go overboard.</p>
+                                <p>If you are in Malaysia and want to access secure real-money slot games on your Android device, you should try <a href="<?php echo $site_base_url;?>/"><b><u>download Mega888 APK</u></b></a>. When you use a safe and legal site like slotmega888.app, the process is quite simple. Each time you play, keep your login details hidden and don’t go overboard.</p>
                             </div>
                         </div>
                     </div>
