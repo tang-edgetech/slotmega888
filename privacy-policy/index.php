@@ -64,89 +64,89 @@ include '../inc/functions.php';
                             <div class="text-editor">
                                 <h1>Privacy Policy of Slotmega888.app</h1>
                                 <p>Effective Date: January 1, 2025</p>
-                                <p>At <b>slotmega888.app</b>, your privacy is our top priority. We are fully committed to protecting your personal information and ensuring a secure, transparent, and respectful environment for all our users.</p>
-                                <p>This Privacy Policy explains how we collect, use, store, and protect your data in connection with our services as an official Mega888 kiosk agent in Malaysia.</p>
+                                <p>In <b>slotmega888.app</b>, we do not compromise on your privacy. We take every measure to make sure that your personal sensitive data remains secure and we are determined to continue to base our operations on a secure, transparent, and dignified environment to all our users.</p>
+                                <p>This Privacy Policy is informing how we gather, utilize, save, and protect your information that will be associated with our services as an authorized Mega888 kiosk agent in Malaysia.</p>
                                 <p>&nbsp;</p>
                                 <P><b>1. Information We Collect</b></P>
-                                <p>We collect only the necessary information required to create and manage your Mega888 account, support your transactions, and enhance your user experience.</p>
-                                <p><b>Information we may collect includes:</b></p>
+                                <p>We only take the information that is necessary to create your Mega888 account, to support our transactions with you and to improve your user experience.</p>
+                                <p><b>Information that we collect includes:</b></p>
                                 <ul>
-                                    <li>Name or nickname (optional)</li>
-                                    <li>Phone number (for registration and support)</li>
-                                    <li>Game ID and login credentials (created by us)</li>
-                                    <li>Deposit and withdrawal records</li>
-                                    <li>Communication history with our support team</li>
-                                    <li>IP address and device type (for security monitoring)</li>
+                                    <li>Name or nickname (it is not mandatory)</li>
+                                    <li>Contact number / Phone (enrolment and support)</li>
+                                    <li>Username and log in ID (created by us)</li>
+                                    <li>Withdrawal and Transactions of deposit</li>
+                                    <li>Past communication with our support team</li>
+                                    <li>Type of device and IP address (monitors the security)</li>
                                 </ul>
-                                <p>We do not collect sensitive info like IC numbers, passwords to other accounts, credit card numbers, or unnecessary personal details.</p>
+                                <p>We will not gather sensitive information such as IC numbers, passwords to other accounts, credit card numbers and personal information that are not necessary.</p>
                                 <p>&nbsp;</p>
-                                <p><b>2. How We Use Your Information</b></p>
+                                <p><b>2. The Uses of Your Information</b></p>
                                 <p>We use your data only for purposes that serve your Mega888 experience:</p>
                                 <ul>
-                                    <li>To create and manage your game ID</li>
-                                    <li>To confirm deposits and withdrawals</li>
-                                    <li>To process bonus and promotion eligibility</li>
-                                    <li>To verify account ownership in case of disputes</li>
-                                    <li>To improve site security and prevent abuse</li>
-                                    <li>Complying with regulatory requirements</li>
+                                    <li>To design and control your game ID</li>
+                                    <li>Deposit and withdrawal confirmation</li>
+                                    <li>To process eligibility for bonuses and promotion </li>
+                                    <li>To check account ownership in case of disputes</li>
+                                    <li>To optimize security of site and prevent abuse</li>
+                                    <li>Complying with regulatory demands</li>
                                 </ul>
-                                <p>We do not use your information for third-party advertising or unrelated marketing.</p>
+                                <p>We do not sell your information to any third-party, or off-topic marketing.</p>
                                 <p>&nbsp;</p>
                                 <p><b>3. Data Sharing and Third Parties</b></p>
-                                <p>We do <b>not</b> sell, trade, or rent your personal identity and information to any third parties that are not relevant.</p>
-                                <p>Your information is only shared under the following conditions:</p>
+                                <p>We do not sell, trade, or rent your personal identity and information to any third parties that are irrelevant.</p>
+                                <p>Your details are only given away in the conditions as follows:</p>
                                 <ul>
-                                    <li>With our internal support team / expert to resolve issues</li>
-                                    <li>With payment verification process especially when it is required by law</li>
-                                    <li>With authorities if legally required to prevent fraud or comply with investigations</li>
+                                    <li>Our internal support personnel / professional to address problems</li>
+                                    <li>Using payment verification process particularly when the law requires it</li>
+                                    <li>With government agencies in case of legal requirements to avoid fraud or to honor investigations</li>
                                 </ul>
-                                <p>All shared data is handled with strict process and keep it confidential.</p>
+                                <p>Any data of common use is processed with the utmost caution and keep it confidential.</p>
                                 <p>&nbsp;</p>
                                 <p><b>4. How We Keep Your Data Safe</b></p>
-                                <p>We use industry standard security procedures to protect your information:</p>
+                                <p>Your information is secure with industry standard security procedures:</p>
                                 <ul>
-                                    <li><b>AES-256 encryption </b>for storage of communication and transaction records</li>
-                                    <li><b>End-to-end encryption </b>within WhatsApp and Telegram communication channels</li>
-                                    <li>Only the authorized personnel can access your data </li>
-                                    <li>It performs regular audits to check compliance with policy </li>
+                                    <li>Communication and transaction records will be stored in AES-256 encryption standard</li>
+                                    <li>The use of end-to-end encryption of the WhatsApp and Telegram communications channels</li>
+                                    <li>Your data is accessible to only authorized people </li>
+                                    <li>It conducts periodic audits to ensure adherence to policy </li>
                                 </ul>
-                                <p>All banking login and payment passwords are not saved by us.</p>
+                                <p>We do not store all the banking passwords and payment passwords.</p>
                                 <p>&nbsp;</p>
-                                <p><b>5. Information Retention Policy</b></p>
-                                <p>We only save your records for as long as needed:</p>
+                                <p><b>5. Information about Retention Policy</b></p>
+                                <p>We only save your records for as long as they are needed:</p>
                                 <ul>
-                                    <li>The game IDs and transaction logs are stored, operational and legal purposes</li>
-                                    <li>The records of communication are retained to resolve support issues</li>
-                                    <li>You can ask us to permanently delete your account at any time</li>
+                                    <li>Storing the game IDs and transaction logs can be done with purposes of operation and law</li>
+                                    <li>The communication records are stored with the aim to solve the support problems</li>
+                                    <li>You may request us to permanently delete your account at any time.</li>
                                 </ul>
-                                <p>Once data is no longer needed, it will automatically be deleted from our systems.</p>
+                                <p>Data that we do not need anymore will automatically be destroyed in our systems.</p>
                                 <p>&nbsp;</p>
                                 <p><b>6. User Rights and Access</b></p>
-                                <p>Using slotmega888.app you are entitled to:</p>
+                                <p>With the help of slotmega888.app you have a right to:</p>
                                 <ul>
-                                    <li>Make a request to get access to your personal data</li>
-                                    <li>Ask for corrections to any incorrect details</li>
-                                    <li>Request deletion of your data (subject to verification)</li>
-                                    <li>Unsubscribe to promotional/advertising messages at any time</li>
+                                    <li>Ask permission to get access to personal data</li>
+                                    <li>Request to fix incorrect information</li>
+                                    <li>Request to have your data erased (after verification)</li>
+                                    <li>Opt-out of promotion/advertising messages at any moment</li>
                                 </ul>
-                                <p>To exercise these rights, reach out to our support team via WhatsApp or Telegram channels.</p>
+                                <p>To exercise these rights, please call our support crew through WhatsApp or Telegram channel.</p>
                                 <p>&nbsp;</p>
                                 <p><b>7. Cookies and Tracking</b></p>
-                                <p>We do not use cookies or browser monitoring tech on this website.</p>
-                                <p>We do not follow any personal visit information, just security and traffic purposes.</p>
+                                <p>This site does not have cookies or browser tracking technology.</p>
+                                <p>We do not pursue any personal visit detailing we only pursue security as well as traffic.</p>
                                 <p>&nbsp;</p>
                                 <p><b>8. Protecting Minors and At-Risk Users</b></p>
-                                <p>Users who are not over <b>21</b> are not allowed to access it. Also, we do not seek or retain information about minors. In case we find such data, it is destroyed on the spot.</p>
-                                <p>We actively discourage high-risk users from playing the game, including those under financial pressure or with gambling-related concerns.</p>
+                                <p>It cannot be used by people under 21 years. We also do not pursue or maintain information data concerning minors. When we come across such information we destroy it immediately.</p>
+                                <p>We also urge heavily the most high-risk players not to bet on the game, such as those that may be under financial pressure or with issues involving gambling.</p>
                                 <p>&nbsp;</p>
-                                <p><b>9. Changes to This Policy</b></p>
-                                <p>This Privacy Policy may be updated overtime for legal, operational, or platform-related reasons.</p>
-                                <p>Changes will be announced clearly on this page. By continuing to use our platform, you accept the most recent version.</p>
+                                <p><b>9. Amendment to This Policy</b></p>
+                                <p>This Privacy Policy can be changed with time due to legal, operational, or platform-related purposes.</p>
+                                <p>Any change will be communicated well on this page. Using our site will mean you have agreed to the most up to date version.</p>
                                 <p>&nbsp;</p>
                                 <p><b>10. Contact Us</b></p>
-                                <p>For any questions or concerns regarding your personal privacy or how we handle your data, please contact our support team directly:</p>
+                                <p>Whether you have any questions or would like to ask us any questions about your personal privacy or about our handling of your data, please contact our support team directly:</p>
                                 <p><b>Support Hours: </b>Daily, 10:00 AM – 12:00 AM</p>
-                                <p><b>Email: <a href="mailto:support@slotmega888.app"><b>support@slotmega888.app</b></a></p>
+                                <p><b>Email: <a href="mailto:support@slotmega888.app"><b><u>support@slotmega888.app</u></b></a></p>
                             </div>
                         </div>
                     </div>

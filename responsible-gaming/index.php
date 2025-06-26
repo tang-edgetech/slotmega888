@@ -192,61 +192,61 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1>SlotMega888.app - Responsible Gaming</h1>
-                                <p>At slotmega888.app, we believe that gaming should be fun, safe, and something you can walk away at any anytime. Mega888 offers exciting games and bonuses, but we want every user to play responsibly, awareness, and balance.</p>
+                                <p>We are sure that at slotmega888.app the gaming process should be the fun process, which is safe, and you can walk away at any time. Mega888 has various wonderful games and bonuses, but we want every user not to forget to play responsibly, awareness and balance.</p>
                                 <p>&nbsp;</p>
-                                <h2>Our Commitment to Every Player</h2>
-                                <p>We’re committed to making Mega888 a secure space where players:</p>
+                                <h2>Helping Every Players is Our Commitment</h2>
+                                <p>We will make Mega888 a secure place where tokens will be a safe zone to everyone:</p>
                                 <ul>
-                                    <li>Aware of the risks</li>
-                                    <li>Have access to safety tools</li>
-                                    <li>Get support when necessary</li>
-                                    <li>Are protected from poor decisions or pressure</li>
+                                    <li>Become informed of the risks</li>
+                                    <li>Free safety tools  </li>
+                                    <li>Ask for help when its required</li>
+                                    <li>Neither pressure nor bad decision making can affect it</li>
                                 </ul>
-                                <p>Responsible gaming is part of how we operate, not just something we say.</p>
+                                <p>We also walk our talk through responsible gaming, one of the ways we carry out our business.</p>
                                 <p>&nbsp;</p>
-                                <h3>What Responsible Gaming Means</h3>
-                                <p>Responsible gaming is about making good choices. That means:</p>
+                                <h3>What does Responsible Gaming Mean</h3>
+                                <p>Responsible gaming means making good decisions. Which means:</p>
                                 <ul>
-                                    <li>Playing only with money you can afford to lose</li>
-                                    <li>Setting time and credit limits</li>
-                                    <li>Not letting games take over your daily life</li>
-                                    <li>Knowing when to quit</li>
+                                    <li>Play with only that money that you can afford to lose</li>
+                                    <li>Establish time and credit controls</li>
+                                    <li>Games should not become your everyday thing</li>
+                                    <li>The time to call it a day </li>
                                 </ul>
-                                <p>If playing is no longer fun, it’s time to take a break.</p>
+                                <p>When playing stops being enjoyable, there is a need to take a rest.</p>
                                 <p>&nbsp;</p>
-                                <h3>Spot the Signs of Problem Gambling</h3>
-                                <p>If you're not sure your gaming is still healthy, ask yourself:</p>
+                                <h3>Notice the Unobvious Stigmas of Problematic Gambling</h3>
+                                <p>Not sure that your gaming remains healthy? Just ask yourself the question:</p>
                                 <ul>
-                                    <li>Am I spending more than I intended?</li>
-                                    <li>Am I hiding how much I play or lose?</li>
-                                    <li>Am I topping up just to recover from losses?</li>
-                                    <li>Am I stressed when I can’t play?</li>
-                                    <li>Is it hurting my job, education, or relationships?</li>
+                                    <li>Am I being over spender?</li>
+                                    <li>Do I hide how much I play, or lose?</li>
+                                    <li>•Do I apply top up in order to recover a loss?</li>
+                                    <li>When I am not in a position to play, am I not stressed?</li>
+                                    <li>Does it hurt my work, education or my relationships?</li>
                                 </ul>
-                                <p>If you answered “yes” to any of these, we’re here to help you.</p>
+                                <p>We will help you in case you have answered yes to any of these.</p>
                                 <p>&nbsp;</p>
-                                <h3>Tools that Can Help You Stay in Control</h3>
-                                <p>We offer some of the safety features on request:</p>
+                                <h3>Gadgets That Would Help You Have Control</h3>
+                                <p>Some of the safety features offered on request are as follows:</p>
                                 <ul>
-                                    <li><b>Deposit Limits: </b>Set a max daily limit, week, or month.</li>
-                                    <li><b>Time Alerts: </b>Get reminders after long playing sessions.</li>
-                                    <li><b>Self-Exclusion: </b>Lock your account temporarily or permanently.</li>
-                                    <li><b>Account Freeze: </b>Pause your access for a short break without deleting your account.</li>
+                                    <li>Deposit Limits: There is a maximum within the day, week or month.</li>
+                                    <li>Time Alerts: You will be alerted after extended games.</li>
+                                    <li>Self-Exclusion: Either to put your account on a temporary or permanent lock.</li>
+                                    <li>Account Freeze: Take a break without deleting and freezing your account </li>
                                 </ul>
-                                <p>These tools are private. Just send a message to our support team. No judgment.</p>
+                                <p>Such tools belong to privacy. Simply - send an inquiry to our support department. No judgment.</p>
                                 <p>&nbsp;</p>
-                                <h3>Protecting Vulnerable Users</h3>
-                                <p>We do not allow anyone below <b>21 years old</b> to use Mega888 via our platform.</p>
-                                <p>We also watch for warning signs in players who:</p>
+                                <h3>Shielding Vulnerable Users</h3>
+                                <p>At our platform, we also do not permit any person <b>(+21 years old)</b> to play Mega888.</p>
+                                <p>We also are on guard against players that:</p>
                                 <ul>
-                                    <li>Are in debt or borrowing to play</li>
-                                    <li>Are hiding their activity from others</li>
-                                    <li>Have had addiction issues in the past</li>
+                                    <li>Debtors or borrowers to gamble</li>
+                                    <li>Hide what they are doing with others</li>
+                                    <li>Experienced an addiction difficulty in the past</li>
                                 </ul>
-                                <p>If this sounds like you or someone you know, it's time to talk or take a break.</p>
+                                <p>When this is the case, or that of someone you know, then it is time to talk or take a break.</p>
                                 <p>&nbsp;</p>
-                                <h3>Where to Get Help in Malaysia</h3>
-                                <p>If gaming is starting to feel like a problem, you’re not alone. These services are confidential and free:</p>
+                                <h3>Sources of Help in Malaysia</h3>
+                                <p>When gaming begins to feel like trouble, you are not the only one. These are confidential and free services:</p>
                                 <table class="table table-striped mb-0">
                                     <thead>
                                         <tr>
@@ -274,66 +274,66 @@ include '../inc/functions.php';
                                     </tbody>
                                 </table>
                                 <p>&nbsp;</p>
-                                <h3>What If You Only Play Small Bets?</h3>
-                                <p>Even just small bets can lead to a problem if you’re playing for hours or chasing losses. It’s not just about money. Time and mindset are equally important too.</p>
+                                <h3>What Happens If All You Do Are Little Bets?</h3>
+                                <p>Even small amount of money in the bets may become an issue in case you gamble a long time, or you have the necessity to recoup the losses. It is not only the money thing. Time and mentality are also important as well.</p>
                                 <p>&nbsp;</p>
-                                <h3>Can Bonuses Make Gambling Riskier?</h3>
-                                <p>Yes. Bonuses can be considered free money, but they still carry a risk. If you’re only topping up to “clear” a bonus, pause and think about your purpose of spending.</p>
+                                <h3>Will Bonus Increase the Harm of Gambling?</h3>
+                                <p>Yes. Bonuses should be viewed as free funds although there is a risk in using them. When all you are adding to get is to clear a bonus, take a time out and reflect on what you are spending with.</p>
                                 <p>&nbsp;</p>
-                                <h3>Our Role as an Official Mega888 Agent</h3>
+                                <h3>The Role of Mega888 Official Agent</h3>
                                 <p>We take our job seriously. That means:</p>
                                 <ul>
-                                    <li>No pressure to deposit</li>
-                                    <li>No fake promises about winnings</li>
-                                    <li>Total support for account freezes and time-outs</li>
-                                    <li>No promotions to users showing risky behavior</li>
-                                    <li>Honest advice, as usual</li>
+                                    <li>We don’t force you to deposit</li>
+                                    <li>There are no untrue claims of winning</li>
+                                    <li>Complete support for account freezes and time out </li>
+                                    <li>No promotion to risky behaving users</li>
+                                    <li>As usual, we provide good honest advice</li>
                                 </ul>
                                 <p>We treat you like a person first, the player comes second.</p>
                                 <p>&nbsp;</p>
-                                <h3>Final Advice – Stay in Control</h3>
-                                <p>Gambling isn’t all bad. But playing without control is. At <b>slotmega888.app</b>, we’ll always support you with tools, guidance, and real human assistance.</p>
-                                <p>If you feel you need a break — take one.</p>
-                                <p>If someone you know is struggling — reach out to us.</p>
-                                <p>And if you’re ever unsure — ask us.</p>
-                                <p>Because winning should never cost your peace of mind.</p>
-                                <p>If you need help, you’re free to contact us via our email: <a href="mailto@support@slotmega888.app">support@slotmega888.app</a>.</p>
+                                <h3>Last Piece of Advice - Stay in Control</h3>
+                                <p>Gambling is not all evil. But playing without control is. We will never leave you alone at <b>slotmega888.app</b>; rather, tools, advice, and human support.</p>
+                                <p>When you think you need the break- do it.</p>
+                                <p>When you know someone who is struggling - refer to us.</p>
+                                <p>And in case you ever get in doubt - ask us.</p>
+                                <p>Since winning must never come at the expense of mind.</p>
+                                <p>Feel free to address us through our email support@slotmega888.app in case you require help.</p>
                                 <p>&nbsp;</p>
                                 <h2>FAQs – Responsible Gaming at SlotMega888.app</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            What does responsible gaming mean? 
+                                            What is responsible gaming?
                                         </button>
                                         </h3>
                                         <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            It means playing for fun, setting limits, and knowing when to quit.
+                                            It implies playing to have fun, putting a boundary to it, and learning when to stop.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            How can I tell if I have a gambling problem?
+                                            What should I do to know whether I have a gambling issue or not?
                                         </button>
                                         </h3>
                                         <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            If you feel stress, hide your play, or keep chasing losses, it’s time to pause.
+                                            When you are too stressed to play, conceal your play, or continue chasing losses, then it is time to stop.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Can I set a deposit limit on my Mega888 account?
+                                            Is there a limit to how much deposit can be placed in my Mega888 account?
                                         </button>
                                         </h3>
                                         <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. Just text our support to request daily, weekly, or monthly limits.
+                                            Yes. Simply text our support to ask about daily, weekly or monthly limits.
                                         </div>
                                         </div>
                                     </div>
@@ -345,139 +345,139 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            It’s when you ask us to lock your account temporarily or permanently to help you take a break.
+                                            It is when you request us to lock your account temporarily or permanently, to assist you in having a break.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Is it possible to pause my account without deleting it?
+                                            Is it possible to freeze the account and not to delete it?
                                         </button>
                                         </h3>
                                         <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. Ask for an account freeze. We’ll lock it up until you’re ready to return.
+                                            Yes. You are entitled to put your account under freeze. We will freeze it till you feel like getting back.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            Who can use these safety tools?
+                                            Who has access to such safety tools?
                                         </button>
                                         </h3>
                                         <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Anyone. We provide them to all our players.
+                                            Anyone. We offer them to every one of our players.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            Can I still get bonuses after setting limits?
+                                            Will I be unable to receive bonuses when I restrict things?
                                         </button>
                                         </h3>
                                         <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes, but your safety is our priority. If we notice risky behavior, we may pause bonus offers.
+                                            Yes, but your security is what comes first to us. In case of dangerous behavior, we can delay bonuses.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Is it okay to play if I’m using borrowed money?
+                                            Under what circumstance can I play with the borrowed money?
                                         </button>
                                         </h3>
                                         <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. If you’re using borrowed money to play, it’s time to stop and get help.
+                                            No. When you are playing on borrowed funds, it is time that you must quit and seek help.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            What age must I be to play on Mega888?
+                                            How old should I be to play in Mega888?
                                         </button>
                                         </h3>
                                         <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            You must be at least 21 years old.
+                                            One has to be at least 21 years old.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            What if I think someone else has a gambling problem?
+                                            What happens when I suspect that another person has a gambling problem?
                                         </button>
                                         </h3>
                                         <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Talk to them or get help from a support service like Be Gamble Aware, Gambling Therapy, or Talian Kasih.
+                                            Talk to them or seek assistance of support service such as Be Gamble Aware, Gambling Therapy or Talian Kasih.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            Are small bets still risky?
+                                            Do small bets remain risky?
                                         </button>
                                         </h3>
                                         <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. Long sessions of gaming, even with small bets, can still lead to problems if you’re not being careful.
+                                            Yes. Playing even in the small bet games can be dangerous too, as time spent playing lingers, problem exists in case one is not cautious.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Can I stop getting promo messages if I feel triggered?
+                                            Will I be able to unsubscribe to the promo messages in case I feel triggered?
                                         </button>
                                         </h3>
                                         <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. Contact us and we’ll remove you from all the marketing lists from your account.
+                                            Yes. Write to us and we will get you out of all the marketing lists based on your account.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            What happens after I ask for self-exclusion?
+                                            What happens after I ask for temporary break?
                                         </button>
                                         </h3>
                                         <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Your account will be locked. You won’t be able to deposit or log in until the agreed time ends.
+                                            Your account will be locked. You will not be able to deposit or log in until the time of the agreement has expired.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                            Can I set time limits for my game sessions?
+                                            Am I able to set time restrictions when I play my games?
                                         </button>
                                         </h3>
                                         <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. We can send alerts after a certain number of minutes or hours.
+                                            Yes. We will be able to send alerts in the number of minutes or hours.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                            Are there local support services in Malaysia?
+                                            Is there any local help in Malaysia?
                                         </button>
                                         </h3>
                                         <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                        Yes. You can call <b>Talian Kasih at 15999</b> or visit <b>taliankasih.kpwkm.gov.my</b> for 24/7 help.
+                                            Yes. In the event of an emergency contact Talian Kasih at 15999 or log on to <b>taliankasih.kpwkm.gov.my</b> to get assistance 24/7.
                                         </div>
                                         </div>
                                     </div>

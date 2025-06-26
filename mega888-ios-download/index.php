@@ -185,17 +185,18 @@ include '../inc/functions.php';
                                 <h2>Table of Content</h2>
                                 <ol>
                                     <li><a class="link" href="#iostoc1">Download Updated Version of Trusted Mega888 iOS for iPhone or iPad</a></li>
-                                    <li><a class="link" href="#iostoc2">Why Mega888 Isn’t in the App Store<</a></li>
+                                    <li><a class="link" href="#iostoc2">Why Mega888 Isn’t in the App Store</a></li>
                                     <li><a class="link" href="#iostoc3">How to Download and Install on iOS Cautiously (Step-by-Step for 2025)</a></li>
-                                    <li><a class="link" href="#iostoc4">Fixing “Untrusted Developer” Errors</a></li>
+                                    <li><a class="link" href="#iostoc4">Troubleshooting “Untrusted Developer” Errors</a></li>
                                     <li><a class="link" href="#iostoc5">iOS Compatibility List for 2025</a></li>
                                     <li><a class="link" href="#iostoc6">What You Should Expect with the Recent iOS Update</a></li>
                                     <li><a class="link" href="#iostoc7">Is it Permitted to Install on iPhone in Malaysia</a></li>
                                     <li><a class="link" href="#iostoc8">Security Measures Built into Mega888 iOS</a></li>
                                     <li><a class="link" href="#iostoc9">Keeping Your Account Safe on iOS</a></li>
                                     <li><a class="link" href="#iostoc10">How to Make Sure Mega888 iOS Performs at Its Best</a></li>
-                                    <li><a class="link" href="#iostoc11">Does iOS Profile Access Other Apps?</a></li>
-                                    <li><a class="link" href="#iostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</a></li>
+                                    <li><a class="link" href="#iostoc11">Simple steps of how to reinstall Mega888 iOS without losing your data.</a></li>
+                                    <li><a class="link" href="#iostoc12">Does iOS profile access the other applications?</a></li>
+                                    <li><a class="link" href="#iostoc13">The Choice for Mobile Gamers in 2025 - Mega888 iOS</a></li>
                                     <li><a class="link" href="#iostoc13">Mega888 iOS Download - Frequently Asked Questions</a></li>
                                 </ol>
                             </div>
@@ -216,26 +217,26 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 <h3 id="iostoc3">How to Download and Install on iOS Cautiously (Step-by-Step for 2025)</h3>
                                 <ol>
-                                    <li>Visit the official Mega888 at slotmega888.app</li>
-                                    <li>Tap “<b>Download iOS”</b></li>
-                                    <li>When prompted, tap “<b>Allow</b>” to approve profile installation</li>
-                                    <li>Open <b>Settings</b> > <b>General</b> > <b>VPN & Device Management</b></li>
-                                    <li>Under “Downloaded Profile,” select <b>Mega888 Installer</b></li>
-                                    <li>Tap “<b>Install</b>” and follow the instructions</li>
-                                    <li>Once complete, the application icon will appear on your home screen</li>
+                                    <li>You can go to the official Mega888 at slotmega888.app</li>
+                                    <li>Click/ tap on “Download iOS</li>
+                                    <li>Click on the <b>“Allow”</b> option to grant permission to install a profile</li>
+                                    <li>Try going to Open Settings > General > VPN & Device Management</li>
+                                    <li>In the section of “Downloaded Profile”, click Mega888 Installer</li>
+                                    <li>Tap on the button “Install” and follow the instructions</li>
+                                    <li>When this is done, the application icon will be seen on your home screen</li>
                                 </ol>
-
-                                <h3 id="iostoc4">Fixing “Untrusted Developer” Errors</h3>
-                                <p>When opening the application for the first time, iOS may show: “Untrusted Enterprise Developer”. This is normal for apps not installed via the App Store.</p>
+                                <p>&nbsp;</p>
+                                <h3 id="iostoc4">Troubleshooting “Untrusted Developer” Errors</h3>
+                                <p>The first time you open the application, iOS can display: “Untrusted Enterprise Developer”. This is common with apps that are not installed through App Store.</p>
                                 <p>To resolve it:</p>
                                 <ul>
                                     <li>Open <b>Settings</b></li>
                                     <li>Go to <b>General</b> > <b>Device Management</b></li>
-                                    <li>Find <b>Mega888</b> under Enterprise Apps</li>
+                                    <li>Mega888 can be found in Enterprise Apps</li>
                                     <li>Tap “<b>Trust Mega888</b>”</li>
                                     <li>Confirm your choice</li>
                                 </ul>
-                                <p>After this, the app will launch normally.</p>
+                                <p>Once this has been done, the app will be launched normally.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="iostoc5">iOS Compatibility List for 2025</h3>
                                 <table class="table table-striped mb-0">
@@ -248,23 +249,23 @@ include '../inc/functions.php';
                                     <tbody>
                                         <tr>
                                             <td>iPhone 7 / 8 / SE</td>
-                                            <td><i class="fas fa-check-circle"></i> Fully Compatible</td>
+                                            <td><i class="fas fa-check"></i>Fully Compatible</td>
                                         </tr>
                                         <tr>
                                             <td>iPhone X / XR / XS</td>
-                                            <td><i class="fas fa-check-circle"></i> Fully Compatible</td>
+                                            <td><i class="fas fa-check"></i>Fully Compatible</td>
                                         </tr>
                                         <tr>
                                             <td>iPhone 11 / 12 / 13 / 14 / 15</td>
-                                            <td><i class="fas fa-check-circle"></i> Optimized Performance</td>
+                                            <td><i class="fas fa-check"></i>Optimized Performance</td>
                                         </tr>
                                         <tr>
                                             <td>iPhone 16 / Pro / Max</td>
-                                            <td><i class="fas fa-check-circle"></i> Best Performance</td>
+                                            <td><i class="fas fa-check"></i>Best Performance</td>
                                         </tr>
                                         <tr>
                                             <td>All iPad Models</td>
-                                            <td><i class="fas fa-check-circle"></i> Landscape Supported</td>
+                                            <td><i class="fas fa-check"></i>Landscape Supported</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -277,7 +278,7 @@ include '../inc/functions.php';
                                 <p>Having the installation done is not against the law. Mega888 is based overseas and people download the application for their personal needs. The application is available for Malaysians who are above the age of 21. The site is committed to helping players enjoy themselves, not to become addicted and offers tools for responsible gaming.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="iostoc8">Security Measures Built into Mega888 iOS</h3>
-                                <p>Encryption is provided in the <a href="<?php echo $site_base_url;?>"><b>mega888 iOS version</b></a>, and it does not require access to unnecessary things on the user’s device. It does not get information from your photos, contacts or microphone. You only have to have internet access and storage space for it to function. Updates are always checked for malware and their stability before they can be released.</p>
+                                <p>Encryption is provided in the <a href="https://slotmega888.app/"><b><u>mega888 iOS version</u></b></a>, and it does not require access to unnecessary things on the user’s device. It does not get information from your photos, contacts or microphone. You only have to have internet access and storage space for it to function. Updates are always checked for malware and their stability before they can be released.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="iostoc9">Keeping Your Account Safe on iOS</h3>
                                 <p>You should choose a secure and distinct password, not give your login details to fake agents and turn on Face ID or Touch ID on your device. Make sure to use safe and certified payment options and log off when you use a computer that isn’t yours. Ask for support should you believe an unauthorized person is accessing your account.</p>
@@ -285,23 +286,23 @@ include '../inc/functions.php';
                                 <h3 id="iostoc10">How to Make Sure Mega888 iOS Performs at Its Best</h3>
                                 <p>Putting new apps on your device every 2–3 months prevents lag, manages your memory effectively and runs the latest version. It becomes very useful when there are new iOS updates or when the application introduces new features.</p>
                                 <p>&nbsp;</p>
-                                <p><b>How to Reinstall Mega888 iOS Without Losing Data</b></p>
+                                <h3 id="iostoc11">Simple steps of how to reinstall Mega888 iOS without losing your data.</h3>
                                 <p>If you need to fix bugs or reinstall the app:</p>
                                 <ol>
-                                    <li>Tap and hold the <b>app icon</b></li>
-                                    <li>Tap <b>Remove App</b> > <b>Delete App</b></li>
-                                    <li>Go to <b>Settings</b> > <b>General</b> > <b>Device Management</b></li>
-                                    <li>Remove the <b>Mega888 profile</b></li>
-                                    <li>Revisit our site and download the latest version</li>
+                                    <li>Tap and hold the <b>icon of the app</b></li>
+                                    <li>Press <b>Remove App</b> > <b>Delete App</b></li>
+                                    <li>Visit <b>Settings</b> > <b>General</b> > <b>Device Management</b></li>
+                                    <li>Delete <b>Mega888 profile</b></li>
+                                    <li>Go to our site and get the new version</li>
                                     <li>Reinstall using the same step-by-step process</li>
                                 </ol>
-                                <p>Complete these steps, then refresh or restart the app and ensure you're running the latest version.</p>
+                                <p>Go through the above steps, refresh or restart the application after it, and check that you have the latest version.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="iostoc11">Does iOS Profile Access Other Apps?</h3>
-                                <p>Installing the app using the profile is all that is allowed. Unauthorized communication between apps is not allowed by iOS because it uses sandboxing. These steps guarantee that your privacy is fully protected during your play with us.</p>
+                                <h3 id="iostoc12">Does iOS profile access the other applications?</h3>
+                                <p>The only thing that is permitted is installation of the app via the profile. iOS does not allow unauthorized communication between applications since it employs the technique of sandboxing. These measures will ensure that your privacy is not compromised at all when you are playing with us.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="iostoc12">The Choice for Mobile Gamers in 2025 - Mega888 iOS</h3>
-                                <p>Users on iOS get to enjoy all the features a casino can offer, tailored for the needs of Malaysian players. After the program is installed correctly and security is set up, Google services are quick, dependable and easy to use. You can safely and legally use the casino site to play slots, table games and much more.</p>
+                                <h3 id="iostoc13">The Choice for Mobile Gamers in 2025 - Mega888 iOS</h3>
+                                <p>iOS users have the chance to enjoy all the features a casino has to offer, and it is customized according to all Malaysian players. Once the program is installed as it should and the security is configured, google services are fast, reliable and convenient. The casino site is a secure, legal site where you can play slots, table games and a lot more.</p>
                             </div>
                         </div>
                     </div>
@@ -312,161 +313,161 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2 id="iostoc13">Mega888 iOS Download - Frequently Asked Questions</h2>
+                                <h2 id="iostoc14">Mega888 iOS Download – Frequently Asked Questions</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Why isn’t Mega888 on the Apple App Store?
+                                            Why isn’t Mega888 on Apple App Store?
                                         </button>
                                         </h3>
                                         <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Apple does not list offshore gambling apps that don’t meet its licensing terms.
+                                            Offshore gambling applications that fail to comply with the terms of Apple licensing will not be listed by them.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            Is it safe to install the game app using a profile?
+                                            Can the game app be installed safely with a profile?
                                         </button>
                                         </h3>
                                         <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes, if downloaded from official site. The profile is verified and secure.
+                                            Yes, in case it is downloaded on official site. The profile blog is authenticated and safe.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            What does “Untrusted Developer” mean?
+                                            What is Untrusted Developer?
                                         </button>
                                         </h3>
                                         <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            It means Apple doesn’t recognize the developer. You can fix it in Settings by tapping “<b>Trust</b>.”
+                                            This implies that Apple has not acknowledged the developer. It can be corrected in the settings by tapping “Trust.”
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            Will installing the casino app affect my other apps or phone settings?
+                                            Will the installation of the casino app influence the rest of the programs on my phone or phone settings?
                                         </button>
                                         </h3>
                                         <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. It only installs Mega888. It won’t access or change anything else on your device.
+                                            No. It installs only Mega888. It will never download or will never change any other files on your device.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Can I play on all iPhones?
+                                            Is it playable on every iPhone?
                                         </button>
                                         </h3>
                                         <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes, it works on iPhone 7 and newer, as well as all iPads.
+                                            Yes, iPhone 7 and newer, all iPad is compatible.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            Does the app need access to my camera or contacts?
+                                            Does the application require my camera or address?
                                         </button>
                                         </h3>
                                         <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. It only needs internet access and storage. It won’t request personal app permissions.
+                                            No. It just requires internet connection and storage. It will not ask to give it personal app permission.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            What if the app won’t open after install?
+                                            What happens when the app does not open after installation?
                                         </button>
                                         </h3>
                                         <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Check if you’ve trusted the developer. If it still fails, reinstall from the latest version.
+                                            Verify whether you have trusted the developer or not. In case it does not work, reinstall the latest version.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Is playing with the application legal in Malaysia?
+                                            Is it illegal to play with the application in Malaysia?
                                         </button>
                                         </h3>
                                         <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes, it’s legal to use privately for players over 21. The app runs from offshore servers.
+                                            It is indeed legal to be used privately by players above 21. The app is hosted on offshore servers.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Will the application slow down my iPhone?
+                                            Will my iPhone be slowed down by the application?
                                         </button>
                                         </h3>
                                         <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. It’s optimized for low battery use and fast performance, even on older models.
+                                            No. It is designed to affect minimum battery consumption and to work swiftly, even in outdated models.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            Can the game application be updated automatically on iOS?
+                                            Is it possible to have the game application auto-updated in iOS?
                                         </button>
                                         </h3>
                                         <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. You’ll need to reinstall the profile manually for major updates.
+                                            No. When it comes to significant updates, however, you will be forced to reinstall the profile yourself.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            What if I installed it from an Instagram or WhatsApp link?
+                                            What happens in case I downloaded it through an Instagram or WhatsApp link?
                                         </button>
                                         </h3>
                                         <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Delete it immediately. It may be fake or harmful.
+                                            Get rid of it instantly. It can be false or malicious.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            How do I reinstall without losing my account?
+                                            How can I reinstall without losing my account?
                                         </button>
                                         </h3>
                                         <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Delete the app and profile, then reinstall the application. Your account stays safe as long as you have your login ID.
+                                            Remove and delete the profile as well as the app, then re-install the application. As long as you have your log in ID, your account is safe.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            What’s the best time to reinstall for updates?
+                                            How frequently should I reinstall the app to get updated?
                                         </button>
                                         </h3>
                                         <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Every 2–3 months, or after a major iOS or app version change.
+                                            Every 2–3 months, or in the case of a substantial update of iOS or application version.
                                         </div>
                                         </div>
                                     </div>

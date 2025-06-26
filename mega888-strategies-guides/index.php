@@ -197,17 +197,17 @@ include '../inc/functions.php';
                             <div class="table-content">
                                 <h2>Table of Content</h2>
                                 <ol>
-                                    <li><a class="link" href="#toc1">Mega888 Game Guides & Winning Strategies</a></li>
-                                    <li><a class="link" href="#toc2">How Mega888 Slots Really Work</a></li>
-                                    <li><a class="link" href="#toc3">Best Games to Try on Mega888 Right Now</a></li>
-                                    <li><a class="link" href="#toc4">Real Mega888 Slot Strategies</a></li>
-                                    <li><a class="link" href="#toc5">Improve Gameplay on Your Device</a></li>
-                                    <li><a class="link" href="#toc6">How to Test Games Without Losing Big</a></li>
-                                    <li><a class="link" href="#toc7">What to Avoid if You Want to Keep Winning</a></li>
-                                    <li><a class="link" href="#toc8">Track Your Gameplay Like a Pro</a></li>
-                                    <li><a class="link" href="#toc9">What Is a Hot Cycle and How Do You Spot It</a></li>
-                                    <li><a class="link" href="#toc10">Games That Drain Your Wallet Instantly</a></li>
-                                    <li><a class="link" href="#toc11">Win Without Spending Too Much</a></li>
+                                    <li><a class="link" href="#toc1">Mega888 Guides to Games & How to Win</a></li>
+                                    <li><a class="link" href="#toc2">How Do Mega888 Slots Work?</a></li>
+                                    <li><a class="link" href="#toc3">List of Best Games to Play on Mega888 Right Now</a></li>
+                                    <li><a class="link" href="#toc4">Actual Mega888 Slot Strategies</a></li>
+                                    <li><a class="link" href="#toc5">Improve Your Device Game Experience</a></li>
+                                    <li><a class="link" href="#toc6">How to Test Games and Not Losing Too Much</a></li>
+                                    <li><a class="link" href="#toc7">The Strategies to Win by Being Careful</a></li>
+                                    <li><a class="link" href="#toc8">Monitor your Game as a Pro</a></li>
+                                    <li><a class="link" href="#toc9">What Does Hot Cycle Mean and How to Recognize It?</a></li>
+                                    <li><a class="link" href="#toc10">Games That Drain Your Bank Account In a Snap</a></li>
+                                    <li><a class="link" href="#toc11">Winning Without Spending a lot</a></li>
                                     <li><a class="link" href="#toc12">FAQs – Mega888 Game Strategies & Slot Tips</a></li>
                                 </ol>
                             </div>
@@ -221,114 +221,113 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1 id="toc1">Mega888 Game Guides & Winning Strategies</h1>
-                                <p>Majority of Mega888 new players lose fast not because the game is unfair, but because they lack the smart way of playing. Here at slotmega888.app, we help you go beyond guessing. This page gives you real tips and proven strategies to improve your gaming experience, manage your credits, and avoid burning your balance.</p>
+                                <h1 id="toc1">Mega888 Guides to Games & How to Win</h1>
+                                <p>Most of the Mega888 new players lose quickly not because the game is not fair, but they do not have a clever way of playing it. At slotmega888.app we enable you to go beyond guesswork. This page provides you with actual tips and effective strategies to enjoy your gaming more, manipulate your credits, and not burn your hard-earned balance.</p>
                                 <p>&nbsp;</p>
-                                <h2 id="toc2">How Mega888 Slots Really Work</h2>
-                                <p>All the slots in Mega888 uses something called <b>RTP</b> (Return to Player). It shows how much a game pays back overtime. A 96% RTP game means for every RM100 played, RM96 may come back, over many spins. Games with <b>lower RTP</b> (under 90%) might pay less often but give bigger rewards when they do.</p>
-                                <p>Also, there are <b>hot and cold cycles</b> in slots. In hot cycles, games pay out more. In cold ones, they barely hit. Smart players observe the trend and switch at the right moment.</p>
+                                <h2 id="toc2">How Do Mega888 Slots Work?</h2>
+                                <p>This means that all slots in the Mega888 play a thing called <b>RTP</b> (Return to the player). It demonstrates the override value of game pay-back. A 95 percent RTP game tells you that each RM100 is played, you may bring back RM95, played many spins. Games with smaller RTP (less than 90 percent) may have fewer payments but with higher payments when they occur.</p>
+                                <p>Moreover, there are <b>hot and cold cycles</b> in slots. Hot cycles have games that pay more. In the cold ones they hardly strike. Intelligent players monitor the trend and change in time.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc3">Best Games to Try on Mega888 Right Now</h3>
-                                <p>Here are top picks based on what’s popular with Malaysian players:</p>
+                                <h3 id="toc3">List of Best Games to Play on Mega888 Right Now</h3>
+                                <p>These are the best choices according to what Malaysian players like:</p>
                                 <table class="table table-striped mb-0">
                                     <thead>
                                         <tr>    
                                             <th>Game</th>
                                             <th>Type</th>
-                                            <th>Why Players Choose This</th>
+                                            <th>Reason to Like This Game</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>Panther Moon</td>
-                                            <td>Classic Slot</td>
-                                            <td>High RTP, simple to follow</td>
+                                            <td>Traditional Slot Game</td>
+                                            <td>High RTP, not difficult to play</td>
                                         </tr>
                                         <tr>
                                             <td>Safari Heat</td>
                                             <td>Jackpot Slot</td>
-                                            <td>Bonus rounds, big wins</td>
+                                            <td>Bonus rounds, huge wins</td>
                                         </tr>
                                         <tr>
                                             <td>Ocean King</td>
                                             <td>Fish Game</td>
-                                            <td>Skill-based, action-packed</td>
+                                            <td>Skill-based game, full of action</td>
                                         </tr>
                                         <tr>
                                             <td>Highway Kings</td>
                                             <td>Reel Slot</td>
-                                            <td>Low risk, good for small budgets</td>
+                                            <td>Small risk, suitable for low spender players</td>
                                         </tr>
                                         <tr>
                                             <td>Aladdin Wishes</td>
                                             <td>Video Slot</td>
-                                            <td>Bonus spins and fast payouts</td>
+                                            <td>Bonus spins and speedy payments</td>
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p>Tips: Start with small bets to try each game before increasing.</p>
+                                <p>Expert Tips: Ideally one should start taking small bets trying all games before making big bets.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc4">Real Mega888 Slot Strategies</h3>
-                                <p>Most of the experienced players used these. No gambling myths, just real tips for you.</p>
+                                <h3 id="toc4">Actual Mega888 Slot Strategies</h3>
+                                <p>The majority of the skilled players employed these. Not gambling myths, but facts, tips to you.</p>
                                 <ul>
-                                    <li><b>Start with Low Bets: </b>Try 10–15 spins. If nothing hits, change games.</li>
-                                    <li><b>Use Bonus Credits for Testing: </b>Don’t use real balance to try out new games.</li>
-                                    <li><b>Take Profits Early: </b>Double your balance? Withdraw. Don’t push your luck.</li>
-                                    <li><b>Raise Bets During Hot Cycles: </b>If bonuses hit frequently, increase bets slowly — stop if it gets cold.</li>
-                                    <li><b>Never Chase Losses: </b>Lost RM100? Don’t top up RM300 just to get even.</li>
+                                    <li><b>Start with Little Bets:</b> Try 10 untill 15 spins, the moment everything is missing, go to another games.</li>
+                                    <li><b>Testing with Bonus Credits:</b> Do not spend the actual balance in testing the new games.</li>
+                                    <li><b>Take Out Profits Early:</b> Double your balance? Withdraw immediately. Don’t test your luck further if luck isn’t on your side.</li>
+                                    <li><b>Raise Bets in Hot Cycles:</b> Upon the bonuses getting good, gradually begin to bet larger and when it gets cold, quit.</li>
+                                    <li><b>Never Pursue What You Lost:</b> Just lost RM100? Do not put another RM300 on top so that it may be even.</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3 id="toc5">Improve Gameplay on Your Device</h3>
-                                <p>Phone issues can ruin gameplay. For smoother gaming sessions:</p>
+                                <h3 id="toc5">Improve Your Device Game Experience</h3>
+                                <p>Gaming experience can be spoiled by phone problems. To have smoother game time:</p>
                                 <ul>
-                                    <li>Close apps that you’re not using</li>
-                                    <li>Use WiFi or stable 4G / 5G</li>
-                                    <li>Switch off battery saver mode</li>
-                                    <li>Clear app cache frequently</li>
-                                    <li>Update your <a href="<?php echo $site_base_url;?>"><b>Mega888 app</b></a> from slotmega888.app</li>
+                                    <li>Get rid of unused apps in the background</li>
+                                    <li>Connect with internet connection that are stable</li>
+                                    <li>Ensure that battery saving mode isn’t enabled</li>
+                                    <li>Clear the app cache frequently in setting</li>
+                                    <li>Get the newest version of <a href=https://slotmega888.app><b><u>Mega888 app</u></b></a> from slotmega888.app</li>
                                 </ul>
-                                <p><b>More control = better decisions = less money wasted.</b></p>
+                                <p><b>The more in control it is = the better the decision = the less wasted money.</b></p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc6">How to Test Games Without Losing Big</h3>
-                                <p>Want to find good slots without spending too much?</p>
+                                <h3 id="toc6">How to Test Games and Not Losing Too Much</h3>
+                                <p>Feel like having good slots but not looking at too high price?</p>
                                 <ul>
                                     <li>Set RM10–RM20 aside</li>
-                                    <li>Try 2–3 games using RM0.10–RM0.20 per spin</li>
-                                    <li>Aware of small wins or bonus triggers</li>
-                                    <li>Select the one that performs best</li>
+                                    <li>Try with 2–3 games using RM0.10–RM0.20 per spin</li>
+                                    <li>Pay attention to small wins or bonus triggers</li>
+                                    <li>In case of the opportunity to win, select the most profitable one</li>
                                 </ul>
-                                <p>Old slots usually have higher pay than new ones. Don’t be fooled by fancy graphics.</p>
+                                <p>New slot machines would normally have low payments when compared to old machines. Their prettiness is just no good reason to say that they are the right product.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc7">What to Avoid if You Want to Keep Winning</h3>
-                                <p>These are common mistakes to avoid:</p>
+                                <h3 id="toc7">The Strategies to Win by Being Careful</h3>
+                                <p>These are some of the correctable mistakes:</p>
                                 <ul>
-                                    <li>Believing in modded apps or cheat APKs</li>
-                                    <li>Not setting a loss limit</li>
-                                    <li>Re-depositing out of frustration</li>
-                                    <li>Using borrowed money to keep playing</li>
-                                    <li>Thinking “today’s my lucky day” is a strategy</li>
+                                    <li>Faith in modified apps or hack Android app file</li>
+                                    <li>Failure to set loss limit</li>
+                                    <li>Re-depositing out of frustration </li>
+                                    <li>Playing with borrowed funds </li>
+                                    <li>Have the optimism and thinks that “Surely today is my lucky day” is a strategy</li>
                                 </ul>
-                                <p>If you don’t manage how you play, you’ll lose fast, regardless of how good the game is.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc8">Track Your Gameplay Like a Pro</h3>
-                                <p>Smart players take notes. It helps you to understand which games are good and which ones drain your balance.</p>
-                                <p>What to write down:</p>
+                                <h3 id="toc8">Monitor your Game as a Pro</h3>
+                                <p>Smart players find themselves learning and writing notes. It makes you know which games are good and which lose your balance.</p>
+                                <p>What to note down:</p>
                                 <ul>
                                     <li>Name of the game</li>
-                                    <li>Date played</li>
-                                    <li>Starting balance</li>
-                                    <li>Ending balance</li>
-                                    <li>Notes (bonus triggers, hot/cold behavior)</li>
+                                    <li>When you start playing (Date)</li>
+                                    <li>Startup balance </li>
+                                    <li>Final balance</li>
+                                    <li>Notes (bonus starts, high/low pay out pattern)</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3 id="toc9">What Is a Hot Cycle and How Do You Spot It</h3>
-                                <p>A <b>hot cycle</b> means a game is giving wins, free spins, or bonuses often. You will spot it within 10 to 20 spins. If bonuses drop back-to-back or small wins keep coming, increase your bets slowly. But stop once the trend dies.</p>
+                                <h3 id="toc9">What Does Hot Cycle Mean and How to Recognize It?</h3>
+                                <p><b>Hot cycle</b> is a game that gives winning, providing free spins, or bonuses frequently. You will see it in the first 10 to 20 turns. If the bonuses decline consecutively or in case of repetitive small wins, gradually keep on increasing your bets. When the trend has died then quit.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc10">Games That Drain Your Wallet Instantly</h3>
-                                <p>Big-jackpot games and most recent “promo” slots often have lower RTP. They might promise you big wins, but the payout timing is harder to predict. Avoid making big bets on them unless you have a clear testing strategy.</p>
+                                <h3 id="toc10">Games That Drain Your Bank Account In a Snap</h3>
+                                <p>The RTP is also lower in big-jackpot games and a majority of new “promo” slots. They may tell you that they have a large winning but the cash out time is trickier. Do not make large bets on them without a well defined testing strategy.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc11">Win Without Spending Too Much</h3>
-                                <p>With a proper test-and-track method, RM30–RM50 can last several sessions. Winning is not about how much you spend it, but it’s about <b>when and how</b> you play.</p>
+                                <h3 id="toc11">Winning Without Spending a lot</h3>
+                                <p>Using an effective test-and-track strategy, RM30 to RM50 can sustain a number of sessions. One does not win by how much he or she spends it rather it is by the <b>when and how.</b></p>
                             </div>
                         </div>
                     </div>
@@ -339,186 +338,210 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2 id="toc12">FAQs – Mega888 Game Strategies & Slot Tips</h2>
+                                <h2 id="toc12">FAQs – Mega888 Game Plan & Slot Tips</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            What’s the best game to begin with on Mega888?
-                                        </button>
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
+                                                Which game should I start to play on Mega888?
+                                            </button>
                                         </h3>
                                         <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Try Panther Moon or Highway Kings. They’re simple, low-risk, and suitable for starters.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Panther Moon/ Highway Kings game. They are not hard, there is no risk and are starter friendly.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            How do I spot if a game is in a hot cycle?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
+                                                How can I know when a game is on a hot cycle?
+                                            </button>
                                         </h3>
                                         <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Look for back-to-back wins, frequent free spins, or bonus triggers within 10–20 spins.
-                                        </div>
+                                            <div class="accordion-body">
+                                                See consecutive wins, lots of free spins, or bonus incentives on the 10th–20th spin.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            What is RTP in Mega888?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
+                                                What is RTP in Mega888?
+                                            </button>
                                         </h3>
                                         <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            RTP stands for Return to Player. An increase of RTP means better payout chances in the long run.
-                                        </div>
+                                            <div class="accordion-body">
+                                                RTP is the abbreviation of Return to Player. The higher the RTP, the more the payout possibilities in the long term.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            How many spins should I test a game before switching?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
+                                                How many spins should I test a game before switching?
+                                            </button>
                                         </h3>
                                         <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            About 10–15 spins. If no bonus hits, move on to another game.
-                                        </div>
+                                            <div class="accordion-body">
+                                                About 10–15 spins. If no bonus hits, move on to another game.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Can I win real money by playing smart?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
+                                                How many times do I need to spin and test a game before switching?
+                                            </button>
                                         </h3>
                                         <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes, with good timing and discipline. But there’s no guarantee win. It’s still a game of chance.
-                                        </div>
+                                            <div class="accordion-body">
+                                                When the spins land at 10 to 15. Quit the game in case there is no bonus.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            Should I play jackpot slots or classic slots?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
+                                                Is it possible to play smart to win real money?
+                                            </button>
                                         </h3>
                                         <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Begin with classic slots. Jackpot slots have higher risk and require larger balance.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Yes, well timed and disciplined. However, it does not have a sure win. It’s still a game of luck.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            Is it safe to bet big on a new game?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
+                                                Which one should I play, either jackpot slots or classic slots?
+                                            </button>
                                         </h3>
                                         <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            No. Always start small and try out the game first.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Start with simple slots. The jackpot slots are riskier and need bigger balance.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Do hot and cold cycles really exist?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
+                                                Is it safe to bet big on a new game?
+                                            </button>
                                         </h3>
                                         <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes. Slots often go through phases where experienced players monitor them closely.
-                                        </div>
+                                            <div class="accordion-body">
+                                                No. Always start small and try out the game first.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Can I test games without losing a lot?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
+                                                Can one place heavy bet on a new game?
+                                            </button>
                                         </h3>
                                         <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes. Use RM10–20 as a test budget with small bets.
-                                        </div>
+                                            <div class="accordion-body">
+                                                No. You always have to begin with small and experiment with the game.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            How frequent should I change games?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                                                Does hot and cold cycles is real?
+                                            </button>
                                         </h3>
                                         <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Switch the game when you see no bonus activity or losses after 15 spins or more.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Yes. Slots are likely to experience times with close watch by those who have an experience with them.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            Should I write down my game results?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                                                Will I have a chance to test games without losing much?
+                                            </button>
                                         </h3>
                                         <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes. Tracking results helps you spot trends and avoid bad games.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Yes. Just start off with small bets (e.g. RM10–RM20) as the test budget.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Is it bad to re-deposit after losing?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                                                How many times should games be changed?
+                                            </button>
                                         </h3>
                                         <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes, especially out of frustration. Set a limit and stick to them.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Change the game at the time when there is no bonus activity or defeat after 15 or more spins.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            Can older slot games still pay well?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                                                Is it good idea to record my own game results?
+                                            </button>
                                         </h3>
                                         <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Of course they pay well. Some old classic games have higher RTP than flashy new games.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Yes. Monitoring results can assist in identifying patterns and prevents poor games.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                            Is battery saver mode affecting my game?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                                                Is it not a good idea to deposit again after losing?
+                                            </button>
                                         </h3>
                                         <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes. It can slow down graphics and ruin bet response time.
-                                        </div>
+                                            <div class="accordion-body">
+                                                Yes, especially feeling upset. Set a certain limit and be consistent with them.
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                            Should I raise my bet after a big win?
-                                        </button>
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                                                Is it possible that old slot games still can pay well?
+                                            </button>
                                         </h3>
                                         <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                        Only if the game stays at hot cycles. Don’t increase bets without signs of good cycles.
+                                            <div class="accordion-body">
+                                                Naturally they are well paid. Higher RTP games can be found among old classic games, and in new games, they are flashy.
+                                            </div>
                                         </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h3 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
+                                                Is my game affected by battery saving mode?
+                                            </button>
+                                        </h3>
+                                        <div id="collapse16" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Yes. It may delay graphics and ruin the response time of bet.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h3 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse17" aria-expanded="false" aria-controls="collapse17">
+                                                Is it the right time to increase my bet following a huge win?
+                                            </button>
+                                        </h3>
+                                        <div id="collapse17" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                This is only when the game remains in hot cycles. Never raise bets when there is no indication of good cycles.
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

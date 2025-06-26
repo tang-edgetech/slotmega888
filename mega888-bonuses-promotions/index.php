@@ -201,17 +201,17 @@ include '../inc/functions.php';
                             <div class="table-content">
                                 <h2>Table of Content</h2>
                                 <ol>
-                                    <li><a class="link" href="#toc1">Claim Mega888 Bonuses That Really Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</a></li>
-                                    <li><a class="link" href="#toc2">Welcome Bonus for New Players – Real Extra Credit on Your First Deposit</a></li>
+                                    <li><a class="link" href="#toc1">Get Mega888 Bonuses That Really Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</a></li>
+                                    <li><a class="link" href="#toc2">Welcome Bonus - Extra Credit to New players during their First Deposit</a></li>
                                     <li><a class="link" href="#toc3">Free Credit Giveaways</a></li>
                                     <li><a class="link" href="#toc4">VIP Rewards – Exclusive for Loyal Players</a></li>
                                     <li><a class="link" href="#toc5">Festival Promotions for Malaysian Players</a></li>
                                     <li><a class="link" href="#toc6">How to Claim Your Bonus the Right Way</a></li>
-                                    <li><a class="link" href="#toc7">⚠️ Bonus Rules You Need to Know ⚠️</a></li>
+                                    <li><a class="link" href="#toc7">⚠️ Bonus Rules You Should Know ⚠️</a></li>
                                     <li><a class="link" href="#toc8">Why Our Bonuses Are Better Than Others</a></li>
-                                    <li><a class="link" href="#toc9">Two Bonuses Running at The Same Time</a></li>
-                                    <li><a class="link" href="#toc10">When You Miss a Bonus Deadline</a></li>
-                                    <li><a class="link" href="#toc11">Eligibility for VIP</a></li>
+                                    <li><a class="link" href="#toc9">Am I able to Run Two Bonus at the Same Time</a></li>
+                                    <li><a class="link" href="#toc10">What to Do when You Miss a Bonus Deadline</a></li>
+                                    <li><a class="link" href="#toc11">Eligibility for VIP Perks</a></li>
                                     <li><a class="link" href="#toc12">FAQs – Mega888 Bonuses & Promotions</a></li>
                                 </ol>
                             </div>
@@ -225,30 +225,30 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1 id="toc1">Claim Mega888 Bonuses That Really Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards</h1>
-                                <p>At <b>slotmega888.app</b>, other than just playing Mega888, you get rewarded for playing it. As an official Mega888 kiosk agent in Malaysia, we offer verified bonuses, free credits, and VIP rewards that are manually approved, fast withdrawal, and designed for real players in mind. No spam, no gimmicks, and no agents who run off with your money.</p>
+                                <h1 id="toc1">Get Mega888 Bonuses That Really Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards </h1>
+                                <p>Other than simply playing at <b>slotmega888.app</b>, you earn something by playing Mega888. We are an authorized Mega888 kiosk representative in Malaysia, and we offer legit bonuses, free credits and VIP bonus, which require manual verification, instant cashout and player friendly. No spam, no gimmicks and no agents who take off with your dollars.</p>
                                 <p>&nbsp;</p>
-                                <h2 id="toc2">Welcome Bonus for New Players – Real Extra Credit on Your First Deposit</h2>
-                                <p>If you're a first-time player registering through <b>slotmega888.app</b>, we’ll give you an additional bonus on your first top-up. When you deposit at least RM30 or more, you can <a href="<?php echo $site_base_url;?>"><b>claim a 50% bonus up to RM150</b></a>. All you need to do is meet a simple <b>5x turnover</b> before withdrawing.</p>
+                                <h2 id="toc2">Welcome Bonus - Extra Credit to New players during their First Deposit</h2>
+                                <p>In case you are a first-time player using slotmega888.app, we will provide you with the extra bonus upon your first top-up. You’re qualified to <a href="https://slotmega888.app/"><b><u>get a 50% bonus up to RM150</u></b></a> when you deposit at least RM30 or more. The only condition is that you must have made a <b>5x turnover</b> before requesting withdrawal.</p>
                                 <p><b>Bonus Overview:</b></p>
                                 <ul>
-                                    <li><b>Type: </b>First Deposit Bonus</li>
-                                    <li><b>Extra Credit: </b>Up to 50%</li>
-                                    <li><b>Minimum Deposit: </b>RM30</li>
-                                    <li><b>Max Bonus: </b>RM150</li>
-                                    <li><b>Turnover Requirement: </b>5x only</li>
+                                    <li><b>Type of Bonus: </b>First Time Deposit Bonus</li>
+                                    <li><b>Extra Money: </b>Up to 50 per cent</li>
+                                    <li><b>Minimum amount deposit: </b>Deposit 30MYR and above </li>
+                                    <li><b>Maximum amount of bonus: </b>150MYR</li>
+                                    <li><b>Turnover Requirement: </b>Just need 5 times are required</li>
                                 </ul>
-                                <p>After you deposit, just send your Game ID and payment proof to our team via WhatsApp or Telegram. Your bonus will be credited manually within a few minutes.</p>
+                                <p>Once you pay, all you need to do is to send your Game ID and the payment receipt to our team through WhatsApp or Telegram. Your bonus should be reflected into account manually in several minutes.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc3">Free Credit Giveaways</h3>
-                                 <p>We run real free credit campaigns throughout the year for loyal users. They are neither clickbait nor fake surveys traps. Our giveaways include:</p>
+                                <p>We have real free credit campaigns the whole year round among loyal users. They are not the clickbait or false survey traps. We have the following giveaways:</p>
                                 <ul>
                                     <li>Referral bonuses</li>
-                                    <li>Holiday offers (CNY, Raya, Merdeka)</li>
+                                    <li>Holiday deals (CNY, Raya, Merdeka)</li>
                                     <li>Active player lucky draws</li>
-                                    <li>Surprise VIP drops</li>
+                                    <li>Surprise drops for VIP only</li>
                                 </ul>
-                                <p>When a free credit event is active, we’ll announce it here or through our verified Telegram channel. If it’s not here, it’s not likely to be real. Else, you may ask our customer support agent for the bonus information.</p>
+                                <p>We will also post event updates here or to our official Telegram channel in case of the running of a free credit event. When the same is not here, then it is unlikely that the same is real. Otherwise, you can get the information about the bonus by addressing our customer support personnel.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc4">VIP Rewards – Exclusive for Loyal Players</h3>
                                 <p>If you deposit regularly and play fairly, you might get a chance to be part of our VIP group. VIPs enjoy higher bonus limits, faster crediting, and exclusive monthly perks.</p>
@@ -269,19 +269,19 @@ include '../inc/functions.php';
                                     <li>Deepavali</li>
                                     <li>New Year Countdown</li>
                                 </ul>
-                                <p>The promos during these periods include bonus boosts, free credit bundles, and free spins. </p>
+                                <p>The promos during these periods include bonus boosts, free credit bundles, and free spins.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc6">How to Claim Your Bonus the Right Way</h3>
                                 <p>Getting your bonus is simple. No promo codes or messy forms.</p>
                                 <ol>
-                                    <li><a href="<?php echo $site_base_url;?>"><b>Register your Mega888 account</b></a> through slotmega888.app</li>
+                                    <li><a href="https://slotmega888.app/"><b><u>Register your Mega888 account</u></b></a> through slotmega888.app</li>
                                     <li>Deposit RM30 or more</li>
                                     <li>Send your Game ID + receipt to us on WhatsApp or Telegram</li>
                                     <li>We credit your bonus once the top-up has been confirmed</li>
                                 </ol>
                                 <p>All done in a few minutes, with our local support.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc7">⚠️ Bonus Rules You Need to Know ⚠️</h3>
+                                <h3 id="toc7">⚠️ Bonus Rules You Should Know ⚠️</h3>
                                 <p>We want everyone to play fair, so our bonus system comes with basic rules:</p>
                                 <ul>
                                     <li>Each player/device will get a bonus</li>
@@ -333,16 +333,16 @@ include '../inc/functions.php';
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p>We’ve developed this system to reward our players.</p>
+                                <p>We have designed this system as an incentive for our players.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc9">Two Bonuses Running at The Same Time</h3>
-                                <p>No. Bonuses are one at a time per account. You can claim another once you’ve used one. But not all at once.</p>
+                                <h3 id="toc9">Am I able to Run Two Bonus at the Same Time</h3>
+                                <p>No. Bonuses paid out are per account only. To gain another one you must use one rather than all at once.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc10">When You Miss a Bonus Deadline</h3>
-                                <p>Missed a promo? <a href="<?php echo $site_base_url;?>contact/"><b>Contact us</b></a>. As long as it's still within the event period and your deposit has been verified, we may still honor it.</p>
+                                <h3 id="toc10">What to Do when You Miss a Bonus Deadline</h3>
+                                <p>Your promo is not found? <a href="https://slotmega888.app/contact/"><b><u>Contact us</u></b></a>. In cases whereby we are still in the campaign period and your deposit has been confirmed, then we might still adhere to it.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc11">Eligibility for VIP</h3>
-                                <p>Our team will contact you privately once you’re eligible for VIP. You may also ask us directly if you’ve been active.</p>
+                                <h3 id="toc11">Eligibility for VIP Perks</h3>
+                                <p>In case you are able to be our VIP, our team will contact you in private. You can also simply make direct inquiry as to whether you have been active.</p>
                             </div>
                         </div>
                     </div>
@@ -358,48 +358,48 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            How do I claim my Mega888 welcome bonus?
+                                            How to get Mega888 welcome bonus?
                                         </button>
                                         </h3>
                                         <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Create an account with us, deposit RM30 or more, and WhatsApp your game ID and receipt. We’ll manually credit it.
+                                            Open an account with us, deposit 30MYR and higher, and WhatsApp your login ID and receipt. We shall manually credit it.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            What is the requirement for turnover?
+                                            How much is the turnover required?
                                         </button>
                                         </h3>
                                         <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            You must play the bonus amount 5 times (5x turnover) before you can withdraw.
+                                            To meet the requirement, you should play up to 5 times turnover before you can withdraw.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Can I use a bonus if I already have an account?
+                                            Is it possible to get welcome bonus with an existing account?
                                         </button>
                                         </h3>
                                         <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. Welcome bonuses are available for first-time users only.
+                                            No. Welcome bonuses are provided to people that have never tried the platform.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            How fast will I receive my bonus?
+                                            What is the turnaround time of my bonus?
                                         </button>
                                         </h3>
                                         <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Usually within a few minutes once your deposit and details being confirmed.
+                                            Generally, only a couple of minutes after the confirmation of your deposit and details.
                                         </div>
                                         </div>
                                     </div>
@@ -411,127 +411,127 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No code required. We handle everything manually for verified players.
+                                            No code needed for access. Verified players get handled manually by us.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            What is the highest welcome bonus?
+                                            Which one has the maximum welcome bonus?
                                         </button>
                                         </h3>
                                         <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            RM150, based on 50% of your first deposit.
+                                            RM150, which is half of the first deposit that you will make.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            Do I need to install anything special to get free credits?
+                                            Do I have to do anything special to receive free credits?
                                         </button>
                                         </h3>
                                         <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. All bonuses are added directly to your Mega888 account. No extra app or survey is required.
+                                            No. It’s all bonuses are deducted straight into your Mega888 account. No additional application or survey is needed.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Can I receive extra bonuses after the first one?
+                                            Will I be given additional bonuses following the first one?
                                         </button>
                                         </h3>
                                         <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. We offer welcome bonuses, deposit bonuses, VIP rewards, and seasonal promos.
+                                            Yes. Additional bonus consists of welcome bonus, deposit bonus, VIP bonus, and seasonal promotions.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Are bonuses given out on a daily basis?
+                                            Do they give out bonuses on a daily basis?
                                         </button>
                                         </h3>
                                         <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Some are always available, but others are tied to events or VIP levels.
+                                            Others are open all the time, whereas some are connected with events or VIP status.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            What if my bonus doesn’t appear?
+                                            What happens when I will not get a bonus in my account?
                                         </button>
                                         </h3>
                                         <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Send us your game ID and receipt. We’ll fix it immediately if you are entitled.
+                                            You can send a copy of the game ID and a copy of the receipt. We can get it repaired right away when you are entitled.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            What is the meaning of “5x turnover” in Mega888?
+                                            What does 5x turnover in Mega888 means?
                                         </button>
                                         </h3>
                                         <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            It means you need to bet 5 times the bonus amount before you can withdraw.
+                                            It implies that you have to wager 5 times the bonus sum to place the withdrawal.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Is it possible to use two bonuses at the same time?
+                                            Can two bonuses be used at the same time?
                                         </button>
                                         </h3>
                                         <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. Only one active bonus per user at a time.
+                                            No. One user can only be entitled to one bonus.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            Do I lose the bonus if I don’t use it?
+                                            What happens when I fail to use the bonus?
                                         </button>
                                         </h3>
                                         <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Yes. Bonuses may expire if you didn’t use them within the promo period.
+                                            Yes. Bonuses will have shelf life and they might expire in case you do not utilize it during the promo period.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                            Can I transfer my bonus to another account?
+                                            Am I allowed to transfer my bonus to another account?
                                         </button>
                                         </h3>
                                         <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            No. Bonuses are linked to your account only and cannot be shared.
+                                            No. Your bonuses can be used only in your account.
                                         </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                            How will I know if a bonus offer isn’t fake?
+                                            What will make me realize if a bonus offer isn’t a hoax/fake?
                                         </button>
                                         </h3>
                                         <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                        Only trust offers listed on slotmega888.app or announced via our official Telegram. Don’t accept fake “free RM10” offers from random agents.
+                                            Only trust offers listed on slotmega888.app or announced via our official Telegram channel. Do not entertain fraudulent free RM 10 offers by some unidentified agents.
                                         </div>
                                         </div>
                                     </div>
