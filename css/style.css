@@ -188,7 +188,7 @@ a, button, .btn, a.button, button.btn {
     width: 28px;
     height: 28px;
 }
-.btn-with-icon.btn-whatsapp img, .btn-with-icon.btn-whatsapp svg {
+.btn-with-icon.btn-whatsapp img, .btn-with-icon.btn-whatsapp svg, .btn-with-icon.btn-playnow svg{
     width: 24px;
     height: 24px;
 }
@@ -198,7 +198,10 @@ a, button, .btn, a.button, button.btn {
 .btn.btn-whatsapp {
     background: #25D366;
 }
-.enquiry-sources .btn-wrapper .btn {
+.btn.btn-playnow{
+    background: linear-gradient(0deg, #ff5627, #ffab18);
+}
+.enquiry-sources .btn-wrapper .btn, .enquiry-sources .d-grid .btn {
     padding: 1rem 1.5rem;
 }
 .platform {
