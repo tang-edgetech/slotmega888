@@ -188,9 +188,13 @@ a, button, .btn, a.button, button.btn {
     width: 28px;
     height: 28px;
 }
-.btn-with-icon.btn-whatsapp img, .btn-with-icon.btn-whatsapp svg, .btn-with-icon.btn-playnow svg{
+.btn-with-icon.btn-whatsapp img, .btn-with-icon.btn-whatsapp svg {
     width: 24px;
     height: 24px;
+}
+.btn-with-icon.btn-playnow svg{
+    width: 28px;
+    height: 28px;
 }
 .btn.btn-telegram {
     background: #24A1DE;

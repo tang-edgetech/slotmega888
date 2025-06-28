@@ -14,7 +14,7 @@
                     <a href="#" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span><b>WhatsApp</b></span></a>
                 </div>
                 <div class="d-grid col-12 col-md-10 mx-auto mt-4">
-                    <a href="https://eumyaff1.com/register/referer/f9466421bb" class="btn btn-rounded btn-with-icon btn-playnow text-white"><?php echo $icon_playnow_white;?><span><b>Play Online Now</b></span></a>
+                    <a href="https://eumyaff1.com/register/referer/f9466421bb" class="btn btn-rounded btn-with-icon btn-playnow text-white"><?php echo $icon_playnow;?><span><b>Play Online Now</b></span></a>
                 </div>
             </div>
         </div>
