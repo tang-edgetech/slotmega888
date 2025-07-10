@@ -44,7 +44,7 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Register, Login & Deposit",
-                "item": "https://slotmega888.app/register-login-deposit"
+                "item": "https://slotmega888.app/mega888-register-login-deposit/"
                 }
             ]
             }

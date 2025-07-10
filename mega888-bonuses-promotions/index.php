@@ -55,7 +55,7 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Bonuses & Promotions",
-                "item": "https://slotmega888.app/bonuses-promotions"
+                "item": "https://slotmega888.app/mega888-bonuses-promotions/"
                 }
             ]
             }

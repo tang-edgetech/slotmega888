@@ -51,7 +51,7 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Game Guides & Strategies",
-                "item": "https://slotmega888.app/game-guides-strategies"
+                "item": "https://slotmega888.app/mega888-strategies-guides/"
                 }
             ]
             }
