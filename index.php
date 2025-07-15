@@ -351,7 +351,142 @@ include 'inc/functions.php';
             ]
         }
         </script>
-
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://slotmega888.app/",
+                    "name": "Mega888"
+                }
+                }
+            ]
+            }
+            </script>
+            <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "Can I download Mega888 on my smartphone, whether it is Android or iOS?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, they have both versions where each one of them has certain steps to follow for each operating system."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Can the game be played on the Android phone or iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. The usual way for Android users is to download the APK, however, iOS users need to install via a trusted profile."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is Mega888 a platform that provides secure gambling with real money?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "That is possible as long as you download from trusted sources and use safe payment methods."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is there a chance to be banned because of using a modded APK?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Definitely, you may experience bans and lose all your information if you install hacked versions."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What should I do the moment I lose my account?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Contact us directly."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What can I do to prevent Mega888 fake apps?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Apps like us are only the trusted sources on where you should download the game apk. Unlimited credit given to you by other people most probably is a scam."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What is the way to get free credit or bonuses?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We provide weekly welcome bonuses, as well as deposit bonuses. It is common to have a first-time deposit bonus given to new players."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What can I do in case I find out that my Mega888 app has stopped updating?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Uninstall what you have now and then install from slotmega888.app for the most updated version."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is it possible to use one account on several devices?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. However, do not get logged in on two devices simultaneously."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Is it possible to change the agents?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Of course, you must get another new account with the new agent. Choice is yours."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What other languages are there other than English?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Mega888 has support in terms of Malay, English, and Chinese according to your choice."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Does it record my playing history or my betting history?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, it will be more secure and transparent, but this data remains confidential and is encrypted on our side."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What is the need of re-logging in after app re-updates?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It is usual routine that security precautions should be made against session hijacking following the changes in version."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What can I do in case I suspect my account was accessed?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Demand passwords change as soon as possible and call support to check the latest activity."
+                }
+                }
+            ]
+            }
+        </script>
     </head>
     <body>
         <?php include 'inc/navbar.php';?>
