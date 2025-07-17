@@ -599,7 +599,7 @@ include 'inc/functions.php';
                                 <h3 id="toc3">Reliable Mega888 APK Download for Android Users</h3>
                                 <p>Since it isn’t in the Google Play, <a href="<?php echo $site_base_url;?>mega888-apk-download/"><b><u>Android</u></b></a> users must install it using an APK file. Here's how:</p>
                                 <ul>
-                                    <li>Get the latest version on the official site of <a href="<?php echo $site_base_url;?>mega888-apk-download/"><b><u>mega888 apk</u></b></a></li>
+                                    <li>Get the latest version on the official site of <a href="<?php echo $site_base_url;?>"><b><u>mega888 apk</u></b></a></li>
                                     <li>Turn on the option “<b>Unknown Sources</b>” in your device settings</li>
                                     <li>Open the downloaded APK folder and install it accordingly</li>
                                 </ul>
