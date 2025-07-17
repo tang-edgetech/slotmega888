@@ -229,7 +229,7 @@ include '../inc/functions.php';
                                 <p>Other than simply playing at <b>slotmega888.app</b>, you earn something by playing Mega888. We are an authorized Mega888 kiosk representative in Malaysia, and we offer legit bonuses, free credits and VIP bonus, which require manual verification, instant cashout and player friendly. No spam, no gimmicks and no agents who take off with your dollars.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Welcome Bonus - Extra Credit to New players during their First Deposit</h2>
-                                <p>In case you are a first-time player using slotmega888.app, we will provide you with the extra bonus upon your first top-up. You’re qualified to <a href="<?php echo $site_base_url;?>/"><b><u>get a 50% bonus up to RM150</u></b></a> when you deposit at least RM30 or more. The only condition is that you must have made a <b>5x turnover</b> before requesting withdrawal.</p>
+                                <p>In case you are a first-time player using slotmega888.app, we will provide you with the extra bonus upon your first top-up. You’re qualified to <a href="<?php echo $site_base_url;?>"><b><u>get a 50% bonus up to RM150</u></b></a> when you deposit at least RM30 or more. The only condition is that you must have made a <b>5x turnover</b> before requesting withdrawal.</p>
                                 <p><b>Bonus Overview:</b></p>
                                 <ul>
                                     <li><b>Type of Bonus: </b>First Time Deposit Bonus</li>
@@ -274,7 +274,7 @@ include '../inc/functions.php';
                                 <h3 id="toc6">How to Claim Your Bonus the Right Way</h3>
                                 <p>Getting your bonus is simple. No promo codes or messy forms.</p>
                                 <ol>
-                                    <li><a href="<?php echo $site_base_url;?>/"><b><u>Register your Mega888 account</u></b></a> through slotmega888.app</li>
+                                    <li><a href="<?php echo $site_base_url;?>"><b><u>Register your Mega888 account</u></b></a> through slotmega888.app</li>
                                     <li>Deposit RM30 or more</li>
                                     <li>Send your Game ID + receipt to us on WhatsApp or Telegram</li>
                                     <li>We credit your bonus once the top-up has been confirmed</li>
@@ -339,7 +339,7 @@ include '../inc/functions.php';
                                 <p>No. Bonuses paid out are per account only. To gain another one you must use one rather than all at once.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">What to Do when You Miss a Bonus Deadline</h3>
-                                <p>Your promo is not found? <a href="<?php echo $site_base_url;?>/contact/"><b><u>Contact us</u></b></a>. In cases whereby we are still in the campaign period and your deposit has been confirmed, then we might still adhere to it.</p>
+                                <p>Your promo is not found? <a href="<?php echo $site_base_url;?>contact/"><b><u>Contact us</u></b></a>. In cases whereby we are still in the campaign period and your deposit has been confirmed, then we might still adhere to it.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc11">Eligibility for VIP Perks</h3>
                                 <p>In case you are able to be our VIP, our team will contact you in private. You can also simply make direct inquiry as to whether you have been active.</p>

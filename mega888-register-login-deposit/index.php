@@ -217,7 +217,7 @@ include '../inc/functions.php';
                                 <p>Are you willing to begin playing and need a trustworthy site to register, log in, and deposit the money? You are at the right place!</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Registering an Account with us (Kiosk)</h2>
-                                <p>It is not possible to sign up straight into an account within the app. We apply the kiosk system, that is why you won’t be able to create an account yourself unless it is done by one of the <a href="<?php echo $site_base_url;?>/"><b><u>official mega888 agents</u></b></a> such as us. This makes the game safer and there are no bots or scam accounts.</p>
+                                <p>It is not possible to sign up straight into an account within the app. We apply the kiosk system, that is why you won’t be able to create an account yourself unless it is done by one of the <a href="<?php echo $site_base_url;?>"><b><u>official mega888 agents</u></b></a> such as us. This makes the game safer and there are no bots or scam accounts.</p>
                                 <p><b>Step by step instructions on creating an account:</b></p>
                                 <ol>
                                     <li>Call us via our WhatsApp or Telegram channel</li>
