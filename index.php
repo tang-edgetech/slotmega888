@@ -597,9 +597,9 @@ include 'inc/functions.php';
                                 <p><a href="<?php echo $site_base_url;?>"><strong><u>Mega888</u></strong></a> is considered one of the most reputable and common slot apps in Malaysia. This platform is famous for providing seamless gaming, a wide choice of games and quick payment. It has a broad collection, including Panther Moon, various fish shooting games and live dealer options. The games within the app are smoother than those in 918Kiss and Xe88 and the rewards are given out more frequently.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc3">Reliable Mega888 APK Download for Android Users</h3>
-                                <p>Since it isn’t in the Google Play, <a href="<?php echo $site_base_url;?>"><b><u>Android</u></b></a> users must install it using an APK file. Here's how:</p>
+                                <p>Since it isn’t in the Google Play, <a href="<?php echo $site_base_url;?>mega888-apk-download/”"><b><u>Android</u></b></a> users must install it using an APK file. Here's how:</p>
                                 <ul>
-                                    <li>Get the latest version on the official site of <a href="<?php echo $site_base_url;?>mega888-apk-download/"><b><u>Mega888 apk</u></b></a></li>
+                                    <li>Get the latest version on the official site of <a href="<?php echo $site_base_url;?>mega888-apk-download/"><b><u>mega888 apk</u></b></a></li>
                                     <li>Turn on the option “<b>Unknown Sources</b>” in your device settings</li>
                                     <li>Open the downloaded APK folder and install it accordingly</li>
                                 </ul>
