@@ -32,7 +32,7 @@ include 'inc/functions.php';
         <meta property="og:title" content="Mega888 APK – Download & Start Winning Now">
         <meta property="og:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
         <meta property="og:site_name" content="slotmega888.app">
-        <meta property="og:image" content="images/mega888-logo.webp">
+        <meta property="og:image" content="images/logo/mega888-logo.webp">
         <meta property="article:tag" content="mega888">
         <meta property="article:tag" content="mega888 apk download">
         <meta property="article:tag" content="official mega888 apk">
@@ -50,7 +50,7 @@ include 'inc/functions.php';
         <meta name="twitter:site" content="@slotmega888app">
         <meta name="twitter:title" content="Mega888 APK – Download & Start Winning Now">
         <meta name="twitter:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
-        <meta name="twitter:image" content="images/mega888-logo.webp">
+        <meta name="twitter:image" content="images/logo/mega888-logo.webp">
 
         <!-- Favicon -->
         <link rel="apple-touch-icon" href="images/logo/Icon-180.webp">
