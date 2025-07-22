@@ -15,26 +15,17 @@
                     <div class="footer-column py-3 pt-md-4">
                         <h4 class="text-uppercase text-white mb-4">Follow Us</h4>
                         <ul class="nav social-media justify-content-center d-flex">
-                            <li class="nav-item facebook">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Facebook</span></a>
-                            </li>
-                            <li class="nav-item instagram">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Instagram</span></a>
-                            </li>
-                            <li class="nav-item linkedin">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Linkedin</span></a>
-                            </li>
                             <li class="nav-item twitter">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Twitter</span></a>
+                                <a href="https://x.com/slotmega888app" target="_blank" class="nav-link"><span class="d-none">Twitter</span></a>
                             </li>
-                            <li class="nav-item telegram">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Telegram</span></a>
+                            <li class="nav-item youtube">
+                                <a href="https://www.youtube.com/@slotmega888app" target="_blank" class="nav-link"><span class="d-none">Facebook</span></a>
                             </li>
                             <li class="nav-item pinterest">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Pinterest</span></a>
+                                <a href="https://www.pinterest.com/slotmega888app/" target="_blank" class="nav-link"><span class="d-none">Pinterest</span></a>
                             </li>
                             <li class="nav-item email">
-                                <a href="javascript:void(0);" class="nav-link"><span class="d-none">Email</span></a>
+                                <a href="mailto:support@slotmega888.app" target="_blank" class="nav-link"><span class="d-none">Email</span></a>
                             </li>
                         </ul>
                     </div>
@@ -81,7 +72,7 @@
         <div class="floating-list-inner">
             <div class="floating-item back-to-top" id="back-to-top"><span class="d-none">Back To Top</span><?php echo $icon_backtotop;?></div>
             <div class="floating-item whatsapp">
-                <a href="javascript:void(0);" target="_self"><span class="d-none">WhatsApp</span><?php echo $icon_whatsapp;?></a>
+                <a href="https://t.ly/NewDT-1" target="_target"><span class="d-none">WhatsApp</span><?php echo $icon_whatsapp;?></a>
             </div>
         </div>
     </div>

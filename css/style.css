@@ -511,7 +511,10 @@ a, button, .btn, a.button, button.btn {
     background-image: url(../images/social-media/icon-telegram.png);
 }
 .share-button.twitter::before {
-    background-image: url(../images/social-media/icon-twitter.png);
+    background-image: url(../images/social-media/icon-twitter-x.png);
+}
+.share-button.youtube::before {
+    background-image: url(../images/social-media/icon-youtube.png);
 }
 .share-button.line::before {
     background-image: url(../images/social-media/icon-line.png);
@@ -589,13 +592,16 @@ a, button, .btn, a.button, button.btn {
     background-image: url(../images/social-media/icon-line.png);
 }
 .footer .social-media .nav-item.twitter .nav-link::before {
-    background-image: url(../images/social-media/icon-twitter.png);
+    background-image: url(../images/social-media/icon-twitter-x.png);
 }
 .footer .social-media .nav-item.pinterest .nav-link::before {
     background-image: url(../images/social-media/icon-pinterest.png);
 }
 .footer .social-media .nav-item.email .nav-link::before {
     background-image: url(../images/social-media/icon-email.png);
+}
+.footer .social-media .nav-item.youtube .nav-link::before {
+    background-image: url(../images/social-media/icon-youtube.png);
 }
 .copyright {
     padding: 20px 0;

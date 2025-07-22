@@ -8,26 +8,63 @@ include 'inc/functions.php';
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="title" content="Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888">
-        <meta name="description" content="Download the trusted Mega888 APK for Android, iOS, and PC. Fast registration, secure gameplay, real-time bonuses and promotions, and 24/7 support.">
-        <meta name="keywords" content="Mega888, Mega888 apk download, official mega888 apk, Mega888 download apk, Mega888 original download ios, Mega888 download link, Mega888 download ios, Mega888 download android, apk mega888 download, mega 88 download, Mega888 download 2025, Mega888 latest updated download">
-        <meta property="og:locale" content="en">
-        <meta property="og:type" content="website">
+        <link rel="canonical" href="https://www.dohistory.info/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="mega888apk">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <meta name="theme-color" content="#a6c1ee">
+        <title>Mega888 APK – Download & Start Winning Now</title>
+        <meta name="title" content="Mega888 APK – Download & Start Winning Now">
+        <meta name="description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
+        <meta name="keywords" content="mega888, mega888 apk download, official mega888 apk, mega888 download apk, mega888 original download ios, mega888 download link, mega888 download ios, mega888 download android, apk mega888 download, mega 88 download, mega888 download 2025">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Mega888 APK – Download & Start Winning Now">
+        <meta itemprop="description" content="Download mega888 Android APK on our official site. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
+        <meta itemprop="image" content="images/logo/mega888-logo.webp">
+        
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="en-MY">
+        <meta property="og:type" content="article">
         <meta property="og:url" content="https://slotmega888.app/">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888">
-        <meta property="og:description" content="Download the trusted Mega888 APK for Android, iOS, and PC. Fast registration, secure gameplay, real-time bonuses and promotions, and 24/7 support.">
-        <meta property="adscription" content="Download the trusted Mega888 APK for Android, iOS, and PC. Fast registration, secure gameplay, real-time bonuses and promotions, and 24/7 support.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888">
-        <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
-        <meta name="twitter:url" content="https://slotmega888.app/">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Official APK Download for All | Latest Updated Mega888">
-        <meta name="twitter:description" content="Download the trusted Mega888 APK for Android, iOS, and PC. Fast registration, secure gameplay, real-time bonuses and promotions, and 24/7 support.">
-        <link rel="canonical" href="https://slotmega888.app/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/">
+        <meta property="og:title" content="Mega888 APK – Download & Start Winning Now">
+        <meta property="og:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
+        <meta property="og:site_name" content="slotmega888.app">
+        <meta property="og:image" content="images/mega888-logo.webp">
+        <meta property="article:tag" content="mega888">
+        <meta property="article:tag" content="mega888 apk download">
+        <meta property="article:tag" content="official mega888 apk">
+        <meta property="article:tag" content="mega888 download apk">
+        <meta property="article:tag" content="mega888 original download ios">
+        <meta property="article:tag" content="mega888 download link">
+        <meta property="article:tag" content="mega888 download ios">
+        <meta property="article:tag" content="mega888 download android">
+        <meta property="article:tag" content="apk mega888 download">
+        <meta property="article:tag" content="mega 88 download">
+        <meta property="article:tag" content="mega888 download 2025">
+        
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@slotmega888app">
+        <meta name="twitter:title" content="Mega888 APK – Download & Start Winning Now">
+        <meta name="twitter:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
+        <meta name="twitter:image" content="images/mega888-logo.webp">
+
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" href="images/logo/Icon-180.webp">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/logo/Icon-16.webp">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/logo/Icon-32.webp">
+        <link rel="icon" type="image/png" sizes="48x48" href="images/logo/Icon-48.webp">
+        <link rel="icon" type="image/png" sizes="64x64" href="images/logo/Icon-64.webp">
+        <link rel="icon" type="image/png" sizes="128x128" href="images/logo/Icon-128.webp">
+        <link rel="shortcut icon" href="images/logo/Icon-32.webp">
+
+
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
+        
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -37,9 +74,9 @@ include 'inc/functions.php';
             "applicationCategory": "GameApplication",
             "applicationSubCategory": "Casino",
             "downloadUrl": [
-                "https://slotmega888.app"
+                "https://slotmega888.app/"
             ],
-            "installUrl": "https://slotmega888.app",
+            "installUrl": "https://slotmega888.app/",
             "operatingSystemRequirements": [
                 "Android 5.0 and up",
                 "iOS 11 and up"
@@ -54,7 +91,7 @@ include 'inc/functions.php';
                 "price": "0",
                 "priceCurrency": "MYR"
             },
-            "description": "Mega888 is a top-rated slot casino app available for Android and iOS, popular in Malaysia for its smooth gameplay, wide range of games, and fast, secure transactions.",
+            "description": "Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.",
             "sameAs": [
                     "https://x.com/slotmega888app",
                     "https://www.youtube.com/@slotmega888app",
@@ -361,7 +398,7 @@ include 'inc/functions.php';
                 "position": 1,
                 "item": {
                     "@id": "https://slotmega888.app/",
-                    "name": "Mega888"
+                    "name": "Home"
                 }
                 }
             ]
@@ -581,7 +618,7 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1 class="text-center heading-block" id="toc1">Best Real Slot Mega888 App Download for Android & iOS</h1>
+                                <h1 class="text-center heading-block" id="toc1">Mega888 APK – Download & Start Winning Now</h1>
                                 <p>Mega888 is an excellent choice for Malaysians looking for a slot game app, because it is dependable and can be played on mobile devices. Both Android users and iPhone users will benefit from this guide, as it covers downloading the app, installing it and starting play. It is easy to set up your account, find detailed instructions for safeguarding your apps, have a smooth registration process and deposit money. Real-time bonuses, helpful tips and total support for responsible gaming and privacy are also offered by us.</p>
                                 <p>&nbsp;</p>
                                 <p>Key Takeaways</p>
