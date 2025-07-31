@@ -3,9 +3,9 @@
         <div class="col-12 px-2 px-md-3 py-4 footer-logo">
             <a href="/" class="navbar-brand">
                 <picture>
-                    <source srcset="./images/mega888-logo.webp" type="image/webp">
-                    <source srcset="./images/mega888-logo.png" type="image/png">
-                    <img src="images/mega888-logo.png" width="80px" height="80px" class="img-fit" alt="Mega888 Logo"/>
+                    <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.webp" type="image/webp">
+                    <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.png" type="image/png">
+                    <img src="https://88mega88slot.b-cdn.net/images/mega888-logo.png" width="80px" height="80px" class="img-fit" alt="Mega888 Logo"/>
                 </picture>
             </a>
         </div>

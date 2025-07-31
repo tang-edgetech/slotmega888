@@ -20,5 +20,5 @@ if( !empty($page_slug) && $page_slug == 'home' ) {
     echo '<link rel="stylesheet" type="text/css" href="./css/slotmachine.css"/>';
 }
 ?>
-<link rel="stylesheet" type="text/css" href="./css/style.css<?php echo '?v='.$version;?>"/>
-<link rel="stylesheet" type="text/css" href="./css/media.css<?php echo '?v='.$version;?>"/>
+<link rel="stylesheet" type="text/css" href="https://88mega88slot.b-cdn.net/css/style.css<?php echo '?v='.$version;?>"/>
+<link rel="stylesheet" type="text/css" href="https://88mega88slot.b-cdn.net/css/media.css<?php echo '?v='.$version;?>"/>

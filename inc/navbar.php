@@ -4,8 +4,8 @@
             <a href="/" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <picture>
-                    <source srcset="./images/mega888-logo.webp" type="image/webp">
-                    <source srcset="./images/mega888-logo.png" type="image/png">
+                    <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.webp" type="image/webp">
+                    <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.png" type="image/png">
                     <img src="https://88mega88slot.b-cdn.net/images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
                 </picture>
             </a>
