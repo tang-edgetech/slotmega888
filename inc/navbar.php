@@ -6,7 +6,7 @@
                 <picture>
                     <source srcset="./images/mega888-logo.webp" type="image/webp">
                     <source srcset="./images/mega888-logo.png" type="image/png">
-                    <img src="<?php echo $site_base_url;?>images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
+                    <img src="https://88mega88slot.b-cdn.net/images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
                 </picture>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
