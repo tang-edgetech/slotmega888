@@ -16,22 +16,13 @@ include '../inc/functions.php';
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="app" id="app">
-            <section class="">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
-        <?php
-        $posts = json_decode(file_get_contents($site_base_url.'/data/blogs.json'), true);
-        echo "<h1>Blog Listing</h1><ul>";
-        foreach ($posts as $post) {
-            echo "<li><a href='".$site_base_url."blog/" . urlencode($post['slug']) . "'>" . htmlspecialchars($post['title']) . "</a></li>";
-        }
-        echo "</ul>";
-        ?>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <?php 
+            include '../inc/quick-enquiry.php';
+            
+            $posts = json_decode(file_get_contents($site_base_url.'/data/blogs.json'), true);
+            echo "<h1 class='px-4 px-md-0 mb-4'>Blog Listing</h1>";
+            include '../inc/template-post-grid.php';
+            ?>
         </main>
         <?php include '../inc/footer.php';?>
         <?php include '../inc/popup-share-this.php';?>

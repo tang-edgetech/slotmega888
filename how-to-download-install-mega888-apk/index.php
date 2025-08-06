@@ -1,41 +1,13 @@
 <?php
+$blog_index = '01';
 include '../inc/functions.php';
-$uri = $_SERVER['REQUEST_URI'];
+$post = json_decode(file_get_contents($site_base_url . 'data/blog-'.$blog_index.'.json'), true);
+$page_title = "Blog - ".$post['title'];
+$page_slug = $post['slug'];
 
-$uri = strtok($uri, '?');
-
-if( isLocalhost() ) {
-    $base = '/slotmega888/blog/';
-}
-else {
-    $base = '/blog';
-}
-$slug = '';
-
-if (strpos($uri, $base) === 0) {
-    $slug = trim(substr($uri, strlen($base)), '/');
-}
-
-$posts = json_decode(file_get_contents($site_base_url . 'data/blogs.json'), true);
-$found = null;
-foreach ($posts as $post) {
-    if ($post['slug'] === $slug) {
-        $found = $post;
-        break;
-    }
-}
-
-if ($found) {
-    $page_name = "Blog - ".$found['title'];
-    $page_slug = $found['slug'];
-}
-else {
-    $page_name = "404 - Blog Not Found";
-    $page_slug = '404';
-}
 $page_thumbnail = "https://example.com/image.jpg";
-$meta_tags = $found['meta_tags'];
-$markup_schema = $found['schema'];
+$meta_tags = $post['meta_tags'];
+$markup_schema = $post['schema'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -68,11 +40,11 @@ $markup_schema = $found['schema'];
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0 px-md-0">
                         <?php
-                        if ($found) {
-                            echo "<h1 class='px-4 px-md-0 mb-2'>" . $found['title'] . "</h1>";
-                            echo "<p class='mb-4'>Published on: <em>" . $found['date'] . "</em></p>";
+                        if ($post) {
+                            echo "<h1 class='px-4 px-md-0 mb-2'>" . $post['title'] . "</h1>";
+                            echo "<p class='mb-4'>Published on: <em>" . $post['date'] . "</em></p>";
                             echo "<div class='text-editor'>";
-                            echo convert_site_base_url($found['content']);
+                            echo convert_site_base_url($post['content']);
                             echo "</div>";
                         }
                         else {

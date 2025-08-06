@@ -584,6 +584,9 @@ include 'inc/functions.php';
                 </div>
             </section>
 
+            
+            <?php include_once 'inc/template-post-grid.php';?>
+
             <?php include 'inc/add-to-screen.php';?>
 
             <section class="availabe" id="tablecontent">

@@ -88,10 +88,18 @@
     #masthead .nav-link, #masthead .dropdown-item {
         white-space: break-spaces;
     }
+    .post-grid .swiper-slide {
+        width: 280px;
+    }
 }
 @media (min-width: 768px) {
     .platform, .platform-inner {
         height: 100%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .post-grid .swiper-slide {
+        width: 300px;
     }
 }
 @media (max-width: 1199px) {

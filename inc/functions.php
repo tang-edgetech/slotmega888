@@ -6,9 +6,24 @@ function isLocalhost() {
 
 if ( isLocalhost() ) {
     $site_base_url = 'http://localhost/slotmega888/';
+    $cdn_asset_url = $site_base_url;
 }
 else {
     $site_base_url = 'https://slotmega888.app/';
+    $cdn_asset_url = 'https://88mega88slot.b-cdn.net/';
+}
+
+function loadPageContent($page) {
+    global $site_base_url;
+    $path = $site_base_url . "/data/{$page}.json";
+    if (file_exists($path)) {
+        return json_decode(file_get_contents($path), true);
+    }
+}
+
+function convert_site_base_url($data) {
+    global $site_base_url;
+    return str_replace('{{site_base_url}}', $site_base_url, $data);
 }
 
 $site_title = 'Slot Mega 888';
@@ -75,5 +90,5 @@ $rtp_games = array(
     array("title" => "God Of Wealth", "rate" => "95.00", "theme" => "Chinese Mythology", "features" => "Divine blessings theme, bonus features, free spins"),
     array("title" => "Fruit Party", "rate" => "94.77", "theme" => "Fruit-Themed", "features" => "Vibrant fruit symbols, bonus features, free spins")
 );
-$version = '1.0.'.time();
+$version = '1.1.'.time();
 ?>

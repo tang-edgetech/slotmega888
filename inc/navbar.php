@@ -4,9 +4,9 @@
             <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <picture>
-                    <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.webp" type="image/webp">
-                    <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.png" type="image/png">
-                    <img src="https://88mega88slot.b-cdn.net/images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
+                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.webp" type="image/webp">
+                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.png" type="image/png">
+                    <img src="<?php echo $cdn_asset_url;?>images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
                 </picture>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,16 +40,16 @@
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a href="mega888-strategies-guides" class="nav-link">Mega888 Strategies & Guides</a>
+                            <a href="<?php echo $site_base_url;?>mega888-strategies-guides" class="nav-link">Mega888 Strategies & Guides</a>
                         </li>
                         <li class="nav-item">
-                            <a href="mega888-rtp" class="nav-link">Mega888 RTP</a>
+                            <a href="<?php echo $site_base_url;?>mega888-rtp" class="nav-link">Mega888 RTP</a>
                         </li>
                         <li class="nav-item">
-                            <a href="about-mega888" class="nav-link">About Mega888</a>
+                            <a href="<?php echo $site_base_url;?>about-mega888" class="nav-link">About Mega888</a>
                         </li>
                         <li class="nav-item">
-                            <a href="contact" class="nav-link">Contact</a>
+                            <a href="<?php echo $site_base_url;?>contact" class="nav-link">Contact</a>
                         </li>
                         <li class="nav-item">
                             <button type="button" class="nav-link bg-transparent share-this" id="share-this" data-bs-toggle="modal" data-bs-target="#popupShareThis" aria-label="Share this page"><span class="d-none">Share This</span><?php echo $icon_share_this;?></button>
