@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Skip real files and directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# If /blog/anything → route to post.php
+RewriteRule ^([a-zA-Z0-9\-]+)$ post.php [L]

@@ -1,11 +1,16 @@
 <?php
-$localhost = array('127,0,0,1', 'localhost', '::1');
-if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://slotmega888.app/';
+function isLocalhost() {
+    $whitelist = ['127.0.0.1', '::1', 'localhost'];
+    return in_array($_SERVER['REMOTE_ADDR'], $whitelist);
 }
-else {
+
+if ( isLocalhost() ) {
     $site_base_url = 'http://localhost/slotmega888/';
 }
+else {
+    $site_base_url = 'https://slotmega888.app/';
+}
+
 $site_title = 'Slot Mega 888';
 if( !empty($page_name) ) {
     $page_prefix = $page_name . ' | ';

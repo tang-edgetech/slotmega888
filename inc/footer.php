@@ -1,7 +1,7 @@
 <footer class="footer px-4 px-md-2 px-xl-3" id="mastfoot">
     <div class="d-flex flex-wrap flex-row w-100 justify-content-center gap-4">
         <div class="col-12 px-2 px-md-3 py-4 footer-logo">
-            <a href="/" class="navbar-brand">
+            <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <picture>
                     <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.webp" type="image/webp">
                     <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.png" type="image/png">

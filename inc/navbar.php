@@ -1,7 +1,7 @@
 <header class="masthead px-2 px-xl-3 py-3" id="masthead">
     <nav class="navbar navbar-expand-xl bg-light rounded px-3 pe-xxl-5">
         <div class="navbar-row">
-            <a href="/" class="navbar-brand">
+            <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <picture>
                     <source srcset="https://88mega88slot.b-cdn.net/images/mega888-logo.webp" type="image/webp">
