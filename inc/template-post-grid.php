@@ -1,22 +1,4 @@
 <?php
-$posts = [
-    [
-        "title" => "Mega888 APK Android Download Guide (2025) – Install & Play in Minutes",
-        "slug" => "how-to-download-install-mega888-apk",
-        "thumbnail" => "",
-    ],
-    [
-        "title" => "Why Mega888 APK is the Top Choice for Slot Players in Malaysia",
-        "slug" => "why-mega888-apk-top-choice-malaysia",
-        "thumbnail" => "",
-    ],
-    [
-        "title" => "Mega888 Sign Up Tutorial – How to Create Your Account Securely",
-        "slug" => "mega888-sign-up-tutorial",
-        "thumbnail" => "",
-    ],
-];
-
 if( $posts ) {
 ?>
 <section class="">
@@ -32,7 +14,7 @@ if( $posts ) {
                             echo "<div class='post-thumbnail mb-3'>";
                                 echo "<a href='".$site_base_url . $post['slug'] . "'>";
                                 if( $post['thumbnail'] ) {
-                                    echo "<img src='".$post['thumbnail']."'/>";
+                                    echo "<img src='".$site_base_url."images/".$post['thumbnail']."'/>";
                                 }
                                 echo "</a>";
                             echo "</div>";
