@@ -10,7 +10,8 @@ if ( isLocalhost() ) {
 }
 else {
     $site_base_url = 'https://slotmega888.app/';
-    $cdn_asset_url = 'https://88mega88slot.b-cdn.net/';
+    $cdn_asset_url = $site_base_url;
+    // $cdn_asset_url = 'https://88mega88slot.b-cdn.net/';
 }
 
 function loadPageContent($page) {
