@@ -25,8 +25,8 @@
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4 px-md-0 deviceSwiper" id="deviceSwiper">
-                <div class="d-md-flex flex-md-wrap device-wrapper">
-                    <div class="col-md-4 px-0 px-md-3 px-xl-4 mb-0 device-slide">
+                <div class="d-md-flex flex-md-wrap device-wrapper gap-4">
+                    <div class="col-md-4 px-0 px-md-3 px-xl-4 mb-4 mb-md-0 device-slide">
                         <div class="platform platform-android rounded p-4">
                             <div class="platform-inner">
                                 <div class="platform-thumbnail mb-4">
@@ -42,7 +42,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-md-4 px-0 px-md-3 px-xl-4 mb-0 device-slide">
+                    <div class="col-md-4 px-0 px-md-3 px-xl-4 mb-4 mb-md-0 device-slide">
                         <div class="platform platform-ios rounded p-4">
                             <div class="platform-inner">
                                 <div class="platform-thumbnail mb-4">

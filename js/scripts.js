@@ -7,6 +7,11 @@ $(document).ready(function() {
 			spaceBetween: 25,
 			slidesOffsetBefore: 25,
 			slidesOffsetAfter: 25,
+            loop: true,
+            autoplay: {
+                delay: 6000,
+                disableOnInteraction: false
+            },
 			breakpoints: {
 				0: {
 					slidesPerView: "auto",
