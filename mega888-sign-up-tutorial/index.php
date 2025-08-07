@@ -13,9 +13,6 @@ $faq = $post['faq'];
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Blog</title>
         <?php
         if( $meta_tags ) { 
             foreach( $meta_tags as $tag ) {
