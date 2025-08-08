@@ -4,8 +4,9 @@ if( $posts ) {
 <section class="">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-0 px-md-4">
+            <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                 <div class="post-container text-center">
+                    <h3 class="mb-3">Blogs</h3>
                 <?php
                 echo '<div class="post-grid">';
                 $total = count($posts);

@@ -88,6 +88,9 @@
     #masthead .nav-link, #masthead .dropdown-item {
         white-space: break-spaces;
     }
+    .post-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
     .post-grid .swiper-slide {
         width: 280px;
     }
