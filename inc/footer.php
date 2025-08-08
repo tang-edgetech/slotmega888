@@ -66,6 +66,20 @@
             thumbnail: <?= json_encode($page_thumbnail) ?>
         };
     </script>
+    <?php
+    if (in_array(realpath('inc/template-post-grid.php'), get_included_files())) {
+        $template_post_item = file_get_contents($site_base_url.'inc/template-post-grid-item-core.php');
+    ?>
+    <script id="mega888-script-extra">
+    window.myAppData = {
+        home_url: "<?php echo $site_base_url;?>",
+        posts: <?php echo json_encode($posts, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?>,
+        postTemplate: <?php echo json_encode($template_post_item); ?>
+    }
+    </script>
+    <?php
+    }
+    ?>
     <script id="mega888-script" type="text/javascript" src="./js/scripts.js<?php echo '?v='.$version;?>"></script>
 
     <div class="floating-list">

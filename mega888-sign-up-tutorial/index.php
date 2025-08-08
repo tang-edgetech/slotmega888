@@ -1,5 +1,5 @@
 <?php
-$blog_index = '03';
+$blog_index = '01';
 include '../inc/functions.php';
 $post = json_decode(file_get_contents($site_base_url . 'data/blog-'.$blog_index.'.json'), true);
 $page_title = "Blog - ".$post['title'];

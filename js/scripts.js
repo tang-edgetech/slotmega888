@@ -1,33 +1,6 @@
 $(document).ready(function() {
 	var lastScrollTop = 0,
 		navbar = $('#masthead');
-	if( $('.post-grid')[0] ) {
-		var $postSwiper = new Swiper('.post-grid', {
-			slidesPerView: "auto",
-			spaceBetween: 25,
-			slidesOffsetBefore: 25,
-			slidesOffsetAfter: 25,
-            loop: true,
-            autoplay: {
-                delay: 6000,
-                disableOnInteraction: false
-            },
-			breakpoints: {
-				0: {
-					slidesPerView: "auto",
-					spaceBetween: 25,
-					slidesOffsetBefore: 25,
-					slidesOffsetAfter: 25,
-				},
-				992: {
-					slidesPerView: 3,
-					spaceBetween: 30,
-					slidesOffsetBefore: 0,
-					slidesOffsetAfter: 0,
-				}
-			}
-		});
-	}
 
 	if( $('#install-btn')[0] ) {
 		document.getElementById('install-btn').addEventListener('click', function() {
@@ -145,4 +118,51 @@ $(document).ready(function() {
 
 		lastScrollTop = scrollTop;
 	}
+
+    let offset = 3;
+    const perPage = 3;
+    const home = window.myAppData.home_url;
+    const posts = window.myAppData.posts;
+    const template = window.myAppData.postTemplate;
+
+    function renderPosts(start, count) {
+        const slice = posts.slice(start, start + count);
+
+        slice.forEach(post => {
+            var $post_title = "", $post_link = "", $post_date = "", $post_thumbnail = ""; 
+            $post_title = post.title;
+            $post_link = home+"images/"+post.slug;
+            if( post.published_date ) {
+                var $date = formatted = new Date(post.published_date).toLocaleDateString("en-GB", {
+                    day: "2-digit",
+                    month: "short",
+                    year: "numeric"
+                });
+                $post_date = $date;
+            }
+            if( post.thumbnail ) {
+                $post_thumbnail = '<img src="'+home+"images/"+post.thumbnail+'" class="img-fluid w-100 h-100"/>';
+            }
+
+            let html = template
+                .replace('{{post_title}}', $post_title)
+                .replace('{{post_link}}', $post_link)
+                .replace('{{post_date}}', $post_date)
+                .replace('{{post_thumbnail}}', $post_thumbnail);
+            $(".post-container .post-grid").append(html);
+        });
+
+        // Hide button if no more posts
+        if (offset >= posts.length) {
+            console.warn('No more post');
+            $(".post-container .btn-load-more").addClass('d-none').fadeOut();
+        }
+    }
+
+    // On click
+    $(".post-container .btn-load-more").on("click", function(e) {
+        e.preventDefault();
+        renderPosts(offset, perPage);
+        offset += perPage;
+    });
 });

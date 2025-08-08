@@ -63,7 +63,7 @@ $posts = [
         "title" => "Mega888 APK Android Download Guide (2025) – Install & Play in Minutes",
         "slug" => "how-to-download-install-mega888-apk",
         "published_date" => "2025-08-04",
-        "thumbnail" => "thumbnail-blog-01.jpg",
+        "thumbnail" => "thumbnail-blog-03.jpg",
     ],
     [
         "title" => "Why Mega888 APK is the Top Choice for Slot Players in Malaysia",
@@ -75,8 +75,8 @@ $posts = [
         "title" => "Mega888 Sign Up Tutorial – How to Create Your Account Securely",
         "slug" => "mega888-sign-up-tutorial",
         "published_date" => "2025-08-02",
-        "thumbnail" => "thumbnail-blog-03.jpg",
-    ],
+        "thumbnail" => "thumbnail-blog-01.jpg",
+    ]
 ];
 $rtp_games = array(
     array("title" => "Great Blue", "rate" => "96.03", "theme" => "Underwater", "features" => "High volatility, up to 33 free spins, 15x multipliers, wilds"),

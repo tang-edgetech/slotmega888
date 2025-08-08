@@ -80,7 +80,7 @@ section {
 h1, h2, h3, h4, h5, h6, b, strong, .text-editor > p > b > a {
     font-weight: var(--fw-semi-bold);
 }
-.text-editor h1 a, .text-editor h2 a, .text-editor h3 a, .text-editor h4 a, .text-editor h5 a, .text-editor h6 a, li a, li b a, .swiper-slide h1 a, .swiper-slide h2 a, .swiper-slide h3 a, .swiper-slide h4 a, .swiper-slide h5 a, .swiper-slide h6 a {
+.text-editor h1 a, .text-editor h2 a, .text-editor h3 a, .text-editor h4 a, .text-editor h5 a, .text-editor h6 a, li a, li b a, .swiper-slide h1 a, .swiper-slide h2 a, .swiper-slide h3 a, .swiper-slide h4 a, .swiper-slide h5 a, .swiper-slide h6 a, .post-item h1 a, .post-item h2 a, .post-item h3 a, .post-item h4 a, .post-item h5 a, .post-item h6 a {
     color: inherit;
     font-size: inherit;
     line-height: inherit;
@@ -760,12 +760,21 @@ a, button, .btn, a.button, button.btn {
 ol ul, ul ul {
     list-style-type: disc;
 }
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
 .post-grid .post-thumbnail {
-    min-height: 180px;
+    height: 180px;
     display: block;
     overflow: hidden;
 }
 .post-grid .post-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
     transform-origin: center center;
     transition: all 0.35s ease;
 }

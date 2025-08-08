@@ -1,0 +1,1 @@
+<div class="post-item"><div class="post-item-inner"><div class="post-thumbnail mb-3"><a href="{{post_link}}"><div class="post-date">{{post_date}}</div>{{post_thumbnail}}</a></div><div class="post-content"><h4 class="text-start text-white"><a href="{{post_link}}">{{post_title}}</a></h4></div></div></div>
