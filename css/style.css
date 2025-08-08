@@ -125,15 +125,14 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
 p, ul, ol {
     margin-bottom: 0.5rem;
 }
-.text-editor h1 > a, .text-editor h2 > a, .text-editor h3 > a, .text-editor h4 > a, .text-editor h5 > a, .text-editor h6 > a,
-.text-editor li p a, .text-editor li p a:hover, 
-.text-editor li a, .text-editor li a:hover,
-.text-editor > p > a, .text-editor > p > a:hover, .text-editor > p > b > a, .text-editor > p > b > a:hover {
+.text-editor h1 > a, .text-editor h2 > a, .text-editor h3 > a, .text-editor h4 > a, .text-editor h5 > a, .text-editor h6 > a, .text-editor li p a, .text-editor li p a:hover, .text-editor li a, .text-editor li a:hover, .text-editor > p > a, .text-editor > p > a:hover, .text-editor > p > b > a, .text-editor > p > b > a:hover {
     color: #ffae18;
 }
-.text-editor h1 > a:hover, .text-editor h2 > a:hover, .text-editor h3 > a:hover, .text-editor h4 > a:hover, .text-editor h5 > a:hover, .text-editor h6 > a:hover,
-.text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
+.text-editor h1 > a:hover, .text-editor h2 > a:hover, .text-editor h3 > a:hover, .text-editor h4 > a:hover, .text-editor h5 > a:hover, .text-editor h6 > a:hover, .text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
     text-decoration: underline;
+}
+.text-hover-underline:hover {
+    text-decoration: underline!important;
 }
 table thead tr th{
     background-color: #9db0c7!important;
@@ -171,6 +170,10 @@ a, button, .btn, a.button, button.btn {
     padding: 0.25rem 0.75rem;
     background-color: #efefef;
     color: #000;
+}
+.btn.btn-read-more {
+    font-size: 14px;
+    line-height: 16px;
 }
 #a2hs-banner > span {
     margin-right: 1rem;
@@ -777,6 +780,35 @@ ol ul, ul ul {
 .post-grid .post-thumbnail a:hover img {
     transform: scale(1.05);
 }
+.post-grid .post-content h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
 .post-grid .post-content h4 a:hover {
     text-decoration: underline;
+}
+.post-grid .swiper-slide, .post-grid .post-content {
+    display: flex;
+    flex-direction: column;
+}
+.post-grid .swiper-slide {
+    height: 100%;
+}
+.post-grid .post-content {
+    flex: 1;
+    justify-content: space-between;
+    gap: 16px;
+}
+.post-grid .post-date {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 6px 8px;
+    color: var(--primary-white);
+    background-color: #ffae18;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 600;
+    z-index: 1;
 }

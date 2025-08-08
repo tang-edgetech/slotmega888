@@ -40,7 +40,7 @@ $faq = $post['faq'];
                         <?php
                         if ($post) {
                             echo "<h1 class='px-4 px-md-0 mb-2'>" . $post['title'] . "</h1>";
-                            echo "<p class='mb-4'>Published on: <em>" . $post['date'] . "</em></p>";
+                            echo "<p class='mb-4'>Published on: <em>" . $post['published_date'] . "</em></p>";
                             echo "<div class='text-editor'>";
                             echo convert_site_base_url($post['content']);
                             echo "</div>";

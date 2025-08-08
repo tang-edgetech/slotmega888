@@ -62,16 +62,19 @@ $posts = [
     [
         "title" => "Mega888 APK Android Download Guide (2025) – Install & Play in Minutes",
         "slug" => "how-to-download-install-mega888-apk",
+        "published_date" => "2025-08-04",
         "thumbnail" => "thumbnail-blog-01.jpg",
     ],
     [
         "title" => "Why Mega888 APK is the Top Choice for Slot Players in Malaysia",
         "slug" => "why-mega888-apk-top-choice-malaysia",
+        "published_date" => "2025-08-02",
         "thumbnail" => "thumbnail-blog-02.jpg",
     ],
     [
         "title" => "Mega888 Sign Up Tutorial – How to Create Your Account Securely",
         "slug" => "mega888-sign-up-tutorial",
+        "published_date" => "2025-08-02",
         "thumbnail" => "thumbnail-blog-03.jpg",
     ],
 ];
