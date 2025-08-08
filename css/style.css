@@ -787,11 +787,14 @@ ol ul, ul ul {
 .post-grid .post-content h4 a:hover {
     text-decoration: underline;
 }
-.post-grid .swiper-slide, .post-grid .post-content {
+.post-grid .swiper-slide, .post-grid .post-item-inner, .post-grid .post-content {
     display: flex;
     flex-direction: column;
 }
 .post-grid .swiper-slide {
+    height: auto;
+}
+.post-grid .post-item-inner {
     height: 100%;
 }
 .post-grid .post-content {
