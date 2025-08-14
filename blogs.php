@@ -1,11 +1,26 @@
 <?php
-$blog_index = '01';
-include '../inc/functions.php';
-$post = json_decode(file_get_contents($site_base_url . 'data/blog-'.$blog_index.'.json'), true);
-$page_title = "Blog - ".$post['title'];
-$page_slug = $post['slug'];
+include 'inc/functions.php';
+// blogs.php
 
-$page_thumbnail = "https://example.com/image.jpg";
+// Path to JSON file    
+$jsonPath = __DIR__ . '/data/blogs.json';
+
+// Check if file exists
+if (!file_exists($jsonPath)) {
+    die("Blogs data file not found.");
+}
+
+// Load and decode JSON
+$blogs = json_decode(file_get_contents($jsonPath), true);
+if (!is_array($blogs)) {
+    die("Invalid blogs.json format.");
+}
+
+// Get slug from URL (passed via .htaccess)
+$slug = $_GET['slug'] ?? '';
+$slug = strtolower(trim($slug, "/")); // normalize
+
+$post = $blogs[$slug];
 $meta_tags = $post['meta_tags'];
 $markup_schema = $post['schema'];
 $faq = $post['faq'];
@@ -21,7 +36,7 @@ $faq = $post['faq'];
         }
         ?>
         <base href="../<?php echo $page_slug;?>">
-        <?php include '../inc/stylesheet.php';?>
+        <?php include 'inc/stylesheet.php';?>
         <?php if( $markup_schema ) {
             foreach( $markup_schema as $key => $tag) {
                 echo "<script type=\"application/ld+json\" id=\"$key\">\n";
@@ -31,7 +46,7 @@ $faq = $post['faq'];
         } ?>
     </head>
     <body>
-        <?php include '../inc/navbar.php';?>
+        <?php include 'inc/navbar.php';?>
         <main class="app" id="app">
             <section class="single single-post">
                 <div class="container-fluid">
@@ -54,7 +69,7 @@ $faq = $post['faq'];
                 </div>
             </section>
             
-            <?php if( $faq ) { ?>
+            <?php if( $faq && !empty($faq[0]['heading']) && !empty($faq[0]['body']) ) { ?>
             <section class="" id="faq">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
@@ -87,7 +102,7 @@ $faq = $post['faq'];
             </section>
             <?php } ?>
         </main>
-        <?php include '../inc/footer.php';?>
-        <?php include '../inc/popup-share-this.php';?>
+        <?php include 'inc/footer.php';?>
+        <?php include 'inc/popup-share-this.php';?>
     </body>
 </html>

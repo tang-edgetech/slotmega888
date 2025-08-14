@@ -6,7 +6,7 @@ echo "<div class='post-item post-item-".$index."'>";
             echo "<a href='".$site_base_url . $post['slug'] . "'>";
             if( !empty($post_date) ) { echo "<div class='post-date'>".$post_date."</div>";}
             if( $post['thumbnail'] ) {
-                echo "<img src='".$site_base_url."images/".$post['thumbnail']."'/>";
+                echo "<img src='".$site_base_url."images/blogs/".$post['thumbnail']."'/>";
             }
             echo "</a>";
         echo "</div>";

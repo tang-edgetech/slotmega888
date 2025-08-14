@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    console.log('Ready');
 	var lastScrollTop = 0,
 		navbar = $('#masthead');
 
@@ -121,17 +122,21 @@ $(document).ready(function() {
 
     let offset = 3;
     const perPage = 3;
-    const home = window.myAppData.home_url;
-    const posts = window.myAppData.posts;
-    const template = window.myAppData.postTemplate;
+    const home = window.mega888.home_url;
+    const check = window.mega888.post_grid;
+    const posts = window.mega888.posts;
+    const template = window.mega888.postTemplate;
+    if (typeof fetchPosts === "string" && check ) {
+        posts = JSON.parse(fetchPosts);
+    }
 
     function renderPosts(start, count) {
-        const slice = posts.slice(start, start + count);
-
+        const thePosts = Object.values(posts);
+        const slice = thePosts.slice(start, start + count);
         slice.forEach(post => {
             var $post_title = "", $post_link = "", $post_date = "", $post_thumbnail = ""; 
             $post_title = post.title;
-            $post_link = home+"images/"+post.slug;
+            $post_link = home+post.slug;
             if( post.published_date ) {
                 var $date = formatted = new Date(post.published_date).toLocaleDateString("en-GB", {
                     day: "2-digit",
@@ -141,19 +146,19 @@ $(document).ready(function() {
                 $post_date = $date;
             }
             if( post.thumbnail ) {
-                $post_thumbnail = '<img src="'+home+"images/"+post.thumbnail+'" class="img-fluid w-100 h-100"/>';
+                $post_thumbnail = '<img src="'+home+"images/blogs/"+post.thumbnail+'" class="img-fluid w-100 h-100"/>';
             }
 
             let html = template
-                .replace('{{post_title}}', $post_title)
-                .replace('{{post_link}}', $post_link)
-                .replace('{{post_date}}', $post_date)
-                .replace('{{post_thumbnail}}', $post_thumbnail);
+                .replaceAll('{{post_title}}', $post_title)
+                .replaceAll('{{post_link}}', $post_link)
+                .replaceAll('{{post_date}}', $post_date)
+                .replaceAll('{{post_thumbnail}}', $post_thumbnail);
             $(".post-container .post-grid").append(html);
         });
 
         // Hide button if no more posts
-        if (offset >= posts.length) {
+        if (offset >= thePosts.length) {
             console.warn('No more post');
             $(".post-container .btn-load-more").addClass('d-none').fadeOut();
         }

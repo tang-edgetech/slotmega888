@@ -60,26 +60,43 @@
     }
     ?>
     <script id="mega888-script-extra">
-        var mega888 = {
+    <?php
+    $exist = 0;
+    $includedFiles = get_included_files();
+    $fetchPosts = '""';
+    $template_post_item = '""';
+    if (in_array(realpath('inc/template-post-grid.php'), get_included_files())) {
+        $shortBlogs = [];
+        $blogs = json_decode( file_get_contents(__DIR__."/../data/blogs.json"), true);
+        foreach ($blogs as $slug => $post) {
+            $shortBlogs[] = [
+                'title'          => $post['title'] ?? '',
+                'slug'           => $slug,
+                'published_date' => $post['published_date'] ?? '',
+                'thumbnail'      => $post['thumbnail'] ?? ''
+            ];
+        }
+        $fetchPosts = json_encode($shortBlogs);
+        $template_post_item = json_encode( file_get_contents(__DIR__.'/template-post-grid-item-core.php'), true );
+    }
+    foreach ($includedFiles as $file) {
+        if (basename($file) === 'template-post-grid.php') {
+            $exist = 1;
+            break;
+        }
+    }
+    ?>
+        window.mega888 = {
+            home_url: "<?php echo $site_base_url;?>",
             title: <?= json_encode($page_title) ?>,
             url: <?= json_encode($page_url) ?>,
-            thumbnail: <?= json_encode($page_thumbnail) ?>
+            thumbnail: <?= json_encode($page_thumbnail) ?>,
+            posts: <?= $fetchPosts ?>,
+            postTemplate: <?= $template_post_item ?>,
+            post_grid: <?= $exist ?>,
         };
     </script>
-    <?php
-    if (in_array(realpath('inc/template-post-grid.php'), get_included_files())) {
-        $template_post_item = file_get_contents($site_base_url.'inc/template-post-grid-item-core.php');
-    ?>
-    <script id="mega888-script-extra">
-    window.myAppData = {
-        home_url: "<?php echo $site_base_url;?>",
-        posts: <?php echo json_encode($posts, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?>,
-        postTemplate: <?php echo json_encode($template_post_item); ?>
-    }
-    </script>
-    <?php
-    }
-    ?>
+    
     <script id="mega888-script" type="text/javascript" src="./js/scripts.js<?php echo '?v='.$version;?>"></script>
 
     <div class="floating-list">

@@ -757,6 +757,10 @@ a, button, .btn, a.button, button.btn {
     font-size: 26px;
     line-height: 34px;
 }
+.single h4, ol.heading-title.title-h4 > li::marker {
+    font-size: 20px;
+    line-height: 26px;
+}
 ol ul, ul ul {
     list-style-type: disc;
 }

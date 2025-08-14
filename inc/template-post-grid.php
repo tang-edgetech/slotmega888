@@ -1,5 +1,7 @@
 <?php
+$posts = json_decode(file_get_contents(__DIR__."/../data/blogs.json"), true);
 if( $posts ) {
+    $default = array_slice($posts, 0, 3, true);
 ?>
 <section class="">
     <div class="container-fluid">
@@ -9,9 +11,8 @@ if( $posts ) {
                     <h3 class="mb-3">Blogs</h3>
                 <?php
                 echo '<div class="post-grid">';
-                $total = count($posts);
-                $i = $total;
-                foreach (array_slice($posts, 0, 3) as $post) {
+                $i = 1;
+                foreach ($default as $slug=>$post) {
                     $index = str_pad($i, 2, "0", STR_PAD_LEFT);
                     include 'template-post-grid-item.php';
                     $i--;
