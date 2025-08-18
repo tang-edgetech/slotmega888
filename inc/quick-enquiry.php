@@ -51,7 +51,7 @@
                                 <div class="platform-content text-start">
                                     <h4 class="text-white fw-normal mb-4"><b>iOS</b></h4>
                                     <div class="btn-wrapper justify-content-center">
-                                        <a href="https://appsetup.zjhenghong.com/ios/plist/Mega888_0.plist" rel="nofollow" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="iOS"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
+                                        <a href="https://bit.ly/4mJ2vV5" rel="nofollow" class="btn btn-rounded btn-with-icon btn-download text-white" target="_blank" title="iOS"><i class="fa-solid fa-download" aria-hidden="true"></i><span>Download</span></a>
                                     </div>
                                 </div>
                             </div>
