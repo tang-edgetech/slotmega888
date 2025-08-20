@@ -53,13 +53,13 @@ include 'inc/functions.php';
         <meta name="twitter:image" content="images/logo/mega888-logo.webp">
 
         <!-- Favicon -->
-        <link rel="apple-touch-icon" href="images/logo/Icon-180.webp">
-        <link rel="icon" type="image/png" sizes="16x16" href="images/logo/Icon-16.webp">
-        <link rel="icon" type="image/png" sizes="32x32" href="images/logo/Icon-32.webp">
-        <link rel="icon" type="image/png" sizes="48x48" href="images/logo/Icon-48.webp">
-        <link rel="icon" type="image/png" sizes="64x64" href="images/logo/Icon-64.webp">
-        <link rel="icon" type="image/png" sizes="128x128" href="images/logo/Icon-128.webp">
-        <link rel="shortcut icon" href="images/logo/Icon-32.webp">
+        <link rel="apple-touch-icon" href="images/logo/Icon-180-1.webp">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/logo/Icon-16-1.webp">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/logo/Icon-32-1.webp">
+        <link rel="icon" type="image/png" sizes="48x48" href="images/logo/Icon-48-1.webp">
+        <link rel="icon" type="image/png" sizes="64x64" href="images/logo/Icon-64-1.webp">
+        <link rel="icon" type="image/png" sizes="128x128" href="images/logo/Icon-128-1.webp">
+        <link rel="shortcut icon" href="images/logo/Icon-32-1.webp">
 
 
         <base href="<?php echo $site_base_url;?>">

@@ -4,9 +4,9 @@
             <div class="col-12 col-md-11 col-xl-6 col-xxl-5 px-4">
                 <div class="d-block w-100 mx-auto mb-4 text-center">
                     <picture>
-                        <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.webp" type="image/webp">
-                        <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.png" type="image/png">
-                        <img src="<?php echo $cdn_asset_url;?>images/mega888-logo.png" width="200px" height="200px" alt="Mega888 Logo" class="logo">
+                        <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.webp" type="image/webp">
+                        <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" type="image/png">
+                        <img src="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" width="400px" height="200px" alt="Mega888 Logo" class="logo">
                     </picture>
                 </div>
                 <div class="btn-wrapper d-flex flex-row flex-nowrap justify-content-center">

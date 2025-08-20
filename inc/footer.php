@@ -3,9 +3,9 @@
         <div class="col-12 px-2 px-md-3 py-4 footer-logo">
             <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <picture>
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.webp" type="image/webp">
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.png" type="image/png">
-                    <img src="<?php echo $cdn_asset_url;?>images/mega888-logo.png" width="80px" height="80px" class="img-fit" alt="Mega888 Logo"/>
+                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.webp" type="image/webp">
+                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" type="image/png">
+                    <img src="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" width="120px" height="120px" class="img-fit" alt="Mega888 Logo"/>
                 </picture>
             </a>
         </div>

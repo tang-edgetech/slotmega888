@@ -4,9 +4,9 @@
             <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <picture>
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.webp" type="image/webp">
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888-logo.png" type="image/png">
-                    <img src="<?php echo $cdn_asset_url;?>images/mega888-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
+                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.webp" type="image/webp">
+                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" type="image/png">
+                    <img src="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
                 </picture>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
