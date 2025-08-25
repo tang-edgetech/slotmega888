@@ -9,7 +9,8 @@ if ( isLocalhost() ) {
     $cdn_asset_url = $site_base_url;
 }
 else {
-    $site_base_url = 'https://slotmega888.app/';
+    // $site_base_url = 'https://slotmega888.app/';
+    $site_base_url = 'http://branch.us.com/';
     $cdn_asset_url = $site_base_url;
     // $cdn_asset_url = 'https://88mega88slot.b-cdn.net/';
 }
