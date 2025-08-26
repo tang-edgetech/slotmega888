@@ -5,7 +5,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-My">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,7 +35,7 @@ include '../inc/functions.php';
         <meta name="twitter:description" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
         <link rel="canonical" href="<?php echo $site_base_url.'mega888-rtp/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-rtp/';?>">
-        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'mega888-rtp/';?>">
+        <link rel="alternate" hreflang="en-My" href="<?php echo $site_base_url.'mega888-rtp/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">

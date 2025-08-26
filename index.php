@@ -5,7 +5,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include 'inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
         <link rel="canonical" href="<?php echo $site_base_url;?>">   
