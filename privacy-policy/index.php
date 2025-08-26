@@ -5,7 +5,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-My">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <meta name="twitter:description" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
         <link rel="canonical" href="<?php echo $site_base_url.'privacy-policy/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'privacy-policy/';?>">
-        <link rel="alternate" hreflang="en-My" href="<?php echo $site_base_url.'privacy-policy/';?>">
+        <link rel="alternate" hreflang="en-MY" href="<?php echo $site_base_url.'privacy-policy/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">

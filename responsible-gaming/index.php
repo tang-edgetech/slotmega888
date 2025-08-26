@@ -5,7 +5,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-My">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +30,7 @@ include '../inc/functions.php';
         <meta name="twitter:description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. branch.us.com helps you stay in control while playing.">
         <link rel="canonical" href="<?php echo $site_base_url.'responsible-gaming/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'responsible-gaming/';?>">
-        <link rel="alternate" hreflang="en-My" href="<?php echo $site_base_url.'responsible-gaming/';?>">
+        <link rel="alternate" hreflang="en-MY" href="<?php echo $site_base_url.'responsible-gaming/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">

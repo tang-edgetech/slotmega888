@@ -5,7 +5,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-My">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +36,7 @@ include '../inc/functions.php';
         <meta name="twitter:description" content="Install Mega888 on iPhone or iPad without the App Store. Follow our 2025 iOS setup guide to download the trusted Mega888 profile safely and play securely in Malaysia.">
         <link rel="canonical" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
-        <link rel="alternate" hreflang="en-My" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
+        <link rel="alternate" hreflang="en-MY" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
