@@ -11,13 +11,13 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia</title>
         <meta name="title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
-        <meta name="description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. slotmega888.app helps you stay in control while playing.">
+        <meta name="description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. branch.us.com helps you stay in control while playing.">
         <meta name="keywords" content="responsible gaming, responsible gambling, responsible gaming mega888, mega888 responsible gaming, responsible gaming online casino">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/responsible-gaming/">
+        <meta property="og:url" content="{{site_base_url}}responsible-gaming/">
         <meta property="og:title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
-        <meta property="adscription" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. slotmega888.app helps you stay in control while playing.">
+        <meta property="adscription" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. branch.us.com helps you stay in control while playing.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="responsible gaming">
@@ -25,12 +25,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="responsible gaming mega888">
         <meta property="article:tag" content="mega888 responsible gaming">
         <meta property="article:tag" content="responsible gaming online casino">
-        <meta name="twitter:url" content="https://slotmega888.app/responsible-gaming/">
+        <meta name="twitter:url" content="{{site_base_url}}responsible-gaming/">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
-        <meta name="twitter:description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. slotmega888.app helps you stay in control while playing.">
-        <link rel="canonical" href="https://slotmega888.app/responsible-gaming/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/responsible-gaming/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/responsible-gaming/">
+        <meta name="twitter:description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. branch.us.com helps you stay in control while playing.">
+        <link rel="canonical" href="{{site_base_url}}responsible-gaming/">
+        <link rel="alternate" hreflang="x-default" href="{{site_base_url}}responsible-gaming/">
+        <link rel="alternate" hreflang="en" href="{{site_base_url}}responsible-gaming/">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -42,13 +42,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "{{site_base_url}}"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Responsible Gaming",
-                "item": "https://slotmega888.app/responsible-gaming"
+                "item": "{{site_base_url}}responsible-gaming"
                 }
             ]
             }
@@ -191,8 +191,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1>SlotMega888.app - Responsible Gaming</h1>
-                                <p>We are sure that at slotmega888.app the gaming process should be the fun process, which is safe, and you can walk away at any time. Mega888 has various wonderful games and bonuses, but we want every user not to forget to play responsibly, awareness and balance.</p>
+                                <h1>branch.us.com - Responsible Gaming</h1>
+                                <p>We are sure that at branch.us.com the gaming process should be the fun process, which is safe, and you can walk away at any time. Mega888 has various wonderful games and bonuses, but we want every user not to forget to play responsibly, awareness and balance.</p>
                                 <p>&nbsp;</p>
                                 <h2>Helping Every Players is Our Commitment</h2>
                                 <p>We will make Mega888 a secure place where tokens will be a safe zone to everyone:</p>
@@ -292,14 +292,14 @@ include '../inc/functions.php';
                                 <p>We treat you like a person first, the player comes second.</p>
                                 <p>&nbsp;</p>
                                 <h3>Last Piece of Advice - Stay in Control</h3>
-                                <p>Gambling is not all evil. But playing without control is. We will never leave you alone at <b>slotmega888.app</b>; rather, tools, advice, and human support.</p>
+                                <p>Gambling is not all evil. But playing without control is. We will never leave you alone at <b>branch.us.com</b>; rather, tools, advice, and human support.</p>
                                 <p>When you think you need the break- do it.</p>
                                 <p>When you know someone who is struggling - refer to us.</p>
                                 <p>And in case you ever get in doubt - ask us.</p>
                                 <p>Since winning must never come at the expense of mind.</p>
-                                <p>Feel free to address us through our email support@slotmega888.app in case you require help.</p>
+                                <p>Feel free to address us through our email support@branch.us.com in case you require help.</p>
                                 <p>&nbsp;</p>
-                                <h2>FAQs – Responsible Gaming at SlotMega888.app</h2>
+                                <h2>FAQs – Responsible Gaming at branch.us.com</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">

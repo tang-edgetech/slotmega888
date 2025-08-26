@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <link rel="canonical" href="https://www.dohistory.info/">   
+        <link rel="canonical" href="{{site_base_url}}">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="mega888apk">
@@ -28,10 +28,10 @@ include 'inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="en-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/">
+        <meta property="og:url" content="{{site_base_url}}">
         <meta property="og:title" content="Mega888 APK – Download & Start Winning Now">
         <meta property="og:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
-        <meta property="og:site_name" content="slotmega888.app">
+        <meta property="og:site_name" content="branch.us.com">
         <meta property="og:image" content="images/logo/mega888-logo.webp">
         <meta property="article:tag" content="mega888">
         <meta property="article:tag" content="mega888 apk download">
@@ -74,9 +74,9 @@ include 'inc/functions.php';
             "applicationCategory": "GameApplication",
             "applicationSubCategory": "Casino",
             "downloadUrl": [
-                "https://slotmega888.app/"
+                "{{site_base_url}}"
             ],
-            "installUrl": "https://slotmega888.app/",
+            "installUrl": "{{site_base_url}}",
             "operatingSystemRequirements": [
                 "Android 5.0 and up",
                 "iOS 11 and up"
@@ -397,7 +397,7 @@ include 'inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
-                    "@id": "https://slotmega888.app/",
+                    "@id": "{{site_base_url}}",
                     "name": "Home"
                 }
                 }
@@ -470,7 +470,7 @@ include 'inc/functions.php';
                 "name": "What can I do in case I find out that my Mega888 app has stopped updating?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Uninstall what you have now and then install from slotmega888.app for the most updated version."
+                    "text": "Uninstall what you have now and then install from branch.us.com for the most updated version."
                 }
                 },
                 {
@@ -605,7 +605,7 @@ include 'inc/functions.php';
                                     <li><a class="link" href="#toc8">Act Fast to Take Advantage of Bonuses & Promotions</a></li>
                                     <li><a class="link" href="#toc9">Trying out Winning Strategies and Guides on Your Own</a></li>
                                     <li><a class="link" href="#toc10">Is Mega888 Safe to Play and Download?</a></li>
-                                    <li><a class="link" href="#toc11">Slotmega888.app Commitment to Responsible Gambling</a></li>
+                                    <li><a class="link" href="#toc11">branch.us.com Commitment to Responsible Gambling</a></li>
                                     <li><a class="link" href="#toc12">Your Data Belongs to You and This is How We Keep It Safe</a></li>
                                     <li><a class="link" href="#toc13">Frequently Asked Questions (FAQ)</a></li>
                                 </ol>
@@ -648,7 +648,7 @@ include 'inc/functions.php';
                                 <p>Despite not being provided on Apple official App Store, the iOS devices still have the capability of installing it on a secure mobile configuration profile.</p>
                                 <p><b>These are the steps for <a href="<?php echo $site_base_url;?>mega888-ios-download/"><u>installing on iOS devices</u></a></b>:</p>
                                 <ul>
-                                    <li>Download the <b>iOS installation file</b> from slotmega888.app</li>
+                                    <li>Download the <b>iOS installation file</b> from branch.us.com</li>
                                     <li>Head over to <b>Settings > General > Device Management</b></li>
                                     <li>Click the developer’s name and tap the option <b>“Trust”</b></li>
                                     <li>Open the application as other applications in iOS</li>
@@ -729,7 +729,7 @@ include 'inc/functions.php';
                                 <p>Discipline, making the right decisions and smart play with the simplest of systems will be sufficient to win. There is detailed information on how to play slots in our <a href="<?php echo $site_base_url;?>mega888-strategies-guides/"><b><u>strategy and guide</u></b></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">Is Mega888 Safe to Play and Download?</h3>
-                                <p>If you are downloading the application on a trusted page such as slotmega888.app, the <a href="<?php echo $site_base_url;?>about-mega888/"><b><u>Mega888</u></b></a> is safe and secure. Login and making money transactions are safeguarded using end-to-end encryption, and your money will be safe. Bugs and software on mobile phones are frequently updated to expand security.</p>
+                                <p>If you are downloading the application on a trusted page such as branch.us.com, the <a href="<?php echo $site_base_url;?>about-mega888/"><b><u>Mega888</u></b></a> is safe and secure. Login and making money transactions are safeguarded using end-to-end encryption, and your money will be safe. Bugs and software on mobile phones are frequently updated to expand security.</p>
                                 <p><b>To remain safe, the following are the most helpful hints:</b></p>
                                 <ul>
                                     <li>Download APK files on the official sites that are reliable</li>
@@ -738,8 +738,8 @@ include 'inc/functions.php';
                                     <li>You should never share your log in details with anyone</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h3 id="toc11">Slotmega888.app Commitment to Responsible Gambling</h3>
-                                <p>Slotmega888.app shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <a href="<?php echo $site_base_url;?>responsible-gaming/"><b><u>Responsible Gambling guide</u></b></a>.</p>
+                                <h3 id="toc11">branch.us.com Commitment to Responsible Gambling</h3>
+                                <p>branch.us.com shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <a href="<?php echo $site_base_url;?>responsible-gaming/"><b><u>Responsible Gambling guide</u></b></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc12">Your Data Belongs to You and This is How We Keep It Safe</h3>
                                 <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our <a href="<?php echo $site_base_url;?>privacy-policy/"><b><u>Privacy Policy</u></b></a> explains the process of collecting, using and safeguarding your personal details.</p>
@@ -848,7 +848,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Uninstall what you have now and then install from slotmega888.app for the most updated version.
+                                            Uninstall what you have now and then install from branch.us.com for the most updated version.
                                         </div>
                                     </div>
                                 </div>
