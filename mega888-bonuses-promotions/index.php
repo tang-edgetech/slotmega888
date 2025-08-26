@@ -11,13 +11,13 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Slot Mega888 App ᐉ Claim Welcome Bonuses, Free Credit & VIP Rewards (2025)</title>
         <meta name="title" content="Slot Mega888 App ᐉ Claim Welcome Bonuses, Free Credit & VIP Rewards (2025)">
-        <meta name="description" content="Get verified Mega888 bonuses, welcome offers, free credit giveaways, and VIP rewards. Register and deposit through slotmega888.app to claim real rewards fast and safely.">
+        <meta name="description" content="Get verified Mega888 bonuses, welcome offers, free credit giveaways, and VIP rewards. Register and deposit through branch.us.com to claim real rewards fast and safely.">
         <meta name="keywords" content="bonus bears mega888, bonus bear mega888, mega888 bonus, claim bonus mega888, bonus mega888, cara dapat bonus mega888, mega888 claim bonus, special bonus mega888, mega888 random bonus, mega888 free credit rm10 no deposit bonus, mega888 welcome bonus, mega888 special bonus">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/mega888-bonuses-promotions/">
+        <meta property="og:url" content="<?php echo $site_base_url.'a888-bonuses-promotions/';?>">
         <meta property="og:title" content="Slot Mega888 App ᐉ Claim Welcome Bonuses, Free Credit & VIP Rewards (2025)">
-        <meta property="adscription" content="Get verified Mega888 bonuses, welcome offers, free credit giveaways, and VIP rewards. Register and deposit through slotmega888.app to claim real rewards fast and safely.">
+        <meta property="adscription" content="Get verified Mega888 bonuses, welcome offers, free credit giveaways, and VIP rewards. Register and deposit through branch.us.com to claim real rewards fast and safely.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ Claim Welcome Bonuses, Free Credit & VIP Rewards (2025)">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="bonus bears mega888">
@@ -32,12 +32,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="mega888 free credit rm10 no deposit bonus">
         <meta property="article:tag" content="mega888 welcome bonus">
         <meta property="article:tag" content="mega888 special bonus">
-        <meta name="twitter:url" content="https://slotmega888.app/mega888-bonuses-promotions/">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'a888-bonuses-promotions/';?>">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ Claim Welcome Bonuses, Free Credit & VIP Rewards (2025)">
-        <meta name="twitter:description" content="Get verified Mega888 bonuses, welcome offers, free credit giveaways, and VIP rewards. Register and deposit through slotmega888.app to claim real rewards fast and safely.">
-        <link rel="canonical" href="https://slotmega888.app/mega888-bonuses-promotions/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-bonuses-promotions/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-bonuses-promotions/">
+        <meta name="twitter:description" content="Get verified Mega888 bonuses, welcome offers, free credit giveaways, and VIP rewards. Register and deposit through branch.us.com to claim real rewards fast and safely.">
+        <link rel="canonical" href="<?php echo $site_base_url.'a888-bonuses-promotions/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'a888-bonuses-promotions/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'a888-bonuses-promotions/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -49,13 +49,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Bonuses & Promotions",
-                "item": "https://slotmega888.app/mega888-bonuses-promotions/"
+                "item": "<?php echo $site_base_url.'a888-bonuses-promotions/';?>"
                 }
             ]
             }
@@ -182,7 +182,7 @@ include '../inc/functions.php';
                 "name": "How will I know if a bonus offer is real?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Only trust offers listed on slotmega888.app or announced via our official Telegram. Ignore fake “free RM10” offers from random agents."
+                    "text": "Only trust offers listed on branch.us.com or announced via our official Telegram. Ignore fake “free RM10” offers from random agents."
                 }
                 }
             ]
@@ -226,10 +226,10 @@ include '../inc/functions.php';
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
                                 <h1 id="toc1">Get Mega888 Bonuses That Really Pay in 2025 – Free Credit, Welcome Bonus & VIP Rewards </h1>
-                                <p>Other than simply playing at <b>slotmega888.app</b>, you earn something by playing Mega888. We are an authorized Mega888 kiosk representative in Malaysia, and we offer legit bonuses, free credits and VIP bonus, which require manual verification, instant cashout and player friendly. No spam, no gimmicks and no agents who take off with your dollars.</p>
+                                <p>Other than simply playing at <b>branch.us.com</b>, you earn something by playing Mega888. We are an authorized Mega888 kiosk representative in Malaysia, and we offer legit bonuses, free credits and VIP bonus, which require manual verification, instant cashout and player friendly. No spam, no gimmicks and no agents who take off with your dollars.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Welcome Bonus - Extra Credit to New players during their First Deposit</h2>
-                                <p>In case you are a first-time player using slotmega888.app, we will provide you with the extra bonus upon your first top-up. You’re qualified to <a href="<?php echo $site_base_url;?>"><b><u>get a 50% bonus up to RM150</u></b></a> when you deposit at least RM30 or more. The only condition is that you must have made a <b>5x turnover</b> before requesting withdrawal.</p>
+                                <p>In case you are a first-time player using branch.us.com, we will provide you with the extra bonus upon your first top-up. You’re qualified to <a href="<?php echo $site_base_url;?>"><b><u>get a 50% bonus up to RM150</u></b></a> when you deposit at least RM30 or more. The only condition is that you must have made a <b>5x turnover</b> before requesting withdrawal.</p>
                                 <p><b>Bonus Overview:</b></p>
                                 <ul>
                                     <li><b>Type of Bonus: </b>First Time Deposit Bonus</li>
@@ -274,7 +274,7 @@ include '../inc/functions.php';
                                 <h3 id="toc6">How to Claim Your Bonus the Right Way</h3>
                                 <p>Getting your bonus is simple. No promo codes or messy forms.</p>
                                 <ol>
-                                    <li><a href="<?php echo $site_base_url;?>"><b><u>Register your Mega888 account</u></b></a> through slotmega888.app</li>
+                                    <li><a href="<?php echo $site_base_url;?>"><b><u>Register your Mega888 account</u></b></a> through branch.us.com</li>
                                     <li>Deposit RM30 or more</li>
                                     <li>Send your Game ID + receipt to us on WhatsApp or Telegram</li>
                                     <li>We credit your bonus once the top-up has been confirmed</li>
@@ -296,7 +296,7 @@ include '../inc/functions.php';
                                     <thead>
                                         <tr>
                                             <th>Feature</th>
-                                            <th>Slotmega888.app</th>
+                                            <th>branch.us.com</th>
                                             <th>Other Agents</th>
                                         </tr>
                                     </thead>
@@ -531,7 +531,7 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Only trust offers listed on slotmega888.app or announced via our official Telegram channel. Do not entertain fraudulent free RM 10 offers by some unidentified agents.
+                                            Only trust offers listed on branch.us.com or announced via our official Telegram channel. Do not entertain fraudulent free RM 10 offers by some unidentified agents.
                                         </div>
                                         </div>
                                     </div>

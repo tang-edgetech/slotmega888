@@ -9,7 +9,7 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Blog</title>
+        <title>Branch Us ᐉ Blog</title>
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>

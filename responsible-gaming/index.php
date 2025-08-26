@@ -15,7 +15,7 @@ include '../inc/functions.php';
         <meta name="keywords" content="responsible gaming, responsible gambling, responsible gaming mega888, mega888 responsible gaming, responsible gaming online casino">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="{{site_base_url}}responsible-gaming/">
+        <meta property="og:url" content="<?php echo $site_base_url.'responsible-gaming/';?>">
         <meta property="og:title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
         <meta property="adscription" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. branch.us.com helps you stay in control while playing.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
@@ -25,12 +25,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="responsible gaming mega888">
         <meta property="article:tag" content="mega888 responsible gaming">
         <meta property="article:tag" content="responsible gaming online casino">
-        <meta name="twitter:url" content="{{site_base_url}}responsible-gaming/">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'responsible-gaming/';?>">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ Responsible Gaming Tools & Support in Malaysia">
         <meta name="twitter:description" content="Play Mega888 safely with responsible gaming tools. Set limits, freeze accounts, and get support anytime. branch.us.com helps you stay in control while playing.">
-        <link rel="canonical" href="{{site_base_url}}responsible-gaming/">
-        <link rel="alternate" hreflang="x-default" href="{{site_base_url}}responsible-gaming/">
-        <link rel="alternate" hreflang="en" href="{{site_base_url}}responsible-gaming/">
+        <link rel="canonical" href="<?php echo $site_base_url.'responsible-gaming/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'responsible-gaming/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'responsible-gaming/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -42,13 +42,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "{{site_base_url}}"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Responsible Gaming",
-                "item": "{{site_base_url}}responsible-gaming"
+                "item": "<?php echo $site_base_url.'responsible-gaming';?>"
                 }
             ]
             }

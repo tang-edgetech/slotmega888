@@ -15,7 +15,7 @@ include '../inc/functions.php';
         <meta name="keywords" content="mega888 ios, mega888 ios download, mega888 ios 15.3.1 download, mega888 ios 16 download, mega888 original download ios, mega888 apk ios, mega888 ios 15.1 download, cara download mega888 ios, mega888 ios login, mega888 download ios, mega888 ios problem">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/mega888-ios-download/">
+        <meta property="og:url" content="<?php echo $site_base_url.'mega888-ios-download/';?>">
         <meta property="og:title" content="Slot Mega888 App ᐉ iOS Download Guide for iPhone & iPad (2025)">
         <meta property="adscription" content="Install Mega888 on iPhone or iPad without the App Store. Follow our 2025 iOS setup guide to download the trusted Mega888 profile safely and play securely in Malaysia.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ iOS Download Guide for iPhone & iPad (2025)">
@@ -31,12 +31,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="mega888 ios login">
         <meta property="article:tag" content="mega888 download ios">
         <meta property="article:tag" content="mega888 ios problem">
-        <meta name="twitter:url" content="https://slotmega888.app/mega888-ios-download/">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-ios-download/';?>">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ iOS Download Guide for iPhone & iPad (2025)">
         <meta name="twitter:description" content="Install Mega888 on iPhone or iPad without the App Store. Follow our 2025 iOS setup guide to download the trusted Mega888 profile safely and play securely in Malaysia.">
-        <link rel="canonical" href="https://slotmega888.app/mega888-ios-download/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-ios-download/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-ios-download/">
+        <link rel="canonical" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'mega888-ios-download/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -48,13 +48,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Mega888 iOS Download",
-                "item": "https://slotmega888.app/mega888-ios-download"
+                "item": "<?php echo $site_base_url.'mega888-ios-download/';?>"
                 }
             ]
             }
@@ -77,7 +77,7 @@ include '../inc/functions.php';
                 "name": "Is it safe to install Mega888 using a profile?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, if downloaded from slotmega888.app. The profile is verified and secure."
+                    "text": "Yes, if downloaded from branch.us.com. The profile is verified and secure."
                 }
                 },
                 {
@@ -149,7 +149,7 @@ include '../inc/functions.php';
                 "name": "What if I installed Mega888 from an Instagram or WhatsApp link?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Delete it immediately. It may be fake or harmful. Use only slotmega888.app."
+                    "text": "Delete it immediately. It may be fake or harmful. Use only branch.us.com."
                 }
                 },
                 {
@@ -157,7 +157,7 @@ include '../inc/functions.php';
                 "name": "How do I reinstall Mega888 without losing my account?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Delete the app and profile, then reinstall from slotmega888.app. Your account stays safe as long as you have your login ID."
+                    "text": "Delete the app and profile, then reinstall from branch.us.com. Your account stays safe as long as you have your login ID."
                 }
                 },
                 {
@@ -213,11 +213,11 @@ include '../inc/functions.php';
                                 <p>Although Mega888 is not found on the App Store, it’s still possible for Apple users in Malaysia to enjoy the app after reconfiguring the app profile. Using this approach is common, reliable and acknowledged by numerous Malaysian players. This app can be used with iPhone 7 through iPhone 16 and every iPad, and it is still fast and user-friendly on older devices.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="iostoc2">Why Mega888 Isn’t in the App Store</h2>
-                                <p>To be made available on Apple devices, gambling apps need to conform to tough licensing laws in the country. Being an offshore casino, it runs off its own direct configuration. You can use this method as it is safe and trustworthy as long as you download from slotmega888.app.</p>
+                                <p>To be made available on Apple devices, gambling apps need to conform to tough licensing laws in the country. Being an offshore casino, it runs off its own direct configuration. You can use this method as it is safe and trustworthy as long as you download from branch.us.com.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="iostoc3">How to Download and Install on iOS Cautiously (Step-by-Step for 2025)</h3>
                                 <ol>
-                                    <li>You can go to the official Mega888 at slotmega888.app</li>
+                                    <li>You can go to the official Mega888 at branch.us.com</li>
                                     <li>Click/ tap on “Download iOS</li>
                                     <li>Click on the <b>“Allow”</b> option to grant permission to install a profile</li>
                                     <li>Try going to Open Settings > General > VPN & Device Management</li>

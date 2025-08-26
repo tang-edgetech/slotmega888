@@ -11,25 +11,25 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)</title>
         <meta name="title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
-        <meta name="description" content="Read the 2025 Privacy Policy for slotmega888.app. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
+        <meta name="description" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
         <meta name="keywords" content="privacy policy, privacy policy mega888, mega888 privacy policy, privacy policy online casino">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/privacy-policy/">
+        <meta property="og:url" content="<?php echo $site_base_url.'privacy-policy/';?>">
         <meta property="og:title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
-        <meta property="adscription" content="Read the 2025 Privacy Policy for slotmega888.app. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
+        <meta property="adscription" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="privacy policy">
         <meta property="article:tag" content="privacy policy mega888">
         <meta property="article:tag" content="mega888 privacy policy">
         <meta property="article:tag" content="privacy policy online casino">
-        <meta name="twitter:url" content="https://slotmega888.app/privacy-policy/">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'privacy-policy/';?>">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
-        <meta name="twitter:description" content="Read the 2025 Privacy Policy for slotmega888.app. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
-        <link rel="canonical" href="https://slotmega888.app/privacy-policy/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/privacy-policy/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/privacy-policy/">
+        <meta name="twitter:description" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
+        <link rel="canonical" href="<?php echo $site_base_url.'privacy-policy/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'privacy-policy/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'privacy-policy/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -41,13 +41,13 @@ include '../inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://slotmega888.app/"
+            "item": "<?php echo $site_base_url;?>"
             },
             {
             "@type": "ListItem",
             "position": 2,
             "name": "Privacy Policy",
-            "item": "https://slotmega888.app/privacy-policy"
+            "item": "<?php echo $site_base_url.'privacy-policy/';?>"
             }
         ]
         }
@@ -62,9 +62,9 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1>Privacy Policy of Slotmega888.app</h1>
+                                <h1>Privacy Policy of branch.us.com</h1>
                                 <p>Effective Date: January 1, 2025</p>
-                                <p>In <b>slotmega888.app</b>, we do not compromise on your privacy. We take every measure to make sure that your personal sensitive data remains secure and we are determined to continue to base our operations on a secure, transparent, and dignified environment to all our users.</p>
+                                <p>In <b>branch.us.com</b>, we do not compromise on your privacy. We take every measure to make sure that your personal sensitive data remains secure and we are determined to continue to base our operations on a secure, transparent, and dignified environment to all our users.</p>
                                 <p>This Privacy Policy is informing how we gather, utilize, save, and protect your information that will be associated with our services as an authorized Mega888 kiosk agent in Malaysia.</p>
                                 <p>&nbsp;</p>
                                 <P><b>1. Information We Collect</b></P>
@@ -122,7 +122,7 @@ include '../inc/functions.php';
                                 <p>Data that we do not need anymore will automatically be destroyed in our systems.</p>
                                 <p>&nbsp;</p>
                                 <p><b>6. User Rights and Access</b></p>
-                                <p>With the help of slotmega888.app you have a right to:</p>
+                                <p>With the help of branch.us.com you have a right to:</p>
                                 <ul>
                                     <li>Ask permission to get access to personal data</li>
                                     <li>Request to fix incorrect information</li>
@@ -146,7 +146,7 @@ include '../inc/functions.php';
                                 <p><b>10. Contact Us</b></p>
                                 <p>Whether you have any questions or would like to ask us any questions about your personal privacy or about our handling of your data, please contact our support team directly:</p>
                                 <p><b>Support Hours: </b>Daily, 10:00 AM – 12:00 AM</p>
-                                <p><b>Email: <a href="mailto:support@slotmega888.app"><b><u>support@slotmega888.app</u></b></a></p>
+                                <p><b>Email: <a href="mailto:support@branch.us.com"><b><u>support@branch.us.com</u></b></a></p>
                             </div>
                         </div>
                     </div>

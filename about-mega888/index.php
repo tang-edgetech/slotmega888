@@ -11,22 +11,22 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia</title>
         <meta name="title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
-        <meta name="description" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
+        <meta name="description" content="Learn about Branch.us.com – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
         <meta name="keywords" content="mega888">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/about-mega888/">
+        <meta property="og:url" content="<?php echo $site_base_url.'about-mega888/';?>">
         <meta property="og:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
-        <meta property="adscription" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
+        <meta property="adscription" content="Learn about Branch.us.com – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888">
-        <meta name="twitter:url" content="https://slotmega888.app/about-mega888/">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'about-mega888/';?>">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
-        <meta name="twitter:description" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
-        <link rel="canonical" href="https://slotmega888.app/about-mega888/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/about-mega888/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/about-mega888/">
+        <meta name="twitter:description" content="Learn about Branch.us.com – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
+        <link rel="canonical" href="<?php echo $site_base_url.'about-mega888/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'about-mega888/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'about-mega888/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -38,13 +38,13 @@ include '../inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://slotmega888.app/"
+            "item": "<?php echo $site_base_url;?>"
             },
             {
             "@type": "ListItem",
             "position": 2,
             "name": "About Mega888",
-            "item": "https://slotmega888.app/about-mega888"
+            "item": "<?php echo $site_base_url.'about-mega888/';?>"
             }
         ]
         }
@@ -57,7 +57,7 @@ include '../inc/functions.php';
             "mainEntity": [
                 {
                 "@type": "Question",
-                "name": "What is SlotMega888.app?",
+                "name": "What is Branch.us.com?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "It’s a safe website where players in Malaysia download Mega888, get app updates, latest strategies and guides, updated RTP, legit bonuses and learn how to play safely."
@@ -65,7 +65,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Is SlotMega888.app an official Mega888 app developer?",
+                "name": "Is Branch.us.com an official Mega888 app developer?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "No, but it’s a trusted platform that partners with official sources to give safe downloads and real updates."
@@ -73,7 +73,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Can I trust the downloads on SlotMega888.app?",
+                "name": "Can I trust the downloads on Branch.us.com?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes. All APKs and iOS profiles here are scanned and updated weekly."
@@ -81,7 +81,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Who runs SlotMega888.app?",
+                "name": "Who runs Branch.us.com?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A Malaysian-based team focused on secure downloads, local player support, and responsible gaming education."
@@ -97,7 +97,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Is it legal to download Mega888 from SlotMega888.app?",
+                "name": "Is it legal to download Mega888 from Branch.us.com?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes, if you’re over 21 and using it for private play. The app is hosted offshore."
@@ -121,7 +121,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Do I need to register on SlotMega888.app?",
+                "name": "Do I need to register on Branch.us.com?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "No sign-up is needed. You just visit, download, and contact our live chat or customer support."
@@ -137,7 +137,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Does SlotMega888.app have a support team I can talk to?",
+                "name": "Does Branch.us.com have a support team I can talk to?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes, you can contact support via WhatsApp or live chat if you need help."
@@ -153,7 +153,7 @@ include '../inc/functions.php';
                 },
                 {
                 "@type": "Question",
-                "name": "Is Mega888 APK & iOS app from SlotMega888.app safe for beginners?",
+                "name": "Is Mega888 APK & iOS app from Branch.us.com safe for beginners?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes, everything is explained step-by-step with clear guides made for new players."
@@ -172,7 +172,7 @@ include '../inc/functions.php';
                 "name": "What if I see another site with the same name?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Only trust the one with the exact URL: slotmega888.app. Others might be clones or scams."
+                    "text": "Only trust the one with the exact URL: Branch.us.com. Others might be clones or scams."
                 }
                 }
             ]
@@ -191,16 +191,16 @@ include '../inc/functions.php';
                             <div class="table-content">
                                 <h2>Table of Content</h2>
                                 <ol>
-                                    <li><a class="link" href="#toc1">About SlotMega888.app – Malaysia best Slot Application Official App of Mega888</a></li>
+                                    <li><a class="link" href="#toc1">About Branch.us.com – Malaysia best Slot Application Official App of Mega888</a></li>
                                     <li><a class="link" href="#toc2">Facts You Should Know About Mega888</a></li>
-                                    <li><a class="link" href="#toc3">What is Slotmega888.app</a></li>
+                                    <li><a class="link" href="#toc3">What is Branch.us.com</a></li>
                                     <li><a class="link" href="#toc4">The Reason Why Mega888 is So Popular in Malaysia?</a></li>
                                     <li><a class="link" href="#toc5">Is Mega888 Legal in Malaysia</a></li>
                                     <li><a class="link" href="#toc6">Why are We the Safer Choice to Play </a></li>
                                     <li><a class="link" href="#toc7">How to Verify If the App Is Fake</a></li>
                                     <li><a class="link" href="#toc8">How to Use iPhone and Android Using the Same Account</a></li>
                                     <li><a class="link" href="#toc9">What to Do if a Friend Informs You About a “Hacked” Version</a></li>
-                                    <li><a class="link" href="#toc10">FAQs – About SlotMega888.app and Mega888</a></li>
+                                    <li><a class="link" href="#toc10">FAQs – About Branch.us.com and Mega888</a></li>
                                 </ol>
                             </div>
                         </div>
@@ -213,14 +213,14 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h1 id="toc1">About SlotMega888.app – Malaysia best Slot Application Official App of Mega888</h1>
-                                <p>The Malaysian users find a safe space to download and play Mega888 game at <a href="<?php echo $site_base_url;?>"><b><u>slotmega888.app</u></b></a>. Either you are a first-time user of Mega888 or have been using it, this guide you what the game is, how it is played and its reasons as to why the game is so popular here in Malaysia. We will assist you to download just the right version of the app and you can have fun while you play with us.</p>
+                                <h1 id="toc1">About Branch.us.com – Malaysia best Slot Application Official App of Mega888</h1>
+                                <p>The Malaysian users find a safe space to download and play Mega888 game at <a href="<?php echo $site_base_url;?>"><b><u>Branch.us.com</u></b></a>. Either you are a first-time user of Mega888 or have been using it, this guide you what the game is, how it is played and its reasons as to why the game is so popular here in Malaysia. We will assist you to download just the right version of the app and you can have fun while you play with us.</p>
                                 <p>&nbsp;</p>
                                 <h2 id="toc2">Facts You Should Know About Mega888</h2>
                                 <p><b>Mega888</b> is an online slot app playing which you may win real money. It originated in Southeast Asia, and it has become one of the top applications in Malaysia for Android and iOS users. It has slot games, fish games, table games such as Blackjack and even live dealers.</p>
                                 <p>It has a good reputation with smooth game play, high RTP (return-to-player) games, fast withdrawal and secure data. It is compatible with most devices, and it is regularly updated making it fun and safe to play.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc3">What is Slotmega888.app</h3>
+                                <h3 id="toc3">What is Branch.us.com</h3>
                                 <p>We are local Malaysia based team, and we are not just another download site. We make sure our users can install the app securely, and they will get the newest version of the game. We ensure our users do not become victims of scams and play with responsibility. All the articles posted on this site are regulated by the standard rules and are aimed at helping real people, not bots.</p>
                                 <p>Things that we can offer:</p>
                                 <ul>
@@ -253,7 +253,7 @@ include '../inc/functions.php';
                                     <thead>
                                         <tr>
                                             <th>Feature</th>
-                                            <th>Slotmega888.app</th>
+                                            <th>Branch.us.com</th>
                                             <th>Other APK Site</th>
                                         </tr>
                                     </thead>
@@ -304,7 +304,7 @@ include '../inc/functions.php';
                                 <p>Yes, iPhone and Android can be logged in using the same ID. You just need to download the app to each device, sign in and your account remains the same. It is not necessary to create two accounts.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc9">What to Do if a Friend Informs You About a “Hacked” Version</h3>
-                                <p>Do not use hacked or modded apps from unknown source. These tend to steal your account or don’t pay out. Although it looks harmless, even when a friend says that it is alright, there is an advantage to using the official version of slotmega888.app since it is always good to protect your account.</p>
+                                <p>Do not use hacked or modded apps from unknown source. These tend to steal your account or don’t pay out. Although it looks harmless, even when a friend says that it is alright, there is an advantage to using the official version of Branch.us.com since it is always good to protect your account.</p>
                             </div>
                         </div>
                     </div>
@@ -315,12 +315,12 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 col-md-11 col-xl-9 col-xxl-7 px-4">
                             <div class="text-editor">
-                                <h2 id="toc10">FAQs – About SlotMega888.app and Mega888</h2>
+                                <h2 id="toc10">FAQs – About Branch.us.com and Mega888</h2>
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                                What is SlotMega888.app?
+                                                What is Branch.us.com?
                                             </button>
                                         </h3>
                                         <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -332,7 +332,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                                Is SlotMega888.app a legitimate Mega888 app developer?
+                                                Is Branch.us.com a legitimate Mega888 app developer?
                                             </button>
                                         </h3>
                                         <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -344,7 +344,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                                Downloadable Apps in SlotMega888.app are Safe?
+                                                Downloadable Apps in Branch.us.com are Safe?
                                             </button>
                                         </h3>
                                         <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -356,7 +356,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                                Who is behind SlotMega888.app?
+                                                Who is behind Branch.us.com?
                                             </button>
                                         </h3>
                                         <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -380,7 +380,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                                Is downloading at SlotMega888.app consider a crime?
+                                                Is downloading at Branch.us.com consider a crime?
                                             </button>
                                         </h3>
                                         <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -416,7 +416,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                                Am I supposed to sign up on SlotMega888.app?
+                                                Am I supposed to sign up on Branch.us.com?
                                             </button>
                                         </h3>
                                         <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -440,7 +440,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                                Can I talk to a support team through SlotMega888.app?
+                                                Can I talk to a support team through Branch.us.com?
                                             </button>
                                         </h3>
                                         <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -464,7 +464,7 @@ include '../inc/functions.php';
                                     <div class="accordion-item">
                                         <h3 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                                Is Mega888 APK & iOS app from SlotMega888.app safe for beginners?
+                                                Is Mega888 APK & iOS app from Branch.us.com safe for beginners?
                                             </button>
                                         </h3>
                                         <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -493,7 +493,7 @@ include '../inc/functions.php';
                                         </h3>
                                         <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                Visit only the one that appears with the precise URL; slotmega888.app. In most cases, they may either be clones or a scam.
+                                                Visit only the one that appears with the precise URL; Branch.us.com. In most cases, they may either be clones or a scam.
                                             </div>
                                         </div>
                                     </div>

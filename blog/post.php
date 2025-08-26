@@ -5,7 +5,7 @@ $uri = $_SERVER['REQUEST_URI'];
 $uri = strtok($uri, '?');
 
 if( isLocalhost() ) {
-    $base = '/slotmega888/blog/';
+    $base = '/branch-us/blog/';
 }
 else {
     $base = '/blog';

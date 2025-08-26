@@ -15,18 +15,18 @@ include '../inc/functions.php';
         <meta name="keywords" content="mega888">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/mega888-register-login-deposit/">
+        <meta property="og:url" content="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
         <meta property="og:title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
         <meta property="adscription" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
         <meta property="og:site_name" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888">
-        <meta name="twitter:url" content="https://slotmega888.app/mega888-register-login-deposit/">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
         <meta name="twitter:title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
         <meta name="twitter:description" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
-        <link rel="canonical" href="https://slotmega888.app/mega888-register-login-deposit/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-register-login-deposit/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-register-login-deposit/">
+        <link rel="canonical" href="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -38,13 +38,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Register, Login & Deposit",
-                "item": "https://slotmega888.app/mega888-register-login-deposit/"
+                "item": "<?php echo $site_base_url.'mega888-register-login-deposit/';?>"
                 }
             ]
             }
@@ -354,7 +354,7 @@ include '../inc/functions.php';
                                 <p>Yes. There is no limit to how many times you can top up with the same game ID. You are also able to log in to use other devices but not simultaneously. Do not forget to log out of one device to enter another one.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">How come Mega888 Uses an Agent System (And Why It’s Safer)</h3>
-                                <p>Mega888 uses agents instead of open registration to avoid bots, cheaters, and fake accounts. Such system also helps players get actual support and fast deposits from verified kiosks like slotmega888.app rather than some random app on the internet.</p>
+                                <p>Mega888 uses agents instead of open registration to avoid bots, cheaters, and fake accounts. Such system also helps players get actual support and fast deposits from verified kiosks like branch.us.com rather than some random app on the internet.</p>
                             </div>
                         </div>
                     </div>
