@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <link rel="canonical" href="{{site_base_url}}">   
+        <link rel="canonical" href="<?php echo $site_base_url;?>">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="mega888apk">
@@ -28,7 +28,7 @@ include 'inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="en-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="{{site_base_url}}">
+        <meta property="og:url" content="<?php echo $site_base_url;?>">
         <meta property="og:title" content="Mega888 APK – Download & Start Winning Now">
         <meta property="og:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
         <meta property="og:site_name" content="branch.us.com">
@@ -74,9 +74,9 @@ include 'inc/functions.php';
             "applicationCategory": "GameApplication",
             "applicationSubCategory": "Casino",
             "downloadUrl": [
-                "{{site_base_url}}"
+                "<?php echo $site_base_url;?>"
             ],
-            "installUrl": "{{site_base_url}}",
+            "installUrl": "<?php echo $site_base_url;?>",
             "operatingSystemRequirements": [
                 "Android 5.0 and up",
                 "iOS 11 and up"
@@ -397,7 +397,7 @@ include 'inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
-                    "@id": "{{site_base_url}}",
+                    "@id": "<?php echo $site_base_url;?>",
                     "name": "Home"
                 }
                 }
@@ -636,7 +636,7 @@ include 'inc/functions.php';
                                 <p><a href="<?php echo $site_base_url;?>"><strong><u>Mega888</u></strong></a> is considered one of the most reputable and common slot apps in Malaysia. This platform is famous for providing seamless gaming, a wide choice of games and quick payment. It has a broad collection, including Panther Moon, various fish shooting games and live dealer options. The games within the app are smoother than those in 918Kiss and Xe88 and the rewards are given out more frequently.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc3">Reliable Mega888 APK Download for Android Users</h3>
-                                <p>Since it isn’t in the Google Play, <a href="<?php echo $site_base_url;?>mega888-apk-download/"><b><u>Android</u></b></a> users must install it using an APK file. Here's how:</p>
+                                <p>Since it isn’t in the Google Play, <a href="<?php echo $site_base_url.'mega888-apk-download/';?>"><b><u>Android</u></b></a> users must install it using an APK file. Here's how:</p>
                                 <ul>
                                     <li>Get the latest version on the official site of <a href="<?php echo $site_base_url;?>"><b><u>mega888 apk</u></b></a></li>
                                     <li>Turn on the option “<b>Unknown Sources</b>” in your device settings</li>
@@ -646,7 +646,7 @@ include 'inc/functions.php';
                                 <p>&nbsp;</p>
                                 <h3 id="toc4">How to install Mega888 On iPhone without downloading it on App Store</h3>
                                 <p>Despite not being provided on Apple official App Store, the iOS devices still have the capability of installing it on a secure mobile configuration profile.</p>
-                                <p><b>These are the steps for <a href="<?php echo $site_base_url;?>mega888-ios-download/"><u>installing on iOS devices</u></a></b>:</p>
+                                <p><b>These are the steps for <a href="<?php echo $site_base_url.'mega888-ios-download/';?>"><u>installing on iOS devices</u></a></b>:</p>
                                 <ul>
                                     <li>Download the <b>iOS installation file</b> from branch.us.com</li>
                                     <li>Head over to <b>Settings > General > Device Management</b></li>
@@ -678,7 +678,7 @@ include 'inc/functions.php';
                                 <p>Majority of the troubles will have been eliminated by just performing these steps.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc6">Register in Less Than 2 Minutes</h3>
-                                <p>The <a href="<?php echo $site_base_url;?>mega888-register-login-deposit/"><b><u>account registration</u></b></a> takes a bit of time, and no documents are required from you. We work on a kiosk system so the first thing you will have to do is to get in touch with our customer service agent, “Amoi”.</p>
+                                <p>The <a href="<?php echo $site_base_url.'mega888-register-login-deposit/'?>"><b><u>account registration</u></b></a> takes a bit of time, and no documents are required from you. We work on a kiosk system so the first thing you will have to do is to get in touch with our customer service agent, “Amoi”.</p>
                                 <p><b>To make an account, do the following steps:</b></p>
                                 <ul>
                                     <li>Use WhatsApp or Telegram to call our trusted agent</li>
@@ -693,7 +693,7 @@ include 'inc/functions.php';
                                     </li>
                                     <li>When the payment is confirmed, your credits in the account will be credited</li>
                                 </ul>
-                                <p>In this approach, you are ready to start working shortly. In case you desire to log in to your account at a future instance, assistance will be provided. We will show you <a href="<?php echo $site_base_url;?>mega888-register-login-deposit/"><b><u>how to make deposits</u></b></a> and withdrawals as well as how to go about any type of problem you encounter.</p>
+                                <p>In this approach, you are ready to start working shortly. In case you desire to log in to your account at a future instance, assistance will be provided. We will show you <a href="<?php echo $site_base_url.'mega888-register-login-deposit/';?>"><b><u>how to make deposits</u></b></a> and withdrawals as well as how to go about any type of problem you encounter.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc7">Mega888 Deposit and Withdrawal Process</h3>
                                 <p>Using Mega888, Malaysian users have access to easy and safe payment features. Depositing funds is possible through local bank transfers or by picking one of the main e-wallets used in Malaysia. Digital currency users can make payments using USDT and Bitcoin as well.</p>
@@ -707,7 +707,7 @@ include 'inc/functions.php';
                                 <p>If there’s a problem, <b>look for our customer support “Amoi”</b> will assist you right away.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc8">Act Fast to Take Advantage of Bonuses & Promotions</h3>
-                                <p>We offer bonuses to our players often which aim to make playing more enjoyable and help them get more wins. Regularly, new players can take advantage of <a href="<?php echo $site_base_url;?>mega888-bonuses-promotions/"><b><u>first deposit welcome bonus</u></b></a> during registration process.</p>
+                                <p>We offer bonuses to our players often which aim to make playing more enjoyable and help them get more wins. Regularly, new players can take advantage of <a href="<?php echo $site_base_url.'mega888-bonuses-promotions/';?>"><b><u>first deposit welcome bonus</u></b></a> during registration process.</p>
                                 <p><b>Additional rewards that you can receive are:</b></p>
                                 <ul>
                                     <li>Free spins on specific trending slot games</li>
@@ -717,7 +717,7 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3 id="toc9">Trying out Winning Strategies and Guides on Your Own</h3>
-                                <p>Winning the game doesn’t depend on luck but being smart and careful in the selection of games you participate in makes it much easier. One should choose the specific games with better <a href="<?php echo $site_base_url;?>mega888-rtp/"><b><u>RTP rates</u></b></a>. Many Malaysian players recommend playing Ocean King, Safari Heat and Panther Moon as a way of getting their payouts greater.</p>
+                                <p>Winning the game doesn’t depend on luck but being smart and careful in the selection of games you participate in makes it much easier. One should choose the specific games with better <a href="<?php echo $site_base_url.'mega888-rtp/';?>"><b><u>RTP rates</u></b></a>. Many Malaysian players recommend playing Ocean King, Safari Heat and Panther Moon as a way of getting their payouts greater.</p>
                                 <p><b>Strategies that work well:</b></p>
                                 <ul>
                                     <li>Do not spin randomly, choose your game on the basis of payout history</li>
@@ -726,10 +726,10 @@ include 'inc/functions.php';
                                     <li>Don’t try to recover your losses with bigger bets; choose consistent betting amounts</li>
                                     <li>Be time-considerate as opposed to trying to go as quickly as you can</li>
                                 </ul>
-                                <p>Discipline, making the right decisions and smart play with the simplest of systems will be sufficient to win. There is detailed information on how to play slots in our <a href="<?php echo $site_base_url;?>mega888-strategies-guides/"><b><u>strategy and guide</u></b></a>.</p>
+                                <p>Discipline, making the right decisions and smart play with the simplest of systems will be sufficient to win. There is detailed information on how to play slots in our <a href="<?php echo $site_base_url.'mega888-strategies-guides/';?>"><b><u>strategy and guide</u></b></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc10">Is Mega888 Safe to Play and Download?</h3>
-                                <p>If you are downloading the application on a trusted page such as branch.us.com, the <a href="<?php echo $site_base_url;?>about-mega888/"><b><u>Mega888</u></b></a> is safe and secure. Login and making money transactions are safeguarded using end-to-end encryption, and your money will be safe. Bugs and software on mobile phones are frequently updated to expand security.</p>
+                                <p>If you are downloading the application on a trusted page such as branch.us.com, the <a href="<?php echo $site_base_url.'about-mega888/';?>"><b><u>Mega888</u></b></a> is safe and secure. Login and making money transactions are safeguarded using end-to-end encryption, and your money will be safe. Bugs and software on mobile phones are frequently updated to expand security.</p>
                                 <p><b>To remain safe, the following are the most helpful hints:</b></p>
                                 <ul>
                                     <li>Download APK files on the official sites that are reliable</li>
@@ -739,10 +739,10 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3 id="toc11">branch.us.com Commitment to Responsible Gambling</h3>
-                                <p>branch.us.com shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <a href="<?php echo $site_base_url;?>responsible-gaming/"><b><u>Responsible Gambling guide</u></b></a>.</p>
+                                <p>branch.us.com shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <a href="<?php echo $site_base_url.'responsible-gaming/';?>"><b><u>Responsible Gambling guide</u></b></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3 id="toc12">Your Data Belongs to You and This is How We Keep It Safe</h3>
-                                <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our <a href="<?php echo $site_base_url;?>privacy-policy/"><b><u>Privacy Policy</u></b></a> explains the process of collecting, using and safeguarding your personal details.</p>
+                                <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our <a href="<?php echo $site_base_url.'privacy-policy/';?>"><b><u>Privacy Policy</u></b></a> explains the process of collecting, using and safeguarding your personal details.</p>
                                 <p>&nbsp;</p>
                             </div>
                         </div>
