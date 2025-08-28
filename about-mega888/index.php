@@ -9,20 +9,20 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia</title>
-        <meta name="title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <title>Mega888APK ᐉ About Us – Trusted Mega888 Platform in Malaysia</title>
+        <meta name="title" content="Mega888APK ᐉ About Us – Trusted Mega888 Platform in Malaysia">
         <meta name="description" content="Learn about Branch.us.com – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
         <meta name="keywords" content="mega888">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
         <meta property="og:url" content="<?php echo $site_base_url.'about-mega888/';?>">
-        <meta property="og:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta property="og:title" content="Mega888APK ᐉ About Us – Trusted Mega888 Platform in Malaysia">
         <meta property="adscription" content="Learn about Branch.us.com – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta property="og:site_name" content="Mega888APK ᐉ About Us – Trusted Mega888 Platform in Malaysia">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888">
         <meta name="twitter:url" content="<?php echo $site_base_url.'about-mega888/';?>">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta name="twitter:title" content="Mega888APK ᐉ About Us – Trusted Mega888 Platform in Malaysia">
         <meta name="twitter:description" content="Learn about Branch.us.com – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
         <link rel="canonical" href="<?php echo $site_base_url.'about-mega888/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'about-mega888/';?>">

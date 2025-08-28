@@ -9,16 +9,16 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Contact Us – Support via WhatsApp & Telegram</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Contact Us – Support via WhatsApp & Telegram">
+        <title>Mega888APK ᐉ Contact Us – Support via WhatsApp & Telegram</title>
+        <meta name="title" content="Mega888APK ᐉ Contact Us – Support via WhatsApp & Telegram">
         <meta name="description" content="Need help with Mega888 registration, login, or deposit? Contact branch.us.com support via WhatsApp and Telegram. Fast, friendly, and local assistance every day.">
         <meta name="keywords" content="contact us, mega888 contact, contact mega888, mega888 live support, mega888 customer support, mega888 24/7">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
         <meta property="og:url" content="<?php echo $site_base_url.'contact/';?>">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Contact Us – Support via WhatsApp & Telegram">
+        <meta property="og:title" content="Mega888APK ᐉ Contact Us – Support via WhatsApp & Telegram">
         <meta property="adscription" content="Need help with Mega888 registration, login, or deposit? Contact branch.us.com support via WhatsApp and Telegram. Fast, friendly, and local assistance every day.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Contact Us – Support via WhatsApp & Telegram">
+        <meta property="og:site_name" content="Mega888APK ᐉ Contact Us – Support via WhatsApp & Telegram">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="contact us">
         <meta property="article:tag" content="mega888 contact">
@@ -27,7 +27,7 @@ include '../inc/functions.php';
         <meta property="article:tag" content="mega888 customer support">
         <meta property="article:tag" content="mega888 24/7">
         <meta name="twitter:url" content="<?php echo $site_base_url.'contact/';?>">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Contact Us – Support via WhatsApp & Telegram">
+        <meta name="twitter:title" content="Mega888APK ᐉ Contact Us – Support via WhatsApp & Telegram">
         <meta name="twitter:description" content="Need help with Mega888 registration, login, or deposit? Contact branch.us.com support via WhatsApp and Telegram. Fast, friendly, and local assistance every day.">
         <link rel="canonical" href="<?php echo $site_base_url.'contact/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'contact/';?>">

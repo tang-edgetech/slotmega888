@@ -9,23 +9,23 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <title>Mega888APK ᐉ Privacy Policy – Data Protection & User Rights (2025)</title>
+        <meta name="title" content="Mega888APK ᐉ Privacy Policy – Data Protection & User Rights (2025)">
         <meta name="description" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
         <meta name="keywords" content="privacy policy, privacy policy mega888, mega888 privacy policy, privacy policy online casino">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
         <meta property="og:url" content="<?php echo $site_base_url.'privacy-policy/';?>">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <meta property="og:title" content="Mega888APK ᐉ Privacy Policy – Data Protection & User Rights (2025)">
         <meta property="adscription" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <meta property="og:site_name" content="Mega888APK ᐉ Privacy Policy – Data Protection & User Rights (2025)">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="privacy policy">
         <meta property="article:tag" content="privacy policy mega888">
         <meta property="article:tag" content="mega888 privacy policy">
         <meta property="article:tag" content="privacy policy online casino">
         <meta name="twitter:url" content="<?php echo $site_base_url.'privacy-policy/';?>">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <meta name="twitter:title" content="Mega888APK ᐉ Privacy Policy – Data Protection & User Rights (2025)">
         <meta name="twitter:description" content="Read the 2025 Privacy Policy for branch.us.com. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
         <link rel="canonical" href="<?php echo $site_base_url.'privacy-policy/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'privacy-policy/';?>">

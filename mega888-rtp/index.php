@@ -9,16 +9,16 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <title>Mega888APK ᐉ Latest High RTP Games List & Payout Tips (2025)</title>
+        <meta name="title" content="Mega888APK ᐉ Latest High RTP Games List & Payout Tips (2025)">
         <meta name="description" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
         <meta name="keywords" content="rtp mega888, rtp mega888 hari ini, rtp mega888 company, live rtp mega888, mega888 rtp check, cek rtp mega888, rtp mega888 hari ini malaysia, rtp scanner mega888, mega888 rtp, rtp mega888 apk">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
         <meta property="og:url" content="<?php echo $site_base_url.'mega888-rtp/';?>">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <meta property="og:title" content="Mega888APK ᐉ Latest High RTP Games List & Payout Tips (2025)">
         <meta property="adscription" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <meta property="og:site_name" content="Mega888APK ᐉ Latest High RTP Games List & Payout Tips (2025)">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="rtp mega888">
         <meta property="article:tag" content="rtp mega888 hari ini">
@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="article:tag" content="mega888 rtp">
         <meta property="article:tag" content="rtp mega888 apk">
         <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-rtp/';?>">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <meta name="twitter:title" content="Mega888APK ᐉ Latest High RTP Games List & Payout Tips (2025)">
         <meta name="twitter:description" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
         <link rel="canonical" href="<?php echo $site_base_url.'mega888-rtp/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-rtp/';?>">

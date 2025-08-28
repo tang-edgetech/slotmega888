@@ -9,20 +9,20 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <title>Mega888APK ᐉ Register, Login & Deposit Guide for 2025</title>
+        <meta name="title" content="Mega888APK ᐉ Register, Login & Deposit Guide for 2025">
         <meta name="description" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
         <meta name="keywords" content="mega888">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
         <meta property="og:url" content="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta property="og:title" content="Mega888APK ᐉ Register, Login & Deposit Guide for 2025">
         <meta property="adscription" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta property="og:site_name" content="Mega888APK ᐉ Register, Login & Deposit Guide for 2025">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888">
         <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Register, Login & Deposit Guide for 2025">
+        <meta name="twitter:title" content="Mega888APK ᐉ Register, Login & Deposit Guide for 2025">
         <meta name="twitter:description" content="Register your Mega888 account safely with a trusted agent. Follow our 2025 login and deposit guide for fast setup, verified support, and secure payment methods in Malaysia.">
         <link rel="canonical" href="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
         <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-register-login-deposit/';?>">
