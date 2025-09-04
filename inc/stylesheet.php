@@ -1,4 +1,4 @@
-<meta name="robots" content="index, follow">
+<meta name="robots" content="noindex, nofollow">
 <link rel="icon" type="image/png" href="<?php echo $cdn_asset_url;?>images/logo/Icon-32-1.webp" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
