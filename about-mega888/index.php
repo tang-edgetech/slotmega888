@@ -5,28 +5,28 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia</title>
-        <meta name="title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <title>Mega888 Explained | A Trusted Mobile Casino Platform</title>
+        <meta name="title" content="Mega888 Explained | A Trusted Mobile Casino Platform">
         <meta name="description" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
         <meta name="keywords" content="mega888">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/about-mega888/">
-        <meta property="og:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta property="og:url" content="<?php echo $site_base_url.'about-mega888/';?>">
+        <meta property="og:title" content="Mega888 Explained | A Trusted Mobile Casino Platform">
         <meta property="adscription" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta property="og:site_name" content="Mega888 Explained | A Trusted Mobile Casino Platform">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888">
-        <meta name="twitter:url" content="https://slotmega888.app/about-mega888/">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ About Us – Trusted Mega888 Platform in Malaysia">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'about-mega888/';?>">
+        <meta name="twitter:title" content="Mega888 Explained | A Trusted Mobile Casino Platform">
         <meta name="twitter:description" content="Learn about SlotMega888.app – Malaysia’s reliable source for safe Mega888 downloads, honest guides, and real support. No spam, no fake agents, just trusted help.">
-        <link rel="canonical" href="https://slotmega888.app/about-mega888/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/about-mega888/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/about-mega888/">
+        <link rel="canonical" href="<?php echo $site_base_url.'about-mega888/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'about-mega888/';?>">
+        <link rel="alternate" hreflang="en-MY" href="<?php echo $site_base_url.'about-mega888/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -38,13 +38,13 @@ include '../inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://slotmega888.app/"
+            "item": "<?php echo $site_base_url;?>"
             },
             {
             "@type": "ListItem",
             "position": 2,
             "name": "About Mega888",
-            "item": "https://slotmega888.app/about-mega888"
+            "item": "<?php echo $site_base_url.'about-mega888/';?>"
             }
         ]
         }

@@ -9,27 +9,27 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <title>Our Privacy Policy – Data Protection</title>
+        <meta name="title" content="Our Privacy Policy – Data Protection">
         <meta name="description" content="Read the 2025 Privacy Policy for slotmega888.app. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
         <meta name="keywords" content="privacy policy, privacy policy mega888, mega888 privacy policy, privacy policy online casino">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/privacy-policy/">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <meta property="og:url" content="<?php echo $site_base_url.'privacy-policy/';?>/">
+        <meta property="og:title" content="Our Privacy Policy – Data Protection">
         <meta property="adscription" content="Read the 2025 Privacy Policy for slotmega888.app. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <meta property="og:site_name" content="Our Privacy Policy – Data Protection">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="privacy policy">
         <meta property="article:tag" content="privacy policy mega888">
         <meta property="article:tag" content="mega888 privacy policy">
         <meta property="article:tag" content="privacy policy online casino">
-        <meta name="twitter:url" content="https://slotmega888.app/privacy-policy/">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Privacy Policy – Data Protection & User Rights (2025)">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'privacy-policy/';?>/">
+        <meta name="twitter:title" content="Our Privacy Policy – Data Protection">
         <meta name="twitter:description" content="Read the 2025 Privacy Policy for slotmega888.app. Learn how we protect your Mega888 data, ensure account safety, and honor your rights with no third-party sharing.">
-        <link rel="canonical" href="https://slotmega888.app/privacy-policy/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/privacy-policy/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/privacy-policy/">
+        <link rel="canonical" href="<?php echo $site_base_url.'privacy-policy/';?>/">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'privacy-policy/';?>/">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'privacy-policy/';?>/">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -41,13 +41,13 @@ include '../inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://slotmega888.app/"
+            "item": "<?php echo $site_base_url;?>"
             },
             {
             "@type": "ListItem",
             "position": 2,
             "name": "Privacy Policy",
-            "item": "https://slotmega888.app/privacy-policy"
+            "item": "<?php echo $site_base_url.'privacy-policy/';?>/"
             }
         ]
         }

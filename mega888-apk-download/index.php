@@ -5,20 +5,20 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Download Latest APK for Android (2025 Update)</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Download Latest APK for Android (2025 Update)">
+        <title>Mega888 APK Download and Fixed Guides (Latest 2025) – Android</title>
+        <meta name="title" content="Mega888 APK Download and Fixed Guides (Latest 2025) – Android">
         <meta name="description" content="Get the official Mega888 APK for Android safely from slotmega888.app. Follow our simple setup guide to download, install, and play securely on any Android phone in Malaysia.">
         <meta name="keywords" content="mega888 apk, mega888 v1.2 apk download, mega888 apk rm711, mega888 apk download, mega888 v1.0 apk download for android, download mega888 apk for android, apk mega888, mega888 download apk, download mega888 apk, mega888 original apk">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/mega888-apk-download/">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Download Latest APK for Android (2025 Update)">
+        <meta property="og:url" content="<?php echo $site_base_url.'mega888-apk-download/';?>">
+        <meta property="og:title" content="Mega888 APK Download and Fixed Guides (Latest 2025) – Android">
         <meta property="adscription" content="Get the official Mega888 APK for Android safely from slotmega888.app. Follow our simple setup guide to download, install, and play securely on any Android phone in Malaysia.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Download Latest APK for Android (2025 Update)">
+        <meta property="og:site_name" content="Mega888 APK Download and Fixed Guides (Latest 2025) – Android">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888 apk">
         <meta property="article:tag" content="mega888 v1.2 apk download">
@@ -30,12 +30,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="mega888 download apk">
         <meta property="article:tag" content="download mega888 apk">
         <meta property="article:tag" content="mega888 original apk">
-        <meta name="twitter:url" content="https://slotmega888.app/mega888-apk-download/">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Download Latest APK for Android (2025 Update)">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-apk-download/';?>">
+        <meta name="twitter:title" content="Mega888 APK Download and Fixed Guides (Latest 2025) – Android">
         <meta name="twitter:description" content="Get the official Mega888 APK for Android safely from slotmega888.app. Follow our simple setup guide to download, install, and play securely on any Android phone in Malaysia.">
-        <link rel="canonical" href="https://slotmega888.app/mega888-apk-download/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-apk-download/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-apk-download/">
+        <link rel="canonical" href="<?php echo $site_base_url.'mega888-apk-download/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-apk-download/';?>">
+        <link rel="alternate" hreflang="en-MY" href="<?php echo $site_base_url.'mega888-apk-download/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -47,13 +47,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Mega888 APK Download",
-                "item": "https://slotmega888.app/mega888-apk-download"
+                "item": "<?php echo $site_base_url.'mega888-apk-download/';?>"
                 }
             ]
             }

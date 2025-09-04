@@ -9,16 +9,16 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <title>Return To Player (RTP) | Payout Guide</title>
+        <meta name="title" content="Return To Player (RTP) | Payout Guide">
         <meta name="description" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
         <meta name="keywords" content="rtp mega888, rtp mega888 hari ini, rtp mega888 company, live rtp mega888, mega888 rtp check, cek rtp mega888, rtp mega888 hari ini malaysia, rtp scanner mega888, mega888 rtp, rtp mega888 apk">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/mega888-rtp/">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <meta property="og:url" content="<?php echo $site_base_url.'mega888-rtp/';?>">
+        <meta property="og:title" content="Return To Player (RTP) | Payout Guide">
         <meta property="adscription" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <meta property="og:site_name" content="Return To Player (RTP) | Payout Guide">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="rtp mega888">
         <meta property="article:tag" content="rtp mega888 hari ini">
@@ -30,12 +30,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="rtp scanner mega888">
         <meta property="article:tag" content="mega888 rtp">
         <meta property="article:tag" content="rtp mega888 apk">
-        <meta name="twitter:url" content="https://slotmega888.app/mega888-rtp/">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Latest High RTP Games List & Payout Tips (2025)">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-rtp/';?>">
+        <meta name="twitter:title" content="Return To Player (RTP) | Payout Guide">
         <meta name="twitter:description" content="Discover the highest RTP games on Mega888 for 2025. Use our full payout list and smart play tips to stretch your credit and choose games that really pay.">
-        <link rel="canonical" href="https://slotmega888.app/mega888-rtp/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-rtp/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-rtp/">
+        <link rel="canonical" href="<?php echo $site_base_url.'mega888-rtp/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-rtp/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'mega888-rtp/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -47,13 +47,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Highest RTP Games",
-                "item": "https://slotmega888.app/mega888-rtp"
+                "item": "<?php echo $site_base_url.'mega888-rtp/';?>"
                 }
             ]
             }

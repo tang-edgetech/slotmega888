@@ -5,10 +5,10 @@ $page_thumbnail = "https://example.com/image.jpg";
 include 'inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-MY">
     <head>
         <meta charset="UTF-8">
-        <link rel="canonical" href="https://www.dohistory.info/">   
+        <link rel="canonical" href="<?php echo $site_base_url;?>">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="mega888apk">
@@ -19,16 +19,14 @@ include 'inc/functions.php';
         <meta name="title" content="Mega888 APK – Download & Start Winning Now">
         <meta name="description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
         <meta name="keywords" content="mega888, mega888 apk download, official mega888 apk, mega888 download apk, mega888 original download ios, mega888 download link, mega888 download ios, mega888 download android, apk mega888 download, mega 88 download, mega888 download 2025">
-
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Mega888 APK – Download & Start Winning Now">
         <meta itemprop="description" content="Download mega888 Android APK on our official site. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
         <meta itemprop="image" content="images/logo/mega888-logo.webp">
-        
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="en-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/">
+        <meta property="og:url" content="<?php echo $site_base_url;?>">
         <meta property="og:title" content="Mega888 APK – Download & Start Winning Now">
         <meta property="og:description" content="Download mega888 Android APK on our homepage. Fast, smooth installation and exclusive casino features: slots, live casino, daily rewards & secure gameplay.">
         <meta property="og:site_name" content="slotmega888.app">
@@ -74,9 +72,9 @@ include 'inc/functions.php';
             "applicationCategory": "GameApplication",
             "applicationSubCategory": "Casino",
             "downloadUrl": [
-                "https://slotmega888.app/"
+                "<?php echo $site_base_url;?>"
             ],
-            "installUrl": "https://slotmega888.app/",
+            "installUrl": "<?php echo $site_base_url;?>",
             "operatingSystemRequirements": [
                 "Android 5.0 and up",
                 "iOS 11 and up"
@@ -397,7 +395,7 @@ include 'inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
-                    "@id": "https://slotmega888.app/",
+                    "@id": "<?php echo $site_base_url;?>",
                     "name": "Home"
                 }
                 }
@@ -586,7 +584,7 @@ include 'inc/functions.php';
 
             <?php include 'inc/add-to-screen.php';?>
             
-            <?php include_once 'inc/template-post-grid.php';?>
+            <!-- <?php include_once 'inc/template-post-grid.php';?> -->
 
             <section class="availabe" id="tablecontent">
                 <div class="container-fluid">

@@ -9,16 +9,16 @@ include '../inc/functions.php';
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Slot Mega888 App ᐉ Game Guides & Real Winning Strategies for 2025</title>
-        <meta name="title" content="Slot Mega888 App ᐉ Game Guides & Real Winning Strategies for 2025">
+        <title>Game Guides | Winning Tips & Strategy</title>
+        <meta name="title" content="Game Guides | Winning Tips & Strategy">
         <meta name="description" content="Play smarter with Mega888. Learn how RTP, hot cycles, and real strategies can help you win more. Simple tips, top game picks, and safe play advice at slotmega888.app.">
         <meta name="keywords" content="mega888 overview, mega888 guide, mega888 strategy, mega888 guides, mega888 strategies, mega888 how to, mega888 rtp, rtp mega888">
         <meta property="og:locale" content="en">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://slotmega888.app/mega888-strategies-guides/">
-        <meta property="og:title" content="Slot Mega888 App ᐉ Game Guides & Real Winning Strategies for 2025">
+        <meta property="og:url" content="<?php echo $site_base_url.'mega888-strategies-guides/';?>">
+        <meta property="og:title" content="Game Guides | Winning Tips & Strategy">
         <meta property="adscription" content="Play smarter with Mega888. Learn how RTP, hot cycles, and real strategies can help you win more. Simple tips, top game picks, and safe play advice at slotmega888.app.">
-        <meta property="og:site_name" content="Slot Mega888 App ᐉ Game Guides & Real Winning Strategies for 2025">
+        <meta property="og:site_name" content="Game Guides | Winning Tips & Strategy">
         <meta property="og:image" content="<?php echo $site_base_url.'images/mega888-logo.png';?>">
         <meta property="article:tag" content="mega888 overview">
         <meta property="article:tag" content="mega888 guide">
@@ -28,12 +28,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="mega888 how to">
         <meta property="article:tag" content="mega888 rtp">
         <meta property="article:tag" content="rtp mega888">
-        <meta name="twitter:url" content="https://slotmega888.app/mega888-strategies-guides/">
-        <meta name="twitter:title" content="Slot Mega888 App ᐉ Game Guides & Real Winning Strategies for 2025">
+        <meta name="twitter:url" content="<?php echo $site_base_url.'mega888-strategies-guides/';?>">
+        <meta name="twitter:title" content="Game Guides | Winning Tips & Strategy">
         <meta name="twitter:description" content="Play smarter with Mega888. Learn how RTP, hot cycles, and real strategies can help you win more. Simple tips, top game picks, and safe play advice at slotmega888.app.">
-        <link rel="canonical" href="https://slotmega888.app/mega888-strategies-guides/">
-        <link rel="alternate" hreflang="x-default" href="https://slotmega888.app/mega888-strategies-guides/">
-        <link rel="alternate" hreflang="en" href="https://slotmega888.app/mega888-strategies-guides/">
+        <link rel="canonical" href="<?php echo $site_base_url.'mega888-strategies-guides/';?>">
+        <link rel="alternate" hreflang="x-default" href="<?php echo $site_base_url.'mega888-strategies-guides/';?>">
+        <link rel="alternate" hreflang="en" href="<?php echo $site_base_url.'mega888-strategies-guides/';?>">
         <base href="../<?php echo $page_slug;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -45,13 +45,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://slotmega888.app/"
+                "item": "<?php echo $site_base_url;?>"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Game Guides & Strategies",
-                "item": "https://slotmega888.app/mega888-strategies-guides/"
+                "item": "<?php echo $site_base_url.'mega888-strategies-guides/';?>"
                 }
             ]
             }
