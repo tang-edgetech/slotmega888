@@ -40,7 +40,7 @@
         </div>
         <div class="col-12">
             <div class="copyright text-center">
-                <p class="text-white mb-0"><?php echo date('Y');?> &copy; <a href="https://slotmega888.app/" target="_blank" class="link">slotmega888.app</a>. All rights reserved. | <a href="sitemap.xml" target="_blank" class="link">Sitemap</a> | <a href="responsible-gaming" target="_blank" class="link">Responsible Gaming</a> | <a href="privacy-policy" target="_blank" class="link">Privacy Policy</a></p>
+                <p class="text-white mb-0"><?php echo date('Y');?> &copy; <a href="<?php echo $site_base_url;?>" target="_blank" class="link">slotmega888.app</a>. All rights reserved. | <a href="sitemap.xml" target="_blank" class="link">Sitemap</a> | <a href="responsible-gaming" target="_blank" class="link">Responsible Gaming</a> | <a href="privacy-policy" target="_blank" class="link">Privacy Policy</a></p>
             </div>
         </div>
     </div>
