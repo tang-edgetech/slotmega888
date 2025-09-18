@@ -3,9 +3,9 @@
         <div class="col-12 px-2 px-md-3 py-4 footer-logo">
             <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <picture>
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.webp" type="image/webp">
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" type="image/png">
-                    <img src="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" width="120px" height="120px" class="img-fit" alt="Mega888 Logo"/>
+                    <source srcset="<?php echo $cdn_asset_url;?>/images/mega888apk-logo.webp" type="image/webp">
+                    <source srcset="<?php echo $cdn_asset_url;?>/images/mega888apk-logo.png" type="image/png">
+                    <img src="<?php echo $cdn_asset_url;?>/images/mega888apk-logo.png" width="120px" height="120px" class="img-fit" alt="Mega888 Logo"/>
                 </picture>
             </a>
         </div>
@@ -40,22 +40,22 @@
         </div>
         <div class="col-12">
             <div class="copyright text-center">
-                <p class="text-white mb-0"><?php echo date('Y');?> &copy; <a href="<?php echo $site_base_url;?>" target="_blank" class="link">slotmega888.app</a>. All rights reserved. | <a href="sitemap.xml" target="_blank" class="link">Sitemap</a> | <a href="responsible-gaming" target="_blank" class="link">Responsible Gaming</a> | <a href="privacy-policy" target="_blank" class="link">Privacy Policy</a></p>
+                <p class="text-white mb-0"><?php echo date('Y');?> &copy; <a href="<?= $site_base_url."/";?>" target="_blank" class="link">slotmega888.app</a>. All rights reserved. | <a href="<?= $site_base_url;?>/sitemap.xml" target="_blank" class="link">Sitemap</a> | <a href="<?= $site_base_url;?>/responsible-gaming" target="_blank" class="link">Responsible Gaming</a> | <a href="<?= $site_base_url;?>/privacy-policy" target="_blank" class="link">Privacy Policy</a></p>
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="<?= $site_base_url;?>/js/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="./js/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="<?= $site_base_url;?>/js/swiper-bundle.min.js"></script>
     <?php
     if( !empty($page_slug) ) {
         if( $page_slug == 'home' ) {
-            echo '<script type="text/javascript" src="./js/slotmachine.min.js"></script>';
-            echo '<script type="text/javascript" src="./js/jquery.easing.min.js"></script>';
-            echo '<script type="text/javascript" src="./js/scripts-home.js?v='.$version.'"></script>';
+            echo '<script type="text/javascript" src="'. $site_base_url .'/js/slotmachine.min.js"></script>';
+            echo '<script type="text/javascript" src="'. $site_base_url .'/js/jquery.easing.min.js"></script>';
+            echo '<script type="text/javascript" src="'. $site_base_url .'/js/scripts-home.js?v='.$version.'"></script>';
         }
         if( $page_slug == 'mega888-rtp' ) {
-            echo '<script type="text/javascript" src="./js/scripts-rtp.js?v='.$version.'"></script>';
+            echo '<script type="text/javascript" src="'. $site_base_url .'/js/scripts-rtp.js?v='.$version.'"></script>';
         }
     }
     ?>
@@ -97,7 +97,7 @@
         };
     </script>
     
-    <script id="mega888-script" type="text/javascript" src="./js/scripts.js<?php echo '?v='.$version;?>"></script>
+    <script id="mega888-script" type="text/javascript" src="<?= $site_base_url;?>/js/scripts.js<?php echo '?v='.$version;?>"></script>
 
     <div class="floating-list">
         <div class="floating-list-inner">

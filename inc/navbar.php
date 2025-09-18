@@ -1,12 +1,12 @@
 <header class="masthead px-2 px-xl-3 py-3" id="masthead">
     <nav class="navbar navbar-expand-xl bg-light rounded px-3 pe-xxl-5">
         <div class="navbar-row">
-            <a href="<?php echo $site_base_url;?>" class="navbar-brand">
+            <a href="<?php echo $site_base_url."/";?>" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <picture>
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.webp" type="image/webp">
-                    <source srcset="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" type="image/png">
-                    <img src="<?php echo $cdn_asset_url;?>images/mega888apk-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
+                    <source srcset="<?php echo $cdn_asset_url;?>/images/mega888apk-logo.webp" type="image/webp">
+                    <source srcset="<?php echo $cdn_asset_url;?>/images/mega888apk-logo.png" type="image/png">
+                    <img src="<?php echo $cdn_asset_url;?>/images/mega888apk-logo.png" width="250px" height="250px" alt="Mega888 Logo" class="img-fit">
                 </picture>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,13 +23,13 @@
                     </button>
                     <ul class="navbar-nav nav w-100 w-xl-auto p-4 p-xl-0">
                         <li class="nav-item">
-                            <a href="<?php echo $site_base_url;?>" class="nav-link d-xl-none">Home</a>
+                            <a href="<?php echo $site_base_url."/";?>" class="nav-link d-xl-none">Home</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a href="javascript:void(0);" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mega888 Download</a>
                             <ul class="dropdown-menu">
-                                <li class="dropdown-menu-item"><a class="dropdown-item" href="mega888-apk-download">Mega888 APK</a></li>
-                                <li class="dropdown-menu-item"><a class="dropdown-item" href="mega888-ios-download">Mega888 iOS</a></li>
+                                <li class="dropdown-menu-item"><a class="dropdown-item" href="<?= $site_base_url;?>/mega888-apk-download/">Mega888 APK</a></li>
+                                <li class="dropdown-menu-item"><a class="dropdown-item" href="<?= $site_base_url;?>/mega888-ios-download/">Mega888 iOS</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -40,16 +40,16 @@
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a href="<?php echo $site_base_url;?>mega888-strategies-guides" class="nav-link">Mega888 Strategies & Guides</a>
+                            <a href="<?php echo $site_base_url;?>/mega888-strategies-guides/" class="nav-link">Mega888 Strategies & Guides</a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?php echo $site_base_url;?>mega888-rtp" class="nav-link">Mega888 RTP</a>
+                            <a href="<?php echo $site_base_url;?>/mega888-rtp/" class="nav-link">Mega888 RTP</a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?php echo $site_base_url;?>about-mega888" class="nav-link">About Mega888</a>
+                            <a href="<?php echo $site_base_url;?>/about-mega888/" class="nav-link">About Mega888</a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?php echo $site_base_url;?>contact" class="nav-link">Contact</a>
+                            <a href="<?php echo $site_base_url;?>/contact/" class="nav-link">Contact</a>
                         </li>
                         <li class="nav-item">
                             <button type="button" class="nav-link bg-transparent share-this" id="share-this" data-bs-toggle="modal" data-bs-target="#popupShareThis" aria-label="Share this page"><span class="d-none">Share This</span><?php echo $icon_share_this;?></button>

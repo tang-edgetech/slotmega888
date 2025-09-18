@@ -5,11 +5,20 @@ function isLocalhost() {
 }
 
 if ( isLocalhost() ) {
-    $site_base_url = 'http://localhost/slotmega888/';
-    $cdn_asset_url = $site_base_url;
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $site_base_url = 'http://localhost:8080/slotmega888.app';
+        $cdn_asset_url = $site_base_url;
+    }
+    else {
+        $site_base_url = 'http://localhost/slotmega888';
+        $cdn_asset_url = $site_base_url;
+    }
 }
 else {
-    $site_base_url = 'https://slotmega888.app/';
+    $site_base_url = 'https://slotmega888.app';
     $cdn_asset_url = $site_base_url;
     // $cdn_asset_url = 'https://88mega88slot.b-cdn.net/';
 }
