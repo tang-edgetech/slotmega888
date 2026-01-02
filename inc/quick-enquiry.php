@@ -14,7 +14,7 @@
                     <a href="https://t.ly/NewDT-1" target="_blank" class="btn btn-rounded btn-with-icon btn-whatsapp text-white"><?php echo $icon_whatsapp_white;?><span><b>WhatsApp</b></span></a>
                 </div>
                 <div class="d-grid col-12 col-md-10 mx-auto mt-4">
-                    <a href="https://kaya8aff.com/register/referer/0932d5caaf" target="_blank" class="btn btn-rounded btn-with-icon btn-playnow text-white"><?php echo $icon_playnow;?><span><b>Play Online Now</b></span></a>
+                    <a href="https://kaya88my.com/referer/redirect/Wpmbk5ezJn/5aab563047" target="_blank" class="btn btn-rounded btn-with-icon btn-playnow text-white"><?php echo $icon_playnow;?><span><b>Play Online Now</b></span></a>
                 </div>
             </div>
         </div>
