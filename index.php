@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <html lang="en-MY">
     <head>
         <meta charset="UTF-8">
-        <link rel="canonical" href="<?php echo $site_base_url;?>">   
+        <link rel="canonical" href="https://legge.uk.com/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="mega888apk">
